@@ -15,6 +15,13 @@ def canonical_url(url):
  u=urlsplit(url)
  if u.scheme not in ('http','https') or not u.hostname or u.username or u.password:raise ValueError('Invalid source URL')
  host=u.hostname.lower();path=unquote(u.path).rstrip('/') or '/'
+ # Naver exposes the same post through desktop, mobile and PostView URLs.
+ # Only normalize verified post-shaped paths; unrelated query semantics survive.
+ if host in ('blog.naver.com','m.blog.naver.com'):
+  params=dict(parse_qsl(u.query));match=re.fullmatch(r'/([A-Za-z0-9_-]+)/([0-9]+)',path)
+  if path in ('/PostView.naver','/PostView.nhn') and re.fullmatch(r'[A-Za-z0-9_-]+',params.get('blogId','')) and re.fullmatch(r'[0-9]+',params.get('logNo','')):
+   return 'https://blog.naver.com/'+params['blogId'].lower()+'/'+params['logNo']
+  if match:return 'https://blog.naver.com/'+match[1].lower()+'/'+match[2]
  if host.endswith('.tistory.com') and path.startswith('/m/'):path=path[2:]
  query=[(k,v) for k,v in parse_qsl(u.query) if not k.lower().startswith('utm_') and k.lower() not in ('fbclid','gclid')]
  return urlunsplit(('https',host,quote(path,safe='/@:'),urlencode(sorted(query)),''))
