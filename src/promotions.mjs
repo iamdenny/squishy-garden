@@ -1,11 +1,12 @@
+// Official, unmodified brand-kit assets. Provenance: docs/promotion-assets.md.
 export const promotions=[
- {id:'tools',name:'Everyday Tools',icon:'✦',url:'https://tools.iamdenny.com/',copy:{ko:'계산부터 변환까지, 일상에 필요한 도구를 한곳에서.',en:'Everyday calculators and converters, all in one place.',ja:'計算や変換など、毎日に役立つツールをひとつに。'}},
- {id:'games',name:'Denny Games',icon:'♧',url:'https://games.iamdenny.com/',copy:{ko:'잠깐 쉬어갈까요? 설치 없이 즐기는 웹게임.',en:'Take a little break with games in your browser.',ja:'ちょっとひと休み。インストール不要のブラウザゲーム。'}},
- {id:'modutt',name:'MODU TT · 모두의핑퐁',icon:'◉',url:'https://modutt.kr/',copy:{ko:'탁구 기록부터 대회까지, 탁구 생활을 함께해요.',en:'Table tennis records and tournaments. Korean service.',ja:'卓球の記録から大会まで。韓国語の卓球サービス。'}}
+ {id:'tools',name:'Everyday Tools',url:'https://tools.iamdenny.com/',image:'/promotions/tools-ko.png',width:1080,height:1080},
+ {id:'games',name:'Denny Games',url:'https://games.iamdenny.com/ko/',image:'/promotions/games-ko.png',width:336,height:280},
+ {id:'modutt',name:'MODU TT · 모두의핑퐁',url:'https://modutt.kr/',image:'/promotions/modutt-light.svg',width:300,height:250}
 ];
 export function promotionBlock(lang){
  const label={ko:'광고 · 함께 둘러보세요',en:'Promotion · More to explore',ja:'広告 · こちらもどうぞ'}[lang];
- return '<aside class="promotions" aria-label="'+label+'"><p class="eyebrow">'+label+'</p><div class="promotion-grid">'+promotions.map(p=>{const url=new URL(p.url);if(p.id!=='modutt')url.pathname='/'+lang+'/';url.search=new URLSearchParams({utm_source:'squishy_garden',utm_medium:'cross_promotion',utm_campaign:'craft_discovery'});return '<a class="promotion-card promotion-'+p.id+'" href="'+url.href.replaceAll('&','&amp;')+'" target="_blank" rel="sponsored noopener noreferrer" data-promotion="'+p.id+'"><span class="promotion-icon" aria-hidden="true">'+p.icon+'</span><div><h2>'+p.name+'</h2><p>'+p.copy[lang]+'</p></div><span aria-hidden="true">↗</span></a>'}).join('')+'</div></aside>';
+ return '<aside class="promotions" aria-label="'+label+'"><p class="eyebrow">'+label+'</p><div class="promotion-grid">'+promotions.map(p=>{const url=new URL(p.url);url.search=new URLSearchParams({utm_source:'squishy_garden',utm_medium:'cross_promotion',utm_campaign:'craft_discovery'});return '<a class="promotion-banner" href="'+url.href.replaceAll('&','&amp;')+'" target="_blank" rel="sponsored noopener noreferrer" data-promotion="'+p.id+'"><img src="'+p.image+'" width="'+p.width+'" height="'+p.height+'" alt="'+p.name+' — '+({ko:'서비스 홍보 배너',en:'Korean promotional banner',ja:'韓国語の紹介バナー'}[lang])+'" loading="lazy" decoding="async"></a>'}).join('')+'</div></aside>';
 }
 export function affiliateBlock(lang,config){
  if(!config.enabled||lang!=='ko')return '';
