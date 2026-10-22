@@ -20,7 +20,9 @@
     "firstSeenAt": "2026-10-22",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -45,7 +47,9 @@
     "craftType": "book",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -79,7 +83,9 @@
     "firstSeenAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -117,7 +123,9 @@
     "firstSeenAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -157,7 +165,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -197,7 +207,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -237,7 +249,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -277,7 +291,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -317,7 +333,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -354,7 +372,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -391,7 +411,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -428,7 +450,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -465,7 +489,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -502,7 +528,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -539,7 +567,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -580,7 +610,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -621,7 +653,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -662,7 +696,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -703,7 +739,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -741,7 +779,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -779,7 +819,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -818,7 +860,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -856,7 +900,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -894,7 +940,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -932,7 +980,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -973,7 +1023,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -1012,7 +1064,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   },
   {
@@ -1050,7 +1104,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
     }
   }
 ]
