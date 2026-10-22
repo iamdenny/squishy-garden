@@ -6,3 +6,14 @@ test('original print templates contain six cube faces, seven unique joining tabs
 test('character aliases and discovery dates support finding new patterns',async()=>{const extras=JSON.parse(await readFile(new URL('../src/catalog-extra.json',import.meta.url)));for(const q of ['시나모롤','Kuromi','クロミ','산리오 쿠로미'])assert(selectItems(extras,{q}).some(i=>i.id==='sanrio-diy'));assert.equal(selectItems([{id:'old',title:{ko:'old'},firstSeenAt:'2026-01-01',checkedAt:'2026-12-01'},{id:'new',title:{ko:'new'},firstSeenAt:'2026-02-01'}],{sort:'newest'})[0].id,'new');});
 test('curated sources have unique URLs, translated titles and intersecting access/book filters',async()=>{const extras=JSON.parse(await readFile(new URL('../src/catalog-extra.json',import.meta.url)));assert.equal(new Set(extras.map(i=>i.urls.ko)).size,extras.length);for(const i of extras){assert.equal(i.rights,'source-only');for(const lang of ['ko','en','ja'])assert(i.title[lang]?.trim());assert(['free','paid','unknown'].includes(i.access))}const books=selectItems(extras,{craftType:'book',access:'free'});assert(books.length>=2);assert(books.every(i=>i.access==='free'&&i.craftType==='book'));assert(!books.some(i=>i.id==='sowony-sweet-game'));assert.equal(selectItems(extras,{access:'paid',craftType:'book'})[0].id,'sowony-sweet-game');});
 test('common Korean spelling variants preserve specific character matches',async()=>{const extras=JSON.parse(await readFile(new URL('../src/catalog-extra.json',import.meta.url)));for(const q of ['메타몽 스퀴즈','메타몽 스퀴쉬'])assert(selectItems(extras,{q}).some(i=>i.id==='ryong-ditto-book'));});
+test('default discovery puts confirmed missing sources last without losing saved or exact matches',()=>{
+ const missing={id:'missing',title:{ko:'가 도안'},health:{status:'unverified',lastConfirmedStatus:'unavailable'}};
+ const uncertain={id:'uncertain',title:{ko:'나 도안'},health:{status:'unverified'}};
+ const recovered={id:'recovered',title:{ko:'다 도안'},health:{status:'reachable',lastConfirmedStatus:'reachable'}};
+ const rows=[missing,uncertain,recovered];
+ assert.deepEqual(selectItems(rows).map(i=>i.id),['uncertain','recovered','missing']);
+ assert.deepEqual(selectItems(rows,{saved:true},['missing']).map(i=>i.id),['missing']);
+ assert.deepEqual(selectItems(rows,{q:'가 도안'}).map(i=>i.id),['missing']);
+ assert.deepEqual(selectItems(rows,{sort:'name'}).map(i=>i.id),['missing','uncertain','recovered']);
+ assert.deepEqual(rows.map(i=>i.id),['missing','uncertain','recovered']);
+});

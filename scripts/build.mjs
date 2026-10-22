@@ -6,14 +6,14 @@ import {originals,art,printable,assembly} from '../src/originals.mjs';
 import {text} from '../src/i18n.mjs';
 import {collections} from '../src/collections.mjs';
 import {promotionBlock,affiliateBlock,surroundingAds,affiliateCompact} from '../src/promotions.mjs';
-import {selectItems} from '../src/search.mjs';
+import {selectItems,sourceUnavailable} from '../src/search.mjs';
 const config=JSON.parse(await readFile('site.json')),external=JSON.parse(await readFile('src/catalog-external.json'));
 const extras=JSON.parse(await readFile('src/catalog-extra.json'));
 const affiliate=JSON.parse(await readFile('src/affiliate.json'));
 const freshness=JSON.parse(await readFile('src/freshness.json'));
 const featuredIds=['rosazzing-cinnamoroll','ryong-ditto-book','rosazzing-labubu','gripipi-unicorn-wallet','sanrio-diy','pokemon-bread','h-squishy0192','h-squishy0139','gripipi-rice-house','sowony-sweet-game','h-squishy0197','h-squishy0234','h-squishySet0019','h-squishy0245','h-squishy0142','h-squishy0138'];
 const allItems=[...originals,...extras,...external];
-const items=[...featuredIds.map(id=>allItems.find(i=>i.id===id)).filter(Boolean),...allItems.filter(i=>!featuredIds.includes(i.id))],base='https://'+config.domain,langs=config.locales;
+const items=selectItems([...featuredIds.map(id=>allItems.find(i=>i.id===id)).filter(Boolean),...allItems.filter(i=>!featuredIds.includes(i.id))]),base='https://'+config.domain,langs=config.locales;
 const esc=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const json=v=>JSON.stringify(v).replace(/</g,'\\u003c');
 await rm('dist',{recursive:true,force:true});await mkdir('dist',{recursive:true});await cp('public','dist',{recursive:true});
@@ -25,7 +25,7 @@ for(const item of originals){for(const lang of langs){await put(`patterns/${lang
 await put('art/assembly.svg',assembly());
 const categoryArt={food:'strawberry',animals:'bear',nature:'cloud',seasonal:'star',play:'milk'};
 const preview=i=>i.thumbnail||`/art/${i.kind==='original'?i.id:categoryArt[i.category]}.svg`;
-const healthNote=(i,lang)=>i.health&&i.health.status!=='reachable'?`<p class="freshness-warning">${i.health.status==='unavailable'?{ko:'원문 링크가 현재 열리지 않습니다. 제작자 사이트에서 제공 여부를 확인해 주세요.',en:'This source link is currently unavailable. Check the creator’s site.',ja:'元のリンクは現在開けません。制作者のサイトをご確認ください。'}[lang]:{ko:'최근 자동 확인에 실패했습니다. 제공 여부는 원문을 확인해 주세요.',en:'The latest automatic check failed. Check the source for availability.',ja:'最新の自動確認に失敗しました。提供状況は原文をご確認ください。'}[lang]}</p>`:'';
+const healthNote=(i,lang)=>i.health&&i.health.status!=='reachable'?`<p class="freshness-warning">${sourceUnavailable(i)?{ko:'이전 확인에서 원문 링크가 열리지 않았고, 복구는 아직 확인되지 않았습니다.',en:'The source was unavailable at its last confirmed check; recovery has not been verified.',ja:'前回の確認では元のリンクが開けず、復旧はまだ確認できていません。'}[lang]:{ko:'최근 자동 확인에 실패했습니다. 제공 여부는 원문을 확인해 주세요.',en:'The latest automatic check failed. Check the source for availability.',ja:'最新の自動確認に失敗しました。提供状況は原文をご確認ください。'}[lang]}</p>`:'';
 const link=(lang,rest='')=>`/${lang}/${rest}`;
 function shell(lang,rest,title,desc,body,{schema=[],noindex=false}={}){
  const t=text[lang],url=base+link(lang,rest),metadata={'@context':'https://schema.org','@type':'WebPage',name:title,description:desc,url,inLanguage:lang,isPartOf:{'@type':'WebSite',name:'Squishy Garden',url:base}};

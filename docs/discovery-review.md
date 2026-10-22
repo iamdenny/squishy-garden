@@ -13,3 +13,7 @@ Review each pending candidate:
 5. Inspect the generated detail page, commit and deploy, then verify the public release.
 
 This is incremental discovery of the most recent 50 posts in each feed, not an exhaustive historical crawl. Older posts and new creators require separate review. Candidate discovery does not change public prices, translations or availability by itself. Do not claim that every creator's new post is automatically published.
+
+## Source health in discovery
+
+Default discovery ranks confirmed 404/410 sources after other matching patterns. Exact searches and saved items still retain these entries and their detail pages, so saved links do not disappear. Explicit name/newest sorting remains unchanged. A timeout, rate limit or robots restriction does not establish deletion. The collector records the latest attempt separately from `lastConfirmedStatus` and `lastConfirmedAt`; a transient error cannot erase a previous confirmed unavailable state, and a successful source check restores normal ordering. Legacy health records migrate on their next check.

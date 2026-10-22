@@ -98,6 +98,13 @@ def check_extra(row):
   check={'id':row['id'],'status':'unavailable' if error.code in (404,410) else 'unverified','checkedAt':TODAY,'httpStatus':error.code}
  except Exception as error:
   check={'id':row['id'],'status':'manual_required' if str(error).startswith('robots excludes ') else 'unverified','checkedAt':TODAY}
+ previous=row.get('health',{})
+ if check['status'] in ('reachable','unavailable'):
+  check.update(lastConfirmedStatus=check['status'],lastConfirmedAt=TODAY)
+ else:
+  confirmed=previous.get('lastConfirmedStatus',previous.get('status'))
+  if confirmed in ('reachable','unavailable'):
+   check.update(lastConfirmedStatus=confirmed,lastConfirmedAt=previous.get('lastConfirmedAt',previous.get('checkedAt',row.get('checkedAt'))))
  row['health']={k:v for k,v in check.items() if k!='id'}
  return check
 

@@ -23,4 +23,21 @@ class SourceIsolationTest(unittest.TestCase):
   with patch.object(m,'allowed_get',return_value='<h1>Pattern</h1>'):self.assertEqual(m.check_extra(row)['status'],'reachable')
   self.assertEqual(row['checkedAt'],m.TODAY)
 
+class ConfirmationHistoryTest(unittest.TestCase):
+ def test_missing_timeout_then_recovery(self):
+  row={'id':'test','urls':{'ko':'https://example.com/pattern'}}
+  with patch.object(m,'allowed_get',side_effect=m.HTTPError(row['urls']['ko'],404,'missing',{},None)):m.check_extra(row)
+  self.assertEqual(row['health']['lastConfirmedStatus'],'unavailable')
+  with patch.object(m,'allowed_get',side_effect=TimeoutError()):m.check_extra(row)
+  self.assertEqual(row['health']['status'],'unverified')
+  self.assertEqual(row['health']['lastConfirmedStatus'],'unavailable')
+  with patch.object(m,'allowed_get',return_value='<h1>Pattern restored</h1>'):m.check_extra(row)
+  self.assertEqual(row['health']['lastConfirmedStatus'],'reachable')
+ def test_legacy_missing_and_initial_failure(self):
+  for previous,expected in [({'status':'unavailable','checkedAt':'2026-01-01'},'unavailable'),({},None)]:
+   row={'id':'test','urls':{'ko':'https://example.com/pattern'},'health':previous}
+   with patch.object(m,'allowed_get',side_effect=TimeoutError()):m.check_extra(row)
+   self.assertEqual(row['health'].get('lastConfirmedStatus'),expected)
+   if expected:self.assertEqual(row['health']['lastConfirmedAt'],'2026-01-01')
+
 if __name__=='__main__':unittest.main()
