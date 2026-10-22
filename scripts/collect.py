@@ -1,40 +1,87 @@
-"""Collect public catalog names and canonical source links only, never pattern files.
-One request at a time; robots checked; 1 second between listing pages.
+"""Refresh approved public catalogs; metadata only, one request/second, fail closed.
+Full listing traversal finds new/removed entries. Rotating detail checks cover every
+entry over time. Failure preserves the last successfully published catalog.
 """
-import json,time,urllib.request,re
+import json,time,urllib.request,re,os
 from html.parser import HTMLParser
 from urllib.robotparser import RobotFileParser
 from pathlib import Path
+from datetime import datetime,timezone
 BASE='https://hyeriming.com'
+UA='SquishyGardenCatalog/1.0 (+https://squishy.iamdenny.com/en/about/)'
+NOW=datetime.now(timezone.utc);TODAY=NOW.date().isoformat()
 class Listing(HTMLParser):
- def __init__(self):super().__init__();self.items={};self.href=None
+ def __init__(self):super().__init__();self.items={};self.href=None;self.pages=1
  def handle_starttag(self,t,a):
   d=dict(a)
-  if t=='a':self.href=d.get('href')
-  if t=='img' and self.href and re.search(r'/print/squishy\d+/$',self.href):
+  if t=='a':
+   self.href=d.get('href','');m=re.search(r'/squishy/page/(\d+)/',self.href)
+   if m:self.pages=max(self.pages,int(m[1]))
+  if t=='img' and self.href and re.search(r'/print/squishy(?:Set)?\d+/$',self.href):
    key=self.href.rstrip('/').split('/')[-1];self.items[key]={'title':d.get('alt',''),'url':BASE+self.href}
  def handle_endtag(self,t):
   if t=='a':self.href=None
-ua='SquishyGardenCatalog/1.0 (+https://squishy.iamdenny.com/ko/about/)'
-def get(url):
- req=urllib.request.Request(url,headers={'User-Agent':ua})
- with urllib.request.urlopen(req,timeout=30) as r:return r.read().decode()
-robots=RobotFileParser();robots.parse(get(BASE+'/robots.txt').splitlines())
-rows={}
-for lang in ['ko','en','ja']:
- for page in range(1,11):
-  url=f'{BASE}/{lang}/squishy/'+(f'page/{page}/' if page>1 else '')
-  if not robots.can_fetch(ua,url):raise RuntimeError('robots excludes '+url)
-  p=Listing();p.feed(get(url))
-  if not p.items:raise RuntimeError('No catalog items '+url)
-  for key,v in p.items.items():
-   row=rows.setdefault(key,{'id':'h-'+key,'title':{},'urls':{},'creator':'Hyeriming','kind':'external','access':'free','checkedAt':'2026-10-22','rights':'source-only','category':'food','difficulty':'unknown'})
-   row['title'][lang]=v['title'];row['urls'][lang]=v['url']
-  print(lang,page,len(p.items),flush=True);time.sleep(1)
-for row in rows.values():
- t=row['title']['ko']
- if re.search('유령|눈알|호박|몬스터|마녀|박쥐|크리스마스|산타|할로윈|송편',t):row['category']='seasonal'
- elif re.search('고양이|강아지|토끼|곰|판다|햄스터|오리|펭귄|동물|여우|돼지|개구리|고래|공룡|고슴도치|다람쥐',t):row['category']='animals'
- elif re.search('세트|랜덤|뽑기|가게|마트|자판기',t):row['category']='play'
-Path('src/catalog-external.json').write_text(json.dumps(list(rows.values()),ensure_ascii=False,indent=2))
-print('Collected',len(rows))
+robots={}
+def request(url):
+ for attempt in range(3):
+  try:
+   time.sleep(1)
+   req=urllib.request.Request(url,headers={'User-Agent':UA})
+   with urllib.request.urlopen(req,timeout=30) as r:
+    if r.status!=200:raise RuntimeError('Unexpected status')
+    return r.read(4_000_000).decode('utf-8')
+  except Exception:
+   if attempt==2:raise
+   time.sleep(2**attempt)
+def allowed_get(url):
+ from urllib.parse import urlsplit
+ u=urlsplit(url);origin=u.scheme+'://'+u.netloc
+ if origin not in robots:
+  parser=RobotFileParser();parser.parse(request(origin+'/robots.txt').splitlines());robots[origin]=parser
+ if not robots[origin].can_fetch(UA,url):raise RuntimeError('robots excludes '+url)
+ return request(url)
+def validate_rows(rows,old):
+ if len(rows)<100 or (old and len(rows)<len(old)*.8):raise RuntimeError('Unexpected catalog drop; preserving previous data')
+ for row in rows:
+  if set(row['title'])!={'ko','en','ja'} or any(not v.strip() for v in row['title'].values()):raise RuntimeError('Incomplete translation '+row['id'])
+  if len(row['title']['ko'])>250:raise RuntimeError('Invalid title')
+def main():
+ rows={};path=Path('src/catalog-external.json');old=json.loads(path.read_text()) if path.exists() else []
+ for lang in ['ko','en','ja']:
+  first=Listing();first.feed(allowed_get(f'{BASE}/{lang}/squishy/'))
+  if not 1<=first.pages<=100:raise RuntimeError('Pagination outside budget')
+  for page in range(1,first.pages+1):
+   p=first
+   if page>1:p=Listing();p.feed(allowed_get(f'{BASE}/{lang}/squishy/page/{page}/'))
+   if not p.items:raise RuntimeError('Empty listing')
+   for key,v in p.items.items():
+    row=rows.setdefault(key,{'id':'h-'+key,'title':{},'urls':{},'creator':'Hyeriming','kind':'external','access':'free','checkedAt':TODAY,'rights':'source-only','category':'food','difficulty':'unknown'})
+    row['title'][lang]=v['title'];row['urls'][lang]=v['url']
+   print(lang,page,len(p.items),flush=True)
+ for row in rows.values():
+  t=row['title'].get('ko','')
+  if re.search('세트|랜덤|뽑기|가게|마트|자판기',t):row['category']='play'
+  elif re.search('유령|눈알|호박|몬스터|마녀|박쥐|크리스마스|산타|할로윈|송편',t):row['category']='seasonal'
+  elif re.search('고양이|강아지|토끼|곰|판다|햄스터|오리|펭귄|동물|여우|돼지|개구리|고래|공룡|고슴도치|다람쥐',t):row['category']='animals'
+ result=list(rows.values());validate_rows(result,old)
+ # Existing checkedAt means listing presence; detailCheckedAt is separately evidenced.
+ oldmap={i['id']:i for i in old}
+ for row in result:
+  previous=oldmap.get(row['id'],{})
+  if previous.get('detailCheckedAt'):row['detailCheckedAt']=previous['detailCheckedAt']
+ offset=(NOW.date().toordinal()*12)%len(result)
+ sample=[result[(offset+i)%len(result)] for i in range(min(12,len(result)))]
+ for row in sample:
+  html=allowed_get(row['urls']['ko'])
+  if '<h1' not in html or row['urls']['ko'] not in html:raise RuntimeError('Detail page changed '+row['id'])
+  row['detailCheckedAt']=TODAY
+ # Other curated providers are checked for reachability; changes never invent prices.
+ extras=json.loads(Path('src/catalog-extra.json').read_text());checks=[]
+ for row in extras:
+  html=allowed_get(row['urls']['ko'])
+  if '<h1' not in html:raise RuntimeError('Source page changed '+row['id'])
+  checks.append({'id':row['id'],'status':'reachable','checkedAt':TODAY})
+ state={'lastSuccessfulCheck':NOW.isoformat(),'source':'https://hyeriming.com/ko/squishy/','listings':len(result),'detailChecks':len(sample),'otherSourceChecks':checks,'schedule':'Daily 06:23 Asia/Seoul','scope':'Approved source catalog names and links; rotating detail checks; no pattern redistribution.'}
+ path.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');Path('src/freshness.json').write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n')
+ print('Collected',len(result),'validated records')
+if __name__=='__main__':main()

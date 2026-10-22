@@ -1596,7 +1596,7 @@
     "access": "free",
     "checkedAt": "2026-10-22",
     "rights": "source-only",
-    "category": "animals",
+    "category": "play",
     "difficulty": "unknown"
   },
   {
@@ -1657,7 +1657,8 @@
     "checkedAt": "2026-10-22",
     "rights": "source-only",
     "category": "play",
-    "difficulty": "unknown"
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0162",
@@ -1677,7 +1678,8 @@
     "checkedAt": "2026-10-22",
     "rights": "source-only",
     "category": "play",
-    "difficulty": "unknown"
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0161",
@@ -1696,8 +1698,9 @@
     "access": "free",
     "checkedAt": "2026-10-22",
     "rights": "source-only",
-    "category": "animals",
-    "difficulty": "unknown"
+    "category": "play",
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0160",
@@ -1716,8 +1719,9 @@
     "access": "free",
     "checkedAt": "2026-10-22",
     "rights": "source-only",
-    "category": "animals",
-    "difficulty": "unknown"
+    "category": "play",
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0159",
@@ -1736,8 +1740,9 @@
     "access": "free",
     "checkedAt": "2026-10-22",
     "rights": "source-only",
-    "category": "animals",
-    "difficulty": "unknown"
+    "category": "play",
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0158",
@@ -1757,7 +1762,8 @@
     "checkedAt": "2026-10-22",
     "rights": "source-only",
     "category": "play",
-    "difficulty": "unknown"
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0157",
@@ -1777,7 +1783,8 @@
     "checkedAt": "2026-10-22",
     "rights": "source-only",
     "category": "play",
-    "difficulty": "unknown"
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0156",
@@ -1797,7 +1804,8 @@
     "checkedAt": "2026-10-22",
     "rights": "source-only",
     "category": "play",
-    "difficulty": "unknown"
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0155",
@@ -1816,8 +1824,9 @@
     "access": "free",
     "checkedAt": "2026-10-22",
     "rights": "source-only",
-    "category": "animals",
-    "difficulty": "unknown"
+    "category": "play",
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0154",
@@ -1837,7 +1846,8 @@
     "checkedAt": "2026-10-22",
     "rights": "source-only",
     "category": "play",
-    "difficulty": "unknown"
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0153",
@@ -1856,8 +1866,9 @@
     "access": "free",
     "checkedAt": "2026-10-22",
     "rights": "source-only",
-    "category": "animals",
-    "difficulty": "unknown"
+    "category": "play",
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0152",
@@ -1877,7 +1888,8 @@
     "checkedAt": "2026-10-22",
     "rights": "source-only",
     "category": "play",
-    "difficulty": "unknown"
+    "difficulty": "unknown",
+    "detailCheckedAt": "2026-10-22"
   },
   {
     "id": "h-squishy0145",
@@ -3556,7 +3568,7 @@
     "access": "free",
     "checkedAt": "2026-10-22",
     "rights": "source-only",
-    "category": "animals",
+    "category": "play",
     "difficulty": "unknown"
   },
   {
@@ -4357,6 +4369,426 @@
     "checkedAt": "2026-10-22",
     "rights": "source-only",
     "category": "food",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0026",
+    "title": {
+      "ko": "할로윈 간식 종이스퀴시 세트",
+      "en": "Halloween Treat Squishy Set",
+      "ja": "ハロウィンのお菓子 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0026/",
+      "en": "https://hyeriming.com/en/print/squishySet0026/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0026/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0025",
+    "title": {
+      "ko": "겨울 간식 종이스퀴시 세트",
+      "en": "Winter Snack Squishy Set",
+      "ja": "韓国の冬のおやつ 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0025/",
+      "en": "https://hyeriming.com/en/print/squishySet0025/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0025/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0024",
+    "title": {
+      "ko": "만두말랑이 세트",
+      "en": "Dumpling Squishy Set",
+      "ja": "餃子スクイーズ・カラーバリエーション 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0024/",
+      "en": "https://hyeriming.com/en/print/squishySet0024/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0024/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0023",
+    "title": {
+      "ko": "말랑이 인형 세트",
+      "en": "Mallang-i Doll Set",
+      "ja": "マランイ人形キャラクター 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0023/",
+      "en": "https://hyeriming.com/en/print/squishySet0023/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0023/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0022",
+    "title": {
+      "ko": "차례상 전 세트",
+      "en": "Jeon Food Set",
+      "ja": "韓国の名節料理・ジョン 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0022/",
+      "en": "https://hyeriming.com/en/print/squishySet0022/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0022/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0021",
+    "title": {
+      "ko": "과일 종이스퀴시 세트",
+      "en": "Fruit Squishy Set",
+      "ja": "フルーツ9種 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0021/",
+      "en": "https://hyeriming.com/en/print/squishySet0021/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0021/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0020",
+    "title": {
+      "ko": "바다생물 랜덤뽑기 세트",
+      "en": "Sea Animal Set",
+      "ja": "海の生き物ランダムくじ 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0020/",
+      "en": "https://hyeriming.com/en/print/squishySet0020/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0020/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0019",
+    "title": {
+      "ko": "고양이 랜덤뽑기 세트",
+      "en": "Mystery Cat Set",
+      "ja": "猫のランダムくじ 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0019/",
+      "en": "https://hyeriming.com/en/print/squishySet0019/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0019/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0017",
+    "title": {
+      "ko": "동물 모양 도시락 세트",
+      "en": "Animal-Shaped Lunchbox Set",
+      "ja": "動物モチーフのお弁当 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0017/",
+      "en": "https://hyeriming.com/en/print/squishySet0017/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0017/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0016",
+    "title": {
+      "ko": "동물 모양 디저트 세트",
+      "en": "Animal-Shaped Dessert Set",
+      "ja": "動物モチーフのスイーツ 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0016/",
+      "en": "https://hyeriming.com/en/print/squishySet0016/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0016/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0014",
+    "title": {
+      "ko": "샌드위치 만들기 세트",
+      "en": "Make Your Own Sandwich Set",
+      "ja": "サンドイッチの具材 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0014/",
+      "en": "https://hyeriming.com/en/print/squishySet0014/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0014/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0013",
+    "title": {
+      "ko": "컵케이크 종이스퀴시 세트",
+      "en": "Cupcake Paper Squishy Set",
+      "ja": "カップケーキ 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0013/",
+      "en": "https://hyeriming.com/en/print/squishySet0013/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0013/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0012",
+    "title": {
+      "ko": "쫀득쿠키 종이스퀴시 세트",
+      "en": "Chewy Cookie Paper Squishy Set",
+      "ja": "もちもちクッキー 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0012/",
+      "en": "https://hyeriming.com/en/print/squishySet0012/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0012/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0011",
+    "title": {
+      "ko": "과일산도 종이스퀴시",
+      "en": "Fruit Sandwich Paper Squishy",
+      "ja": "フルーツサンド 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0011/",
+      "en": "https://hyeriming.com/en/print/squishySet0011/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0011/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "food",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0010",
+    "title": {
+      "ko": "두바이 간식 세트 스퀴시",
+      "en": "Dubai Snack Paper Squishy Set",
+      "ja": "ドバイ風スイーツ 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0010/",
+      "en": "https://hyeriming.com/en/print/squishySet0010/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0010/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0009",
+    "title": {
+      "ko": "초밥 종이스퀴시",
+      "en": "Sushi Paper Squishy Set",
+      "ja": "お寿司 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0009/",
+      "en": "https://hyeriming.com/en/print/squishySet0009/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0009/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "food",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0008",
+    "title": {
+      "ko": "아이스크림 만들기 세트",
+      "en": "Ice Cream Making Paper Squishy Set",
+      "ja": "アイスクリーム作り 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0008/",
+      "en": "https://hyeriming.com/en/print/squishySet0008/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0008/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0007",
+    "title": {
+      "ko": "다양한 빵 종이스퀴시",
+      "en": "Bread Paper Squishy Set",
+      "ja": "いろいろなパン 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0007/",
+      "en": "https://hyeriming.com/en/print/squishySet0007/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0007/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "food",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0006",
+    "title": {
+      "ko": "편의점 삼각김밥 세트",
+      "en": "Convenience Store Triangle Kimbap Paper Squishy Set",
+      "ja": "三角キンパ 紙スクイーズ"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0006/",
+      "en": "https://hyeriming.com/en/print/squishySet0006/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0006/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0002",
+    "title": {
+      "ko": "사각 동물 종이 스퀴시 세트",
+      "en": "Square Animal Paper Squishy Set",
+      "ja": "四角い動物の紙スクイーズ無料型紙｜印刷して作れるセット"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0002/",
+      "en": "https://hyeriming.com/en/print/squishySet0002/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0002/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
+    "difficulty": "unknown"
+  },
+  {
+    "id": "h-squishySet0001",
+    "title": {
+      "ko": "햄버거 만들기 종이 스퀴시 세트",
+      "en": "Hamburger Making Paper Squishy Set",
+      "ja": "ハンバーガー作りの紙スクイーズ無料型紙｜印刷して作れるセット"
+    },
+    "urls": {
+      "ko": "https://hyeriming.com/ko/print/squishySet0001/",
+      "en": "https://hyeriming.com/en/print/squishySet0001/",
+      "ja": "https://hyeriming.com/ja/print/squishySet0001/"
+    },
+    "creator": "Hyeriming",
+    "kind": "external",
+    "access": "free",
+    "checkedAt": "2026-10-22",
+    "rights": "source-only",
+    "category": "play",
     "difficulty": "unknown"
   }
 ]

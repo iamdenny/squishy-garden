@@ -1,0 +1,20 @@
+{
+  "lastSuccessfulCheck": "2026-10-22T14:35:11.473914+00:00",
+  "source": "https://hyeriming.com/ko/squishy/",
+  "listings": 239,
+  "detailChecks": 12,
+  "otherSourceChecks": [
+    {
+      "id": "gripipi-rice-house",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "sowony-sweet-game",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  ],
+  "schedule": "Daily 06:23 Asia/Seoul",
+  "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution."
+}
