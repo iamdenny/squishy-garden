@@ -1,0 +1,20 @@
+[
+  {
+    "sourceId": "gripipi",
+    "status": "reachable",
+    "checkedAt": "2026-10-22T15:51:27.768954+00:00",
+    "matchingItems": 1
+  },
+  {
+    "sourceId": "rosazzing",
+    "status": "reachable",
+    "checkedAt": "2026-10-22T15:51:27.768954+00:00",
+    "matchingItems": 14
+  },
+  {
+    "sourceId": "ryong",
+    "status": "reachable",
+    "checkedAt": "2026-10-22T15:51:27.768954+00:00",
+    "matchingItems": 0
+  }
+]
