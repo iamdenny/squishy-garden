@@ -33,3 +33,5 @@ The final readback job verifies the served commit and HTTPS endpoints. To roll b
 Release `c9b1571f21ab3e3dbc7fd22201f209a8d1568143` served over valid HTTPS. Workflow run [39798876480](https://github.com/iamdenny/squishy-garden/actions/runs/39798876480) passed build, deployment and public readback. HTTP redirects to HTTPS.
 
 Manual refresh run [39799039646](https://github.com/iamdenny/squishy-garden/actions/runs/39799039646) successfully collected, tested and committed revision `e2239b644b49f66ab8efdfb50b4d47add797ba84`. Collection completed at 2026-10-22T14:56:21Z with 239 listings and 12 rotating detail checks. Check that run's deployment/readback jobs for final rollout status.
+
+The manual refresh deployment subsequently completed successfully. Public HTTPS readback confirmed revision `e2239b644b49f66ab8efdfb50b4d47add797ba84` and all locale, sitemap and freshness endpoints. Thus collection → validation → automatic commit → deployment → public readback has been exercised end to end. Documentation-only commits use `[skip ci]`; the serving revision intentionally identifies the last application/catalog deployment.
