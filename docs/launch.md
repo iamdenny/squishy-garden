@@ -39,3 +39,9 @@ The manual refresh deployment subsequently completed successfully. Public HTTPS 
 ## Discovery refresh, 2026-10-23 KST
 
 251 entries now include 243 creator-hosted preview URLs. No external image binaries or pattern files are stored in this repository. External cards and hero previews open creator sources directly; a separate Details link retains provenance and indexed information. Daily collection refreshes previews, including expiring source preview URLs, and preserves first discovery dates. Six localized collection pages add crawlable character/topic entry points. Search includes character aliases in Korean/English/Japanese and recently-added ordering. A visible warning appears after 72 hours without a successful catalog check. New source availability and preview refresh were exercised locally; 783 indexable pages passed metadata/link validation.
+
+## Promotions, 2026-10-23 KST
+
+Added three labeled, localized cross-promotion cards for tools.iamdenny.com, games.iamdenny.com and modutt.kr, with campaign UTM parameters. GA4 `promotion_click` records partner and placement only when analytics consent is present. No ads are emitted on print/noindex or privacy/about routes.
+
+Coupang channel `https://squishy.iamdenny.com` was saved and read back after reload. The owner explicitly authorized the provider's compliance confirmation. The provider issued `https://link.coupang.com/a/h3OyC5PWkm` for the observed “스퀴시 만들기 재료” search destination. The Korean-only static card includes the provider's commission disclosure and sponsored/nofollow relationships, with no ad SDK, iframe or provider image loaded. Registration and link issuance do not establish final approval or payout readiness; provider review screenshot remains a separate step. The site remains a free discovery/printing service with incidental advertising and no checkout.

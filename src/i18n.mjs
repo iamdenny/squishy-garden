@@ -16,3 +16,6 @@ text.ja.sourcePolicy='オリジナル型紙はCC BY 4.0です。外部の型紙�
 text.ko.privacyBody+=' 제작자 미리보기 이미지는 외부 이미지 서버에서 불러오므로 해당 서버에 IP 주소 등의 기본 접속 정보가 전달됩니다. 검색어가 담긴 페이지 주소는 이미지 서버에 보내지 않습니다.';
 text.en.privacyBody+=' Creator previews load from external image servers, which receive basic connection information such as your IP address. The page URL containing search terms is not sent with image requests.';
 text.ja.privacyBody+=' 制作者のプレビューは外部サーバーから読み込むため、IPアドレスなどの接続情報が送信されます。検索語を含むページURLは画像サーバーに送信しません。';
+text.ko.privacyBody+=' 홍보·쿠팡 제휴 카드는 일반 외부 링크이며 클릭 전 광고업체 스크립트를 불러오지 않습니다. 클릭하면 해당 서비스로 이동하며 그 서비스의 개인정보 처리방침이 적용됩니다. 동의한 방문자의 광고 클릭은 서비스 이름만 GA4에 기록합니다.';
+text.en.privacyBody+=' Promotion cards are ordinary external links and load no advertising scripts before a click. Destination privacy policies apply after following a link. With analytics consent, promotion clicks record only the service name in GA4.';
+text.ja.privacyBody+=' 広告カードは通常の外部リンクで、クリック前に広告スクリプトは読み込みません。移動後は各サービスのプライバシーポリシーが適用されます。分析に同意した場合、広告クリックはサービス名のみGA4に記録します。';
