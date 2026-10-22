@@ -20,3 +20,10 @@ export function surroundingAds(lang){
  const banner=(id,image,width,height,placement)=>{const p=promotions.find(p=>p.id===id);return `<aside class="ad-${placement}" aria-label="${label} · ${p.name}"><small>${label}</small><a href="${p.url}?utm_source=squishy_garden&amp;utm_medium=cross_promotion&amp;utm_campaign=${placement}" target="_blank" rel="sponsored noopener noreferrer" data-promotion="${id}" data-placement="${placement}"><img src="/promotions/${image}" width="${width}" height="${height}" alt="${p.name}" loading="lazy"></a></aside>`};
  return banner('tools','tools-wide.png',1500,500,'top')+banner('modutt','modutt-tall.svg',160,600,'left')+banner('games','games-tall.png',160,600,'right');
 }
+
+export function affiliateCompact(lang,config,placement){
+ if(!config.enabled||lang!=='ko')return '';
+ const url=new URL(config.url);
+ if(!config.channelRegistered||url.protocol!=='https:'||url.hostname!=='link.coupang.com'||!url.pathname.startsWith('/a/'))throw Error('Verified Coupang link required');
+ return `<aside class="coupang-compact coupang-${placement}" aria-label="쿠팡 파트너스 광고"><div><small>광고 · 쿠팡 파트너스</small><h2>종이·테이프·솜, 준비물 챙기기</h2><p>만들 도안에 맞는 재료와 상품 구성을 확인해 주세요.</p></div><a class="button" href="${url.href}" target="_blank" rel="sponsored nofollow noopener noreferrer" data-promotion="coupang" data-placement="${placement}">쿠팡에서 준비물 보기 ↗</a><p class="affiliate-disclosure">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p></aside>`;
+}
