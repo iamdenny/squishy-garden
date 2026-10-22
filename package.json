@@ -1,0 +1,1 @@
+{"name":"squishy-garden","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test","verify":"npm test && npm run build && node scripts/check.mjs","dev":"node scripts/serve.mjs","collect":"python3 scripts/collect.py"},"engines":{"node":">=22"}}

@@ -1,0 +1,1 @@
+Use ghr for all GitHub CLI operations. ghr.profile=iamdenny. Commit as Denny Lim <hi.iamdenny@gmail.com>. Run npm run verify before deployment. Never copy third-party pattern files without explicit redistribution rights. Record source URLs and verification dates; do not invent creator metadata or popularity. Preserve existing work.
