@@ -1,5 +1,5 @@
 {
-  "lastSuccessfulCheck": "2026-10-22T14:56:21.177648+00:00",
+  "lastSuccessfulCheck": "2026-10-22T15:07:57.593362+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
@@ -11,6 +11,16 @@
     },
     {
       "id": "sowony-sweet-game",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "pokemon-bread",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "sanrio-diy",
       "status": "reachable",
       "checkedAt": "2026-10-22"
     }

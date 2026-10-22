@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name 'Denny Lim'
           git config user.email 'hi.iamdenny@gmail.com'
-          git add src/catalog-external.json src/freshness.json
+          git add src/catalog-external.json src/catalog-extra.json src/freshness.json
           if ! git diff --cached --quiet; then
             git commit -m 'chore: refresh verified pattern catalog'
             git push origin HEAD:main

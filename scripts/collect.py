@@ -3,6 +3,7 @@ Full listing traversal finds new/removed entries. Rotating detail checks cover e
 entry over time. Failure preserves the last successfully published catalog.
 """
 import json,time,urllib.request,re,os
+from urllib.parse import urljoin
 from html.parser import HTMLParser
 from urllib.robotparser import RobotFileParser
 from pathlib import Path
@@ -18,9 +19,14 @@ class Listing(HTMLParser):
    self.href=d.get('href','');m=re.search(r'/squishy/page/(\d+)/',self.href)
    if m:self.pages=max(self.pages,int(m[1]))
   if t=='img' and self.href and re.search(r'/print/squishy(?:Set)?\d+/$',self.href):
-   key=self.href.rstrip('/').split('/')[-1];self.items[key]={'title':d.get('alt',''),'url':BASE+self.href}
+   key=self.href.rstrip('/').split('/')[-1];self.items[key]={'title':d.get('alt',''),'url':BASE+self.href,'thumbnail':urljoin(BASE,d.get('src',''))}
  def handle_endtag(self,t):
   if t=='a':self.href=None
+class Preview(HTMLParser):
+ def __init__(self):super().__init__();self.image=None
+ def handle_starttag(self,t,a):
+  d=dict(a)
+  if t=='meta' and d.get('property')=='og:image' and d.get('content','').startswith('https://'):self.image=d['content']
 robots={}
 def request(url):
  for attempt in range(3):
@@ -57,6 +63,7 @@ def main():
    for key,v in p.items.items():
     row=rows.setdefault(key,{'id':'h-'+key,'title':{},'urls':{},'creator':'Hyeriming','kind':'external','access':'free','checkedAt':TODAY,'rights':'source-only','category':'food','difficulty':'unknown'})
     row['title'][lang]=v['title'];row['urls'][lang]=v['url']
+    if lang=='ko' and v['thumbnail'].startswith(BASE+'/thumbs/'):row['thumbnail']=v['thumbnail']
    print(lang,page,len(p.items),flush=True)
  for row in rows.values():
   t=row['title'].get('ko','')
@@ -68,6 +75,7 @@ def main():
  oldmap={i['id']:i for i in old}
  for row in result:
   previous=oldmap.get(row['id'],{})
+  row['firstSeenAt']=previous.get('firstSeenAt',previous.get('checkedAt',TODAY))
   if previous.get('detailCheckedAt'):row['detailCheckedAt']=previous['detailCheckedAt']
  offset=(NOW.date().toordinal()*12)%len(result)
  sample=[result[(offset+i)%len(result)] for i in range(min(12,len(result)))]
@@ -80,8 +88,11 @@ def main():
  for row in extras:
   html=allowed_get(row['urls']['ko'])
   if '<h1' not in html:raise RuntimeError('Source page changed '+row['id'])
+  preview=Preview();preview.feed(html)
+  if preview.image:row['thumbnail']=preview.image
   checks.append({'id':row['id'],'status':'reachable','checkedAt':TODAY})
  state={'lastSuccessfulCheck':NOW.isoformat(),'source':'https://hyeriming.com/ko/squishy/','listings':len(result),'detailChecks':len(sample),'otherSourceChecks':checks,'schedule':'Daily 06:23 Asia/Seoul','scope':'Approved source catalog names and links; rotating detail checks; no pattern redistribution.'}
  path.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');Path('src/freshness.json').write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n')
+ Path('src/catalog-extra.json').write_text(json.dumps(extras,ensure_ascii=False,indent=2)+'\n')
  print('Collected',len(result),'validated records')
 if __name__=='__main__':main()

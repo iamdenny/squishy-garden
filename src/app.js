@@ -29,3 +29,6 @@ if(data){const items=JSON.parse(data.textContent),cards=new Map([...document.que
  document.querySelector('#reset').onclick=()=>{history.replaceState(null,'',location.pathname+'#catalog');fromURL();limit=24;render();q.focus()};
  document.querySelector('#more').onclick=()=>{limit+=24;render()};window.addEventListener('popstate',()=>{fromURL();limit=24;render()});
 }
+// Keep readable titles when an upstream preview is removed or unavailable.
+document.querySelectorAll('.has-preview img,.hero-mosaic img').forEach(img=>{const fallback=()=>{img.hidden=true;const note=document.createElement('span');note.className='preview-unavailable';note.textContent=img.alt;img.after(note)};img.addEventListener('error',fallback,{once:true});if(img.complete&&!img.naturalWidth)fallback()});
+const checked=document.querySelector('#last-check');if(checked){const date=new Date(checked.dateTime);checked.textContent=new Intl.DateTimeFormat(config.lang,{dateStyle:'medium',timeStyle:'short'}).format(date);if(Date.now()-date.getTime()>72*3600*1000){const warning=document.createElement('p');warning.className='freshness-warning';warning.textContent={ko:'최근 자동 확인이 지연되고 있어요. 최신 정보는 제작자 원문을 확인해 주세요.',en:'The latest automatic check is delayed. Check creator pages for current information.',ja:'自動確認が遅れています。最新情報は制作者のページをご確認ください。'}[config.lang];checked.closest('.collection-note').after(warning)}}
