@@ -58,7 +58,7 @@ jobs:
             echo '## Last successful catalog check' >> "$GITHUB_STEP_SUMMARY"
             cat src/freshness.json >> "$GITHUB_STEP_SUMMARY"
           fi
-          echo 'On collection or validation failure, deployment is skipped and the current public catalog is preserved.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Source failures preserve the last known metadata and success timestamps; partial failures are reported. Validation failures block deployment.' >> "$GITHUB_STEP_SUMMARY"
   deploy:
     if: github.event_name != 'pull_request'
     needs: build

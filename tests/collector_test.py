@@ -7,4 +7,20 @@ class CollectorTest(unittest.TestCase):
  def test_large_drop_and_missing_translation_fail(self):
   with self.assertRaises(RuntimeError):m.validate_rows([],list(range(239)))
   with self.assertRaises(RuntimeError):m.validate_rows([{'id':'a','title':{'ko':'test'}}]*150,[])
+
+from unittest.mock import patch
+class SourceIsolationTest(unittest.TestCase):
+ def test_transient_failure_preserves_last_good_metadata(self):
+  row={'id':'test','urls':{'ko':'https://example.com/pattern'},'thumbnail':'https://example.com/old.png','checkedAt':'2026-01-01'}
+  with patch.object(m,'allowed_get',side_effect=TimeoutError()):check=m.check_extra(row)
+  self.assertEqual(check['status'],'unverified');self.assertEqual(row['checkedAt'],'2026-01-01');self.assertEqual(row['thumbnail'],'https://example.com/old.png')
+ def test_not_found_differs_from_access_denied(self):
+  for code,status in [(404,'unavailable'),(410,'unavailable'),(403,'unverified'),(429,'unverified')]:
+   row={'id':'test','urls':{'ko':'https://example.com/pattern'}}
+   with patch.object(m,'allowed_get',side_effect=m.HTTPError(row['urls']['ko'],code,'failure',{},None)):self.assertEqual(m.check_extra(row)['status'],status)
+ def test_recovery_updates_timestamp(self):
+  row={'id':'test','urls':{'ko':'https://example.com/pattern'},'health':{'status':'unavailable'}}
+  with patch.object(m,'allowed_get',return_value='<h1>Pattern</h1>'):self.assertEqual(m.check_extra(row)['status'],'reachable')
+  self.assertEqual(row['checkedAt'],m.TODAY)
+
 if __name__=='__main__':unittest.main()

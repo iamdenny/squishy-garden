@@ -4,6 +4,7 @@ entry over time. Failure preserves the last successfully published catalog.
 """
 import json,time,urllib.request,re,os
 from urllib.parse import urljoin
+from urllib.error import HTTPError
 from html.parser import HTMLParser
 from urllib.robotparser import RobotFileParser
 from pathlib import Path
@@ -51,7 +52,7 @@ def validate_rows(rows,old):
  for row in rows:
   if set(row['title'])!={'ko','en','ja'} or any(not v.strip() for v in row['title'].values()):raise RuntimeError('Incomplete translation '+row['id'])
   if len(row['title']['ko'])>250:raise RuntimeError('Invalid title')
-def main():
+def collect_primary():
  rows={};path=Path('src/catalog-external.json');old=json.loads(path.read_text()) if path.exists() else []
  for lang in ['ko','en','ja']:
   first=Listing();first.feed(allowed_get(f'{BASE}/{lang}/squishy/'))
@@ -83,16 +84,38 @@ def main():
   html=allowed_get(row['urls']['ko'])
   if '<h1' not in html or row['urls']['ko'] not in html:raise RuntimeError('Detail page changed '+row['id'])
   row['detailCheckedAt']=TODAY
- # Other curated providers are checked for reachability; changes never invent prices.
- extras=json.loads(Path('src/catalog-extra.json').read_text());checks=[]
- for row in extras:
+ return result,len(sample)
+def check_extra(row):
+ # An upstream failure is not evidence of deletion. Keep the last usable metadata.
+ try:
   html=allowed_get(row['urls']['ko'])
-  if '<h1' not in html:raise RuntimeError('Source page changed '+row['id'])
+  if '<h1' not in html:raise RuntimeError('Source markup changed')
   preview=Preview();preview.feed(html)
   if preview.image:row['thumbnail']=preview.image
-  checks.append({'id':row['id'],'status':'reachable','checkedAt':TODAY})
- state={'lastSuccessfulCheck':NOW.isoformat(),'source':'https://hyeriming.com/ko/squishy/','listings':len(result),'detailChecks':len(sample),'otherSourceChecks':checks,'schedule':'Daily 06:23 Asia/Seoul','scope':'Approved source catalog names and links; rotating detail checks; no pattern redistribution.'}
- path.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');Path('src/freshness.json').write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n')
+  row['checkedAt']=TODAY
+  check={'id':row['id'],'status':'reachable','checkedAt':TODAY}
+ except HTTPError as error:
+  check={'id':row['id'],'status':'unavailable' if error.code in (404,410) else 'unverified','checkedAt':TODAY,'httpStatus':error.code}
+ except Exception as error:
+  check={'id':row['id'],'status':'manual_required' if str(error).startswith('robots excludes ') else 'unverified','checkedAt':TODAY}
+ row['health']={k:v for k,v in check.items() if k!='id'}
+ return check
+
+def main():
+ path=Path('src/catalog-external.json');statepath=Path('src/freshness.json')
+ state=json.loads(statepath.read_text());primary_ok=False
+ try:
+  result,detail_count=collect_primary();primary_ok=True
+  path.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
+  state.update(lastSuccessfulCheck=NOW.isoformat(),listings=len(result),detailChecks=detail_count)
+ except Exception as error:
+  print('::warning::Primary catalog refresh failed; preserving previous catalog and success timestamp. '+type(error).__name__,flush=True)
+ extras=json.loads(Path('src/catalog-extra.json').read_text())
+ checks=[check_extra(row) for row in extras]
+ state.update(lastAttempt=NOW.isoformat(),primaryStatus='reachable' if primary_ok else 'unverified',otherSourceChecks=checks)
+ state['partialFailure']=not primary_ok or any(c['status']!='reachable' for c in checks)
+ if state['partialFailure']:print('::warning::Some sources could not be verified. See freshness.json.',flush=True)
+ statepath.write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n')
  Path('src/catalog-extra.json').write_text(json.dumps(extras,ensure_ascii=False,indent=2)+'\n')
- print('Collected',len(result),'validated records')
+ print('Curated links checked:',len(checks),'reachable:',sum(c['status']=='reachable' for c in checks),flush=True)
 if __name__=='__main__':main()

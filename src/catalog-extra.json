@@ -17,7 +17,11 @@
     "rights": "source-only",
     "checkedAt": "2026-10-22",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdB5arl%2FbtrknXiaubk%2FAAAAAAAAAAAAAAAAAAAAAIpnHSF3oesNO6OZH05u2OUtycXNAFt7ppKCIxPuh-2r%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DOBm4k9NXxZWu4rWdv1ARkcIP7MA%253D",
-    "firstSeenAt": "2026-10-22"
+    "firstSeenAt": "2026-10-22",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
   },
   {
     "id": "sowony-sweet-game",
@@ -37,7 +41,12 @@
     "rights": "source-only",
     "checkedAt": "2026-10-22",
     "thumbnail": "https://sowonyplayground.com/data/item/1742360912/13.jpg",
-    "firstSeenAt": "2026-10-22"
+    "firstSeenAt": "2026-10-22",
+    "craftType": "book",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
   },
   {
     "id": "pokemon-bread",
@@ -55,14 +64,23 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-22",
     "tags": [
       "포켓몬",
       "Pokemon",
-      "ピカチュウ"
+      "Pokémon",
+      "ポケモン",
+      "뮤",
+      "뮤츠",
+      "Mew",
+      "Mewtwo"
     ],
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fcfi1kQ%2FbtrH08vxrLo%2FAAAAAAAAAAAAAAAAAAAAALc44q1dKiGWq7LSYtaL9NArZMIph-v2v2UhHLW52yf_%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D5Z%252F9csIO7ZOibFZfQ0hKehlTvGc%253D",
-    "firstSeenAt": "2026-10-23"
+    "firstSeenAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
   },
   {
     "id": "sanrio-diy",
@@ -80,7 +98,7 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-22",
     "tags": [
       "시나모롤",
       "쿠로미",
@@ -96,6 +114,596 @@
       "クロミ"
     ],
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbgynCZ%2FbtrFCguBdk8%2FAAAAAAAAAAAAAAAAAAAAAIQqr1EjGn2ha5o7sZI9Aa2cyI9pGf3miNKETw9_YWpz%2Fimg.gif%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Dx9IoidOfQJV0folij%252B4JdVdWews%253D",
-    "firstSeenAt": "2026-10-23"
+    "firstSeenAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "rosazzing-melody-kitty",
+    "title": {
+      "ko": "마이멜로디·헬로키티 스퀴시",
+      "en": "My Melody & Hello Kitty squishy",
+      "ja": "マイメロディ・ハローキティ スクイーズ"
+    },
+    "urls": {
+      "ko": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EC%82%B0%EB%A6%AC%EC%98%A4-%EB%A7%88%EC%9D%B4%EB%A9%9C%EB%A1%9C%EB%94%94-%ED%97%AC%EB%A1%9C%ED%82%A4%ED%8B%B0-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EB%AC%B4%EB%A3%8C%EB%8F%84%EC%95%88"
+    },
+    "creator": "로사찡",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FzslHG%2FdJMcagRXbOE%2FAAAAAAAAAAAAAAAAAAAAAMe68S0M6Mb9IZdCZ_cKKWFvq_AW5bbsCywb0clTmM8d%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DPPYuCROEuy5CTO2j4bz6JUBVR5Y%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ",
+      "산리오",
+      "Sanrio",
+      "サンリオ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "rosazzing-kuromi-purin",
+    "title": {
+      "ko": "쿠로미·폼폼푸린 스퀴시",
+      "en": "Kuromi & Pompompurin squishy",
+      "ja": "クロミ・ポムポムプリン スクイーズ"
+    },
+    "urls": {
+      "ko": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EC%82%B0%EB%A6%AC%EC%98%A4-%EC%BF%A0%EB%A1%9C%EB%AF%B8-%ED%8F%BC%ED%8F%BC%ED%91%B8%EB%A6%B0-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EB%AC%B4%EB%A3%8C%EB%8F%84%EC%95%88"
+    },
+    "creator": "로사찡",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqEIHo%2FdJMcabwi4Iy%2FAAAAAAAAAAAAAAAAAAAAACYoWuwgxhv2DMdBS68FE8lIvYsX8xtbDt33LU_ioFB6%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DPT1cFtS%252FOE9G2Wtlvp8SdmWFKD0%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ",
+      "산리오",
+      "Sanrio",
+      "サンリオ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "rosazzing-cinnamoroll",
+    "title": {
+      "ko": "시나모롤·포롱 스퀴시",
+      "en": "Cinnamoroll & Poron squishy",
+      "ja": "シナモロール・ポロン スクイーズ"
+    },
+    "urls": {
+      "ko": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EC%82%B0%EB%A6%AC%EC%98%A4-%EC%8B%9C%EB%82%98%EB%AA%A8%EB%A1%A4-%ED%8F%AC%EB%A1%B1-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EB%AC%B4%EB%A3%8C%EB%8F%84%EC%95%88"
+    },
+    "creator": "로사찡",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fu8k40%2FdJMcagYxHBg%2FAAAAAAAAAAAAAAAAAAAAAApMWVcWmZdNOxL3pkIH9D4_qfxBUq9s_ZTtZGHjfvCI%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DestwSLSEf7Hq7nkMjYyCyMbXbR0%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ",
+      "산리오",
+      "Sanrio",
+      "サンリオ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "rosazzing-kuromi-snack",
+    "title": {
+      "ko": "쿠로미 하오샹미 스퀴시",
+      "en": "Kuromi snack squishy",
+      "ja": "クロミ お菓子スクイーズ"
+    },
+    "urls": {
+      "ko": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EC%82%B0%EB%A6%AC%EC%98%A4-%EC%BF%A0%EB%A1%9C%EB%AF%B8-%ED%95%98%EC%98%A4%EC%83%B9%EB%AF%B8-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
+    },
+    "creator": "로사찡",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FAtpQu%2FbtsQ6TINBnk%2FAAAAAAAAAAAAAAAAAAAAANkxegOhU5SzSWY3lGfEVfmyXL-1NstA2nzZJOShB8Td%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DTHHsO8m9%252Bs2HJWQTKUM1FCd6hsc%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ",
+      "산리오",
+      "Sanrio",
+      "サンリオ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "rosazzing-melody-square",
+    "title": {
+      "ko": "마이멜로디 사각 스퀴시",
+      "en": "My Melody square squishy",
+      "ja": "マイメロディ 四角スクイーズ"
+    },
+    "urls": {
+      "ko": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EC%82%B0%EB%A6%AC%EC%98%A4-%EB%A7%88%EC%9D%B4%EB%A9%9C%EB%A1%9C%EB%94%94-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%EC%82%AC%EA%B0%81%EC%8A%A4%ED%80%B4%EC%8B%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
+    },
+    "creator": "로사찡",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbZsNkc%2FbtsQEbiAX6g%2FAAAAAAAAAAAAAAAAAAAAAKXqNOxHm-cTPkIW13JFJWSlmV5qeIcIJqvtvnHBGuSi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DrqsXaaWeK6wLkIkR4JEcAwKrkks%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ",
+      "산리오",
+      "Sanrio",
+      "サンリオ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "rosazzing-labubu",
+    "title": {
+      "ko": "라부부 스퀴시 블라인드백",
+      "en": "Labubu squishy blind bag",
+      "ja": "ラブブ スクイーズ ブラインドバッグ"
+    },
+    "urls": {
+      "ko": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%A2%85%EC%9D%B4%EC%9D%B8%ED%98%95-%ED%8C%9D%EB%A7%88%ED%8A%B8-%EB%9D%BC%EB%B6%80%EB%B6%80-%EC%9D%B5%EC%82%AC%EC%9D%B4%ED%8C%85%EB%A7%88%EC%B9%B4%EB%A1%B1-%EC%8B%9C%ED%8C%85%ED%8C%8C%ED%8B%B0-%EC%83%89%EC%B9%A0%EA%B3%B5%EB%B6%80-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C%EB%B0%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C%EB%8F%84%EC%95%88"
+    },
+    "creator": "로사찡",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FAEasA%2FbtsQoBCPZ6j%2FAAAAAAAAAAAAAAAAAAAAAGIP8bSdINYg4ZeyBohQ3vGrv-8jILWEK409r82tMwev%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D1IquXl59Wm1Gkm4RpNT6Piy7rLo%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "gripipi-haerin-book",
+    "title": {
+      "ko": "해린 모티브 미니 스퀴시북",
+      "en": "Haerin-inspired mini squishy book",
+      "ja": "ヘリン風 ミニスクイーズブック"
+    },
+    "urls": {
+      "ko": "https://tingkka.tistory.com/109"
+    },
+    "creator": "그리피피 · Gripipi",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "book",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbjgNG2%2Fbtr1dl9MAeg%2FAAAAAAAAAAAAAAAAAAAAACdhznbbSKJJWsmUf3E24nBOQ0KRIpkOP3GhFealfWkr%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Df%252F0xtSbJ1fOZY%252BfgDz6mZpEuu5Y%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "gripipi-unicorn-wallet",
+    "title": {
+      "ko": "유니콘 팝잇 미니 지갑",
+      "en": "Unicorn pop-it mini wallet",
+      "ja": "ユニコーン ポップイット ミニ財布"
+    },
+    "urls": {
+      "ko": "https://tingkka.tistory.com/90"
+    },
+    "creator": "그리피피 · Gripipi",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F6lYfO%2FbtrgB4fPVZv%2FAAAAAAAAAAAAAAAAAAAAAH-445fn7hjeaY9MHlowc00hAqhDaZiRqpY9ZPpX_YpI%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DTs4s%252B9Bxx1y1Cz8c2LD%252BfIdwUVE%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "gripipi-unicorn-house",
+    "title": {
+      "ko": "유니콘 종이집 스퀴시",
+      "en": "Unicorn paper house squishy",
+      "ja": "ユニコーン ペーパーハウス"
+    },
+    "urls": {
+      "ko": "https://tingkka.tistory.com/77"
+    },
+    "creator": "그리피피 · Gripipi",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FZHvrc%2Fbtq5QOs30CK%2FAAAAAAAAAAAAAAAAAAAAAISu6CqecGQ6JeHxKkaWoKVP8-UMLrDLDksikWuit9Qx%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Dh93j%252FZjkN8KZgfKqm%252FOiPsvrkCc%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "ryong-iphone",
+    "title": {
+      "ko": "뉴진스 아이폰 종이 스퀴시",
+      "en": "NewJeans iPhone paper squishy",
+      "ja": "NewJeans iPhone ペーパースクイーズ"
+    },
+    "urls": {
+      "ko": "https://ryongryongkid.tistory.com/648"
+    },
+    "creator": "룡룡쌤",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbAFAC2%2Fbtsvb5LXXl6%2FAAAAAAAAAAAAAAAAAAAAAAMTtpJiIMoO8QbMAczO205HQeSk1PkmN0WEDw6BIm29%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Dm8n21lxAzGWfpHXbejo5FJMzm8w%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "ryong-gummy-wallet",
+    "title": {
+      "ko": "레인보우 곰젤리 스퀴시 지갑",
+      "en": "Rainbow gummy bear squishy wallet",
+      "ja": "虹色グミベア スクイーズ財布"
+    },
+    "urls": {
+      "ko": "https://ryongryongkid.tistory.com/622"
+    },
+    "creator": "룡룡쌤",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FmSLcF%2Fbtsp1jGOprF%2FAAAAAAAAAAAAAAAAAAAAAM9JA60Gr7vBuaiKEya1OE0Wi4UIzIOLQqxmWFwAXnPq%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Diq5T5nbrFJ7jq5bKUPiICcEE3WU%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "ryong-pokemon-taiyaki",
+    "title": {
+      "ko": "피카츄 붕어빵 가게놀이",
+      "en": "Pikachu taiyaki shop play",
+      "ja": "ピカチュウ たい焼き屋さん遊び"
+    },
+    "urls": {
+      "ko": "https://ryongryongkid.tistory.com/456"
+    },
+    "creator": "룡룡쌤",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "unknown",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FRTumG%2FbtrRGw7tU6K%2FAAAAAAAAAAAAAAAAAAAAAF8NFYseIT3w9ciU6btWnTrCezD2m1dR02UjP5PsOZMM%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DshyjSyIXeVrc%252B6NEK08e9vXsTx8%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ",
+      "포켓몬",
+      "Pokemon",
+      "Pokémon",
+      "ポケモン"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "ryong-ditto-book",
+    "title": {
+      "ko": "메타몽 포켓몬센터 스퀴시북",
+      "en": "Ditto Pokémon Center squishy book",
+      "ja": "メタモン ポケモンセンター スクイーズブック"
+    },
+    "urls": {
+      "ko": "https://ryongryongkid.tistory.com/389"
+    },
+    "creator": "룡룡쌤",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "book",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FPgoSz%2FbtrLuxTIuIF%2FAAAAAAAAAAAAAAAAAAAAAKbs1dUWCLmjW2AyzfnRd33_MUEXKIvrSJLBFnlBsO3R%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D3ieYdUcila5cJI%252BbMZev8MzmbUk%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ",
+      "포켓몬",
+      "Pokemon",
+      "Pokémon",
+      "ポケモン"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "ryong-pokemon-bread",
+    "title": {
+      "ko": "포켓몬빵·랜덤 띠부씰 스퀴시",
+      "en": "Pokémon bread & surprise stickers",
+      "ja": "ポケモンパン・ランダムシール"
+    },
+    "urls": {
+      "ko": "https://ryongryongkid.tistory.com/240"
+    },
+    "creator": "룡룡쌤",
+    "kind": "external",
+    "category": "food",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcFd6Fh%2FbtrD4UAJFNv%2FAAAAAAAAAAAAAAAAAAAAAGuj7Lmqx2jgixJVyPSOwdkM8N2J_0ervmaJna10OIew%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DsM5OCouoF4srQjTAOfccnRAvWFE%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ",
+      "포켓몬",
+      "Pokemon",
+      "Pokémon",
+      "ポケモン"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "ryong-poliwag-bread",
+    "title": {
+      "ko": "발챙이빵 미니 스퀴시",
+      "en": "Poliwag bread mini squishy",
+      "ja": "ニョロモパン ミニスクイーズ"
+    },
+    "urls": {
+      "ko": "https://ryongryongkid.tistory.com/239"
+    },
+    "creator": "룡룡쌤",
+    "kind": "external",
+    "category": "food",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fl6FXZ%2FbtrD2Hu8bl1%2FAAAAAAAAAAAAAAAAAAAAALIBhidgWPN2qeCZbgjmzEoKRynJ1KgWDcB-1DnDQ2Pi%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DfUVq5Mv8gzzy01Tsn5dlSEpfFdg%253D",
+    "tags": [
+      "종이",
+      "스퀴시",
+      "스퀴즈",
+      "스퀴쉬",
+      "말랑이",
+      "도안",
+      "paper",
+      "squishy",
+      "スクイーズ",
+      "포켓몬",
+      "Pokemon",
+      "Pokémon",
+      "ポケモン"
+    ],
+    "reviewedAt": "2026-10-23",
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    }
   }
 ]

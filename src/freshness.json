@@ -1,5 +1,5 @@
 {
-  "lastSuccessfulCheck": "2026-10-22T15:07:57.593362+00:00",
+  "lastSuccessfulCheck": "2026-10-22T15:39:07.898027+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
@@ -23,8 +23,86 @@
       "id": "sanrio-diy",
       "status": "reachable",
       "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "rosazzing-melody-kitty",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "rosazzing-kuromi-purin",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "rosazzing-cinnamoroll",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "rosazzing-kuromi-snack",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "rosazzing-melody-square",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "rosazzing-labubu",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "gripipi-haerin-book",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "gripipi-unicorn-wallet",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "gripipi-unicorn-house",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "ryong-iphone",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "ryong-gummy-wallet",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "ryong-pokemon-taiyaki",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "ryong-ditto-book",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "ryong-pokemon-bread",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "ryong-poliwag-bread",
+      "status": "reachable",
+      "checkedAt": "2026-10-22"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
-  "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution."
+  "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
+  "lastAttempt": "2026-10-22T15:39:07.898027+00:00",
+  "primaryStatus": "reachable",
+  "partialFailure": false
 }
