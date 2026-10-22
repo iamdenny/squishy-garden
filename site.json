@@ -1,1 +1,12 @@
-{"domain":"squishy.iamdenny.com","name":"Squishy Garden","locales":["ko","en","ja"],"gaMeasurementId":null}
+{
+  "domain": "squishy.iamdenny.com",
+  "name": "Squishy Garden",
+  "locales": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "gaMeasurementId": "G-BEW0F8CYXF",
+  "gaPropertyId": "560105322",
+  "gaStreamId": "16182123748"
+}

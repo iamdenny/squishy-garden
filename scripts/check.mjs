@@ -1,4 +1,4 @@
 import{readFile,access}from'node:fs/promises';import assert from'node:assert/strict';
 const config=JSON.parse(await readFile('site.json'));const xml=await readFile('dist/sitemap.xml','utf8');let count=0;
 for(const [,loc]of xml.matchAll(/<loc>(.*?)<\/loc>/g)){const p=new URL(loc).pathname;const html=await readFile('dist'+p+'index.html','utf8');assert(html.includes(`rel="canonical" href="${loc}"`));for(const lang of config.locales)assert(html.includes(`hreflang="${lang}"`));assert(html.includes('<meta name="description"'));for(const [,j]of html.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/g))JSON.parse(j);for(const [,href]of html.matchAll(/(?:href|src)="(\/[^"?#]*)/g)){if(href==='/')continue;await access('dist'+href+(href.endsWith('/')?'index.html':''))}count++}
-for(const p of ['robots.txt','llms.txt','hero.jpg','release.json','CNAME'])await access('dist/'+p);console.log(`Verified metadata, JSON-LD and local links on ${count} pages.`);
+for(const p of ['robots.txt','llms.txt','fold-hero.jpg','release.json','CNAME'])await access('dist/'+p);console.log(`Verified metadata, JSON-LD and local links on ${count} pages.`);
