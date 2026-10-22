@@ -1108,5 +1108,174 @@
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-22"
     }
+  },
+  {
+    "id": "ddany-dubai-chocolate",
+    "title": {
+      "ko": "두바이 초콜릿 종이 만들기",
+      "en": "Dubai chocolate paper craft",
+      "ja": "ドバイチョコレート ペーパークラフト"
+    },
+    "urls": {
+      "ko": "https://blog.naver.com/PostView.naver?blogId=ddanycrafts&logNo=223534089948"
+    },
+    "creator": "따니네 만들기 · DDany Crafts",
+    "kind": "external",
+    "category": "food",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-22",
+    "reviewedAt": "2026-10-22",
+    "thumbnail": "https://blogthumb.pstatic.net/MjAyNDA4MDJfMjQ4/MDAxNzIyNTc0NTYwMjUw.3Ce7KM7lUri3NMKKvbGKOIgMNEBZQE_QEDrqCTNhEbwg.8WkWoG08N4W66RnSRvUyjEbA2E4Q0O_mf8P4D3VgiOMg.PNG/%BD%E6%B3%D7%C0%CF.png?type=w2",
+    "tags": [
+      "따니네",
+      "초콜릿",
+      "chocolate",
+      "チョコレート",
+      "PDF",
+      "PNG",
+      "종이",
+      "도안",
+      "paper",
+      "스퀴시",
+      "squishy",
+      "スクイーズ"
+    ],
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "yellow-chocolate",
+    "title": {
+      "ko": "달콤 초콜릿 스퀴시",
+      "en": "Sweet chocolate squishy",
+      "ja": "チョコレート スクイーズ"
+    },
+    "urls": {
+      "ko": "https://blog.naver.com/PostView.naver?blogId=yellow_ooo&logNo=223748805725"
+    },
+    "creator": "옐로우 · YELLOW",
+    "kind": "external",
+    "category": "food",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-22",
+    "reviewedAt": "2026-10-22",
+    "thumbnail": "https://blogthumb.pstatic.net/MjAyNTAyMDVfMTc5/MDAxNzM4NzQ0ODc1OTg4.fp21A9CO5A-X23UAdcU46U1-Ta90SWklBZJCVJdsdzgg.ZEn_0HMhPBAZOHFD4YZQwkpZGMZAXyU_Nm8Bkl2iJHYg.JPEG/IMG_9173.JPG?type=w2",
+    "tags": [
+      "옐로우",
+      "초콜릿",
+      "chocolate",
+      "チョコレート",
+      "JPG",
+      "종이",
+      "도안",
+      "paper",
+      "스퀴시",
+      "squishy",
+      "スクイーズ"
+    ],
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "makeit-winter-snacks",
+    "title": {
+      "ko": "겨울 간식꾸러미 스퀴시",
+      "en": "Winter snack bundle squishy",
+      "ja": "冬のおやつセット スクイーズ"
+    },
+    "urls": {
+      "ko": "https://blog.naver.com/PostView.naver?blogId=makeitdiy&logNo=223260911491"
+    },
+    "creator": "메이크잇 · Makeit",
+    "kind": "external",
+    "category": "food",
+    "difficulty": "unknown",
+    "access": "free",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-22",
+    "reviewedAt": "2026-10-22",
+    "thumbnail": "https://blogthumb.pstatic.net/MjAyMzExMTBfMTAw/MDAxNjk5NTgxNTczMjYz.9PQH5fgzT2OkzK91WVBSynuss0udJBDRmaoeAX1OOUAg.8E4h4uHm8en8rIeqLM_RboIWdOlQwG6PO2qrOKqn3E4g.JPEG.makeit_youtube/%A4%A1%A4%B5%A4%B1%A4%A7%A4%A1.jpg?type=w2",
+    "tags": [
+      "메이크잇",
+      "겨울",
+      "winter",
+      "冬",
+      "A4",
+      "PDF",
+      "종이",
+      "도안",
+      "paper",
+      "스퀴시",
+      "squishy",
+      "スクイーズ"
+    ],
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
+    }
+  },
+  {
+    "id": "torim-kitty-cosmetics",
+    "title": {
+      "ko": "키티 화장품 스퀴시 수정본",
+      "en": "Kitty cosmetic squishy — revised patterns",
+      "ja": "キティ コスメスクイーズ 改訂版"
+    },
+    "urls": {
+      "ko": "https://blog.naver.com/PostView.naver?blogId=torimcrafts&logNo=223702068557"
+    },
+    "creator": "토림크래프트 · TorimCraft",
+    "kind": "external",
+    "category": "play",
+    "difficulty": "unknown",
+    "access": "unknown",
+    "rights": "source-only",
+    "craftType": "unknown",
+    "checkedAt": "2026-10-22",
+    "firstSeenAt": "2026-10-22",
+    "reviewedAt": "2026-10-22",
+    "thumbnail": "https://blogthumb.pstatic.net/MjAyNDEyMjJfMTY2/MDAxNzM0ODUyODMwMjM0.6RGPJJvVKCQFO2mHB3olgje-ECbyCxaA7NrNfaVto3sg.uNsghNpRncQvtbhxng0P4q3gvSQTu9W1nKUgv2W3Pp8g.JPEG/IMG_1471.JPG?type=w2",
+    "tags": [
+      "토림",
+      "헬로키티",
+      "Hello Kitty",
+      "ハローキティ",
+      "산리오",
+      "Sanrio",
+      "サンリオ",
+      "PDF",
+      "종이",
+      "도안",
+      "paper",
+      "스퀴시",
+      "squishy",
+      "スクイーズ"
+    ],
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-22",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-22"
+    }
   }
 ]
