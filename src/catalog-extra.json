@@ -1291,7 +1291,7 @@
     },
     "creator": "햇님유뚜비",
     "kind": "external",
-    "category": "food",
+    "category": "play",
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
@@ -1313,7 +1313,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://sunny-utube.tistory.com/6"
+      "sourceUrl": "https://sunny-utube.tistory.com/6",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1351,7 +1353,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://sunny-utube.tistory.com/3"
+      "sourceUrl": "https://sunny-utube.tistory.com/3",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1389,7 +1393,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/419"
+      "sourceUrl": "https://chohwa.tistory.com/419",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1427,7 +1433,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/418"
+      "sourceUrl": "https://chohwa.tistory.com/418",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1465,7 +1473,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/417"
+      "sourceUrl": "https://chohwa.tistory.com/417",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1503,7 +1513,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/416"
+      "sourceUrl": "https://chohwa.tistory.com/416",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1541,7 +1553,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/415"
+      "sourceUrl": "https://chohwa.tistory.com/415",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1579,7 +1593,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/414"
+      "sourceUrl": "https://chohwa.tistory.com/414",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1617,7 +1633,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/413"
+      "sourceUrl": "https://chohwa.tistory.com/413",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1655,7 +1673,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/412"
+      "sourceUrl": "https://chohwa.tistory.com/412",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1693,7 +1713,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/411"
+      "sourceUrl": "https://chohwa.tistory.com/411",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1731,7 +1753,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://chohwa.tistory.com/410"
+      "sourceUrl": "https://chohwa.tistory.com/410",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     }
   },
   {
@@ -1769,7 +1793,9 @@
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
-      "sourceUrl": "https://whitetree0415.tistory.com/6"
+      "sourceUrl": "https://whitetree0415.tistory.com/6",
+      "lastRecheckAt": "2026-10-23T10:46:30.361052+00:00",
+      "latestStatus": "verified"
     },
     "craftType": "book"
   },
@@ -1808,6 +1834,12 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0003/",
       "checkedAt": "2026-10-23"
+    },
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -1838,6 +1870,12 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0055/",
       "checkedAt": "2026-10-23"
+    },
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -1868,6 +1906,12 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0037/",
       "checkedAt": "2026-10-23"
+    },
+    "health": {
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
     }
   }
 ]

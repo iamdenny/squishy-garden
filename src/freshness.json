@@ -1,5 +1,5 @@
 {
-  "lastSuccessfulCheck": "2026-10-23T06:02:13.843051+00:00",
+  "lastSuccessfulCheck": "2026-10-23T10:46:30.361052+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
@@ -318,11 +318,32 @@
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "h-squishySet0003",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "h-squishy0055",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "h-squishy0037",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-10-23T06:02:13.843051+00:00",
+  "lastAttempt": "2026-10-23T10:46:30.361052+00:00",
   "primaryStatus": "reachable",
   "partialFailure": false
 }
