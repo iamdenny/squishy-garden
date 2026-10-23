@@ -1,16 +1,18 @@
-name: Refresh, verify and deploy
+name: Verify and deploy SEO pages
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'public/catalog.json'
+      - 'src/catalog-external.json'
+      - 'src/catalog-extra.json'
+      - 'src/freshness.json'
+      - 'data/discovery-queue.json'
+      - 'data/discovery-health.json'
   pull_request:
   schedule:
-    - cron: '23 21 * * *'
+    - cron: '0 22 * * 0'
   workflow_dispatch:
-    inputs:
-      refresh:
-        description: Refresh approved source catalogs before deploying
-        type: boolean
-        default: false
 permissions:
   contents: read
 concurrency:
@@ -21,7 +23,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 20
     permissions:
-      contents: write
+      contents: read
     outputs:
       sha: ${{ steps.revision.outputs.sha }}
     steps:
@@ -29,24 +31,8 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
           node-version: '22'
-      - name: Refresh approved catalogs
-        if: github.event_name == 'schedule' || inputs.refresh == true
-        run: |
-          python3 scripts/collect.py
-          python3 scripts/discover.py
       - run: python3 -m unittest discover -s tests -p '*_test.py'
       - run: npm run verify
-      - name: Commit validated catalog updates
-        if: github.event_name == 'schedule' || inputs.refresh == true
-        run: |
-          git config user.name 'Denny Lim'
-          git config user.email 'hi.iamdenny@gmail.com'
-          git add src/catalog-external.json src/catalog-extra.json src/freshness.json data/discovery-queue.json data/discovery-health.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'chore: refresh verified pattern catalog'
-            git push origin HEAD:main
-          fi
-          npm run build
       - id: revision
         run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
@@ -60,7 +46,7 @@ jobs:
             echo '## Last successful catalog check' >> "$GITHUB_STEP_SUMMARY"
             cat src/freshness.json >> "$GITHUB_STEP_SUMMARY"
           fi
-          echo 'Source failures preserve the last known metadata and success timestamps; partial failures are reported. Validation failures block deployment.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Source failures preserve the last known metadata and success timestamps; partial failures are reported. Validation failures block deployment. Browsers use the latest public catalog JSON and fall back to the embedded snapshot if it is unavailable.' >> "$GITHUB_STEP_SUMMARY"
   deploy:
     if: github.event_name != 'pull_request'
     needs: build

@@ -8,5 +8,6 @@
   ],
   "gaMeasurementId": "G-BEW0F8CYXF",
   "gaPropertyId": "560105322",
-  "gaStreamId": "16182123748"
+  "gaStreamId": "16182123748",
+  "catalogApiUrl": "https://raw.githubusercontent.com/iamdenny/squishy-garden/main/public/catalog.json"
 }

@@ -5,7 +5,7 @@
 - DNS: DNSEver CNAME `squishy` → `iamdenny.github.io`
 - Hosting: GitHub Pages Actions; approved TLS certificate and HTTPS enforcement verified 2026-10-22 UTC.
 - Languages: Korean, English, Japanese.
-- Catalog: 249 entries (8 original foldable cube nets, 241 source links). External patterns are not rehosted. This is a selected-source catalog, not exhaustive internet coverage.
+- Catalog snapshot: 279 entries (8 original foldable cube nets and creator-hosted source links). External patterns are not rehosted. This is a selected-source catalog, not exhaustive internet coverage; the current count and check time are published in `freshness.json`.
 - Originals: six 50 mm faces, seven numbered glue tabs, solid cut lines and dashed fold lines, A4 color and coloring SVGs. Browser and geometry checked; physical print/assembly remains untested.
 
 ## Discovery and analytics
@@ -18,15 +18,15 @@ Canonical URLs, reciprocal hreflang, server-rendered content, JSON-LD, robots.tx
 
 ## Daily maintenance
 
-GitHub Actions runs at 21:23 UTC / 06:23 Asia/Seoul daily (GitHub may delay scheduled jobs). Run `Refresh, verify and deploy` manually with `refresh=true` for an immediate refresh.
+GitHub Actions runs the `Refresh live catalog` workflow at 21:23 UTC / 06:23 Asia/Seoul daily (GitHub may delay scheduled jobs). Use that workflow's manual dispatch to request an immediate refresh.
 
-The collector respects robots directives, limits requests, discovers pagination, deduplicates entries, checks all three translations, rotates 12 detail checks and probes the two additional sources. Major shrinkage or collection failure keeps the existing public catalog intact. Successful changes commit and deploy in the same run. Review Actions failures and `freshness.json` for operational health. No recurring paid LLM/API is required.
+The collector respects robots directives, limits requests, discovers pagination, deduplicates entries, checks all three translations, rotates 12 detail checks and probes the two additional sources. Major shrinkage or collection failure keeps the existing public catalog intact. Validated changes commit to `main`; data-only commits do not redeploy Pages. Browsers fetch `public/catalog.json` from the public GitHub raw URL, which currently allows CORS and advertises a five-minute cache. If that fetch fails, the embedded snapshot remains available. Static SEO pages and the sitemap deploy weekly and on code changes. Review Actions failures and `freshness.json` for operational health. No recurring paid LLM/API or Cloudflare Worker/KV is required.
 
 ## Validation and recovery
 
 `npm run verify` checks search/provenance/net geometry, builds all pages, and validates metadata and local links. Python collector tests cover parsing and fail-closed validation. Desktop and 390px mobile search, saved items and language switching were checked in Chrome.
 
-The final readback job verifies the served commit and HTTPS endpoints. To roll back, revert the relevant content commit and let the push workflow deploy. To pause collection, disable the schedule in `.github/workflows/deploy.yml`; manual deploy remains available.
+The final readback job verifies the served commit and HTTPS endpoints. To roll back, revert the relevant content commit and let the push workflow deploy. To pause collection, disable the schedule in `.github/workflows/refresh-catalog.yml`; manual Pages deployment remains available through `.github/workflows/deploy.yml`.
 
 ## Initial production evidence
 

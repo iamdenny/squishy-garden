@@ -1,0 +1,44 @@
+name: Refresh live catalog
+on:
+  schedule:
+    - cron: '23 21 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: catalog-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '22'
+      - name: Collect and validate latest catalog metadata
+        run: |
+          python3 scripts/collect.py
+          python3 scripts/discover.py
+          python3 -m unittest discover -s tests -p '*_test.py'
+          npm run verify
+      - name: Commit validated catalog snapshot
+        run: |
+          git config user.name 'Denny Lim'
+          git config user.email 'hi.iamdenny@gmail.com'
+          git add public/catalog.json src/catalog-external.json src/catalog-extra.json src/freshness.json data/discovery-queue.json data/discovery-health.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh verified pattern catalog'
+            git push origin HEAD:main
+          fi
+      - name: Summarize current catalog check
+        if: always()
+        run: |
+          if test -f src/freshness.json; then
+            echo '## Last successful catalog check' >> "$GITHUB_STEP_SUMMARY"
+            cat src/freshness.json >> "$GITHUB_STEP_SUMMARY"
+          fi
+          echo 'Validated catalog snapshots update the public JSON read directly by browsers without a Pages rebuild. Static detail pages and the sitemap are refreshed by the weekly deploy workflow.' >> "$GITHUB_STEP_SUMMARY"
