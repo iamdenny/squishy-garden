@@ -7,8 +7,8 @@ const app=await readFile(new URL('../src/app.js',import.meta.url),'utf8');
 const eventCode=app.slice(app.indexOf('function event('),app.indexOf('const banner='));
 const viewCode=app.slice(app.indexOf('function recordPatternView('),app.indexOf('let favorites='));
 function harness(adult='yes',analytics='yes'){
- const sent=[];const ctx=vm.createContext({adultConsent:adult,consent:analytics,detailViewSent:false,window:{gtag:(...args)=>sent.push(args)},location:{origin:'https://squishy.iamdenny.com',pathname:'/ko/',search:'?q=private-search'},document:{querySelector:()=>({dataset:{patternView:'h-squishy0145'}})}});
- vm.runInContext(eventCode+viewCode,ctx);return {ctx,sent};
+ const sent=[],timers=[];const ctx=vm.createContext({setTimeout:fn=>{timers.push(fn);return timers.length},clearTimeout:()=>{},adultConsent:adult,consent:analytics,detailViewSent:false,window:{gtag:(...args)=>sent.push(args)},location:{origin:'https://squishy.iamdenny.com',pathname:'/ko/',search:'?q=private-search'},document:{querySelector:()=>({dataset:{patternView:'h-squishy0145'}})}});
+ vm.runInContext(eventCode+viewCode,ctx);return {ctx,sent,timers};
 }
 test('analytics requires adult and analytics consent, strips URL query, and deduplicates detail views',()=>{
  for(const [adult,analytics] of [['no','yes'],['yes','no'],[null,null]]){const {ctx,sent}=harness(adult,analytics);vm.runInContext('recordPatternView()',ctx);assert.equal(sent.length,0);}
@@ -27,6 +27,14 @@ test('print event describes an attempt and a failed image cannot trigger print',
  const {ctx,sent}=harness();let click,printed=0;ctx.window.print=()=>printed++;ctx.document.body={classList:{add(){},remove(){}}};
  const start=app.indexOf('function bindPrintButton(');vm.runInContext(app.slice(start,app.indexOf("\ndocument.querySelectorAll('[data-print-source]'",start)),ctx);
  ctx.button={addEventListener:(_,fn)=>click=fn};ctx.image={complete:true,naturalWidth:480,addEventListener(){}};
- vm.runInContext("bindPrintButton(button,image,'h-squishy0145','preview')",ctx);click();assert.equal(printed,1);assert.equal(sent[0][1],'print_attempt');assert.equal(sent[0][2].print_source,'preview');
+ vm.runInContext("bindPrintButton(button,image,'h-squishy0145','preview')",ctx);click();assert.equal(printed,0);sent[0][2].event_callback();assert.equal(printed,1);assert.equal(sent[0][1],'print_attempt');assert.equal(sent[0][2].print_source,'preview');
  ctx.image.naturalWidth=0;click();assert.equal(printed,1);
+});
+
+test('printing has a bounded analytics wait, exactly-once callback and immediate no-consent fallback',()=>{
+ const {ctx,sent,timers}=harness();let printed=0;ctx.window.print=()=>printed++;
+ vm.runInContext("requestPrint({print_source:'template'});requestPrint({print_source:'template'})",ctx);
+ assert.equal(sent.length,1);assert.equal(printed,0);timers[0]();assert.equal(printed,1);sent[0][2].event_callback();assert.equal(printed,1);
+ ctx.consent='no';vm.runInContext('requestPrint()',ctx);assert.equal(printed,2);assert.equal(sent.length,1);
+ ctx.consent='yes';ctx.window.gtag=()=>{throw Error('blocked')};vm.runInContext('requestPrint()',ctx);assert.equal(printed,3);
 });

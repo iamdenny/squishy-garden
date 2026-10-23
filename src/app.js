@@ -12,6 +12,17 @@ let favorites=read('squishy-favorites',[]);if(!Array.isArray(favorites))favorite
 let consent=read('squishy-analytics',null),adultConsent=read('squishy-adult',consent==='yes'?'yes':null),advertisingConsent=read('squishy-advertising',null),started=false;
 function startAnalytics(){if(started||adultConsent!=='yes'||consent!=='yes'||!/^G-[A-Z0-9]+$/.test(config.gaMeasurementId||''))return;started=true;window.dataLayer=window.dataLayer||[];window.gtag=function(){window.dataLayer.push(arguments)};window.gtag('js',new Date());window.gtag('config',config.gaMeasurementId,{allow_google_signals:false,allow_ad_personalization_signals:false,page_location:location.origin+location.pathname,page_referrer:document.referrer?new URL(document.referrer).origin:'',cookie_domain:location.hostname,send_page_view:true});const s=document.createElement('script');s.src='https://www.googletagmanager.com/gtag/js?id='+encodeURIComponent(config.gaMeasurementId);s.async=true;document.head.append(s);recordPatternView();}
 function event(name,params={}){if(adultConsent==='yes'&&consent==='yes'&&window.gtag){window.gtag('event',name,{...params,page_location:location.origin+location.pathname});return true}return false}
+let printPending=false;
+function requestPrint(params={}){
+ if(printPending)return;
+ printPending=true;let completed=false,timer;
+ const openPrint=()=>{if(completed)return;completed=true;clearTimeout(timer);try{window.print()}finally{printPending=false}};
+ if(adultConsent!=='yes'||consent!=='yes'||!window.gtag){openPrint();return;}
+ // Give the analytics queue a chance to process before print() blocks scripts.
+ // The local timeout also covers blocked tags that never invoke their callback.
+ timer=setTimeout(openPrint,800);
+ try{event('print_attempt',{...params,event_callback:openPrint,event_timeout:700})}catch{openPrint()}
+}
 const banner=document.querySelector('#consent'),adultChoice=document.querySelector('#consent-adult'),analyticsChoice=document.querySelector('#consent-analytics'),advertisingChoice=document.querySelector('#consent-advertising');
 function syncConsentControls(){if(!banner)return;adultChoice.checked=adultConsent==='yes';analyticsChoice.checked=consent==='yes';advertisingChoice.checked=advertisingConsent==='yes';analyticsChoice.disabled=adultChoice.checked!==true||!config.gaMeasurementId;advertisingChoice.disabled=adultChoice.checked!==true||!config.advertisingEnabled;}
 if(banner){syncConsentControls();if((config.gaMeasurementId&&!consent)||(config.advertisingEnabled&&!advertisingConsent))banner.hidden=false;}
@@ -26,7 +37,7 @@ document.querySelector('#withdraw')?.addEventListener('click',()=>{saveChoices(f
 document.querySelector('#analytics-settings')?.addEventListener('click',()=>{syncConsentControls();banner.hidden=false;adultChoice.focus()});
 startAnalytics();
 document.querySelector('#language').onchange=e=>{const next=new URL(e.target.value,location.origin);if(document.querySelector('#cards')){next.search=location.search;next.hash=location.hash}location.href=next.href};
-document.querySelector('#print')?.addEventListener('click',()=>{event('print_attempt',{print_source:'template'});window.print()});
+document.querySelector('#print')?.addEventListener('click',()=>{requestPrint({print_source:'template'})});
 document.addEventListener('click',e=>{const original=e.target.closest('[data-original-file]');if(original)event('original_open',{pattern_id:original.dataset.originalFile,file_index:Number(original.dataset.fileIndex)||1});const outbound=e.target.closest('[data-outbound]');if(outbound)event('creator_visit',{pattern_id:outbound.dataset.outbound});const download=e.target.closest('[data-download]');if(download){event('file_download',{pattern_id:download.dataset.download});event('original_open',{pattern_id:download.dataset.download,print_source:'template'})}});
 function updateSaves(){document.querySelectorAll('[data-save]').forEach(b=>{const active=favorites.includes(b.dataset.save);b.setAttribute('aria-pressed',String(active));b.classList.toggle('is-saved',active);b.textContent=b.classList.contains('save')?(active?'♥':'♡'):(active?'♥ '+t.unsave:'♡ '+t.save);if(b.classList.contains('save')){const title=b.closest('.card').querySelector('h3').textContent;b.setAttribute('aria-label',(active?t.unsave:t.save)+' · '+title)}})}
 let rerender=()=>{};
@@ -43,7 +54,7 @@ async function fetchLatestCatalog(){
 }
 function safeHttps(value){try{const url=new URL(value);return url.protocol==='https:'?url.href:''}catch{return''}}
 function bindImageFallback(img){const fallback=()=>{img.hidden=true;const note=document.createElement('span');note.className='preview-unavailable';note.textContent=img.alt;img.after(note)};img.addEventListener('error',fallback,{once:true});if(img.complete&&!img.naturalWidth)fallback()}
-function bindPrintButton(button,image,patternId,mode){if(!button||!image)return;const ready=()=>{button.disabled=!(image.complete&&image.naturalWidth>0)};image.addEventListener('load',ready);image.addEventListener('error',()=>{button.disabled=true;button.hidden=true},{once:true});ready();button.addEventListener('click',()=>{if(button.disabled||!image.complete||!image.naturalWidth)return;document.body.classList.remove('print-preview','print-template');document.body.classList.add(mode==='template'?'print-template':'print-preview');event('print_attempt',{pattern_id:patternId,print_source:mode});window.print()})}
+function bindPrintButton(button,image,patternId,mode){if(!button||!image)return;const ready=()=>{button.disabled=!(image.complete&&image.naturalWidth>0)};image.addEventListener('load',ready);image.addEventListener('error',()=>{button.disabled=true;button.hidden=true},{once:true});ready();button.addEventListener('click',()=>{if(button.disabled||!image.complete||!image.naturalWidth)return;document.body.classList.remove('print-preview','print-template');document.body.classList.add(mode==='template'?'print-template':'print-preview');requestPrint({pattern_id:patternId,print_source:mode})})}
 document.querySelectorAll('[data-print-source]').forEach(button=>bindPrintButton(button,document.querySelector(button.dataset.printSource),button.dataset.printId,button.dataset.printMode));
 window.addEventListener('afterprint',()=>document.body.classList.remove('print-preview','print-template'));
 function makeCard(item,hasStaticDetail){
@@ -107,7 +118,7 @@ if(filePicker){document.body.classList.add('print-studio');const pages=document.
  for(const file of [...filePicker.files].slice(0,12)){if(!['image/png','image/jpeg','image/webp'].includes(file.type)||file.size>15*1024*1024){failed=true;continue}const url=URL.createObjectURL(file),img=new Image();urls.push(url);img.src=url;img.alt=file.name;
  try{await img.decode()}catch{URL.revokeObjectURL(url);failed=true;continue}if(current!==generation){URL.revokeObjectURL(url);return}const sheet=document.createElement('section');sheet.className='studio-sheet';const remove=document.createElement('button');remove.className='sheet-remove';remove.textContent=pages.dataset.remove+' · '+file.name;remove.onclick=()=>{sheet.remove();URL.revokeObjectURL(url);button.disabled=!pages.children.length};sheet.append(remove,img);pages.append(sheet)}
  if(current!==generation)return;status.textContent=failed?pages.dataset.error:'';button.disabled=!pages.children.length;
- });button.onclick=()=>{event('print_attempt',{print_source:'local_files',page_count:pages.children.length});window.print()};window.addEventListener('pagehide',()=>urls.forEach(URL.revokeObjectURL));}
+ });button.onclick=()=>{requestPrint({print_source:'local_files',page_count:pages.children.length})};window.addEventListener('pagehide',()=>urls.forEach(URL.revokeObjectURL));}
 
 const healthData=document.querySelector('#health-data');
 if(healthData){
