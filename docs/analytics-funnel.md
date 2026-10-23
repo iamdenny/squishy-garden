@@ -34,3 +34,7 @@ Print-button testing on the preview and own strawberry template hit browser auto
 ## Bounded print dispatch
 
 Print buttons now allow the GA event queue to finish processing via `event_callback` before invoking the blocking print dialog. An independent 800 ms fallback opens printing even if the tag is blocked or never calls back; visitors without analytics consent print immediately. Repeated clicks during the wait and late callbacks cannot open duplicate dialogs. This improves dispatch opportunity, not a guarantee of delivery or a physical-print completion signal. See [Google control parameters](https://developers.google.com/tag-platform/gtagjs/reference/parameters) and [MDN print blocking behavior](https://developer.mozilla.org/en-US/docs/Web/API/Window/print).
+
+## Print receipt follow-up
+
+After deployment e89dbe9 and the owner cancelling the native print dialog, the refreshed GA4 realtime report visibly received `print_attempt: 1`. This completes receipt verification for search, detail view, original open and print attempt. This was controlled QA traffic, not proof of a completed physical print.
