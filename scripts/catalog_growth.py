@@ -7,6 +7,7 @@ from html.parser import HTMLParser
 from urllib.parse import urlsplit
 from datetime import datetime, timezone
 from collect import allowed_get
+from public_sources import eligible_listing
 
 class Evidence(HTMLParser):
  def __init__(self):
@@ -55,20 +56,24 @@ def category(title):
 def promote(queue,published,sources,fetch=allowed_get,now=None,budget=24):
  now=now or datetime.now(timezone.utc).isoformat();day=now[:10]
  approved={s['id']:s for s in sources if s.get('autoPublish')}
- existing={u for row in published for u in row.get('urls',{}).values()};result=list(published);checked=0
+ existing={u.rstrip('/') for row in published for u in row.get('urls',{}).values()};result=list(published);checked=0
  # Never reconsider rejected posts. Retry oldest checked candidate first to avoid starvation.
  candidates=sorted((r for r in queue if r['status']=='pending_review' and r['sourceId'] in approved),key=lambda r:r.get('lastReviewAttempt',''))
+ # Interleave sources so a large historical listing cannot starve other creators.
+ groups={}
+ for row in candidates:groups.setdefault(row['sourceId'],[]).append(row)
+ candidates=[row for rank in range(max((len(rows) for rows in groups.values()),default=0)) for rows in groups.values() for row in rows[rank:rank+1]]
  for row in candidates:
   if checked>=budget:break
   source=approved[row['sourceId']]
   if urlsplit(row['url']).hostname!=urlsplit(source['feed']).hostname:continue
-  if row['url'] in existing:row['status']='published';continue
+  if row['url'].rstrip('/') in existing:row['status']='published';continue
   checked+=1;row['lastReviewAttempt']=now
   try:
-   evidence,reason=eligible(row,fetch(row['url']))
+   evidence,reason=(eligible_listing if source.get('adapter')=='listing' else eligible)(row,fetch(row['url']))
    if not evidence:row['reviewNote']=reason;continue
-   title=unescape(row['title']);item={'id':'feed-'+row['id'],'title':{lang:title for lang in ['ko','en','ja']},'titleLanguage':'ko','urls':{'ko':row['url']},'creator':source['creator'],'kind':'external','category':category(title),'difficulty':'unknown','access':'free','rights':'source-only','thumbnail':evidence.meta['og:image'],'checkedAt':day,'firstSeenAt':day,'sourcePublishedAt':row.get('sourcePublishedAt'),'tags':['스퀴시','squishy','スクイーズ'],'health':{'status':'reachable','checkedAt':day,'lastConfirmedStatus':'reachable','lastConfirmedAt':day},'verification':{'method':'approved-feed-and-article-v1','checkedAt':now,'sourceUrl':row['url']}}
+   title=getattr(evidence,'title',unescape(row['title']));item={'id':'feed-'+row['id'],'title':{lang:title for lang in ['ko','en','ja']},'titleLanguage':source.get('language','ko'),'urls':{'ko':row['url']},'creator':source['creator'],'kind':'external','category':category(title),'difficulty':'unknown','access':'free','rights':'source-only','thumbnail':evidence.meta['og:image'],'checkedAt':day,'firstSeenAt':day,'sourcePublishedAt':row.get('sourcePublishedAt'),'tags':['스퀴시','squishy','スクイーズ'],'health':{'status':'reachable','checkedAt':day,'lastConfirmedStatus':'reachable','lastConfirmedAt':day},'verification':{'method':'approved-listing-and-file-v1' if source.get('adapter')=='listing' else 'approved-feed-and-article-v1','sourceId':source['id'],'checkedAt':now,'sourceUrl':row['url']}}
    if '스퀴시북' in title:item['craftType']='book'
-   result.append(item);existing.add(row['url']);row['status']='published';row['reviewNote']='Source title, free-template claim and in-article printable evidence verified'
+   result.append(item);existing.add(row['url'].rstrip('/'));row['status']='published';row['reviewNote']='Source title, free-template claim and in-article printable evidence verified'
   except Exception as error:row['reviewNote']='Source verification failed: '+type(error).__name__
  return result,checked
