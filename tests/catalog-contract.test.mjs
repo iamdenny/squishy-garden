@@ -28,3 +28,11 @@ test('current generated multilingual snapshot satisfies the browser contract',as
  assert.equal(validateCatalog(current),current);
  assert(current.items.length>=100);
 });
+
+test('live health rejects malformed status and timestamps',()=>{
+ const base={schemaVersion:1,updatedAt:'2026-10-23T00:00:00Z',items:[{id:'test',kind:'original',category:'food',creator:'Creator',title:{ko:'a',en:'a',ja:'a'}}]};
+ const health={lastAttempt:base.updatedAt,primaryStatus:'reachable',pendingReview:0,discovery:[{sourceId:'test',status:'reachable',checkedAt:base.updatedAt}]};
+ assert.doesNotThrow(()=>validateCatalog({...base,health}));
+ assert.throws(()=>validateCatalog({...base,health:{...health,discovery:[{sourceId:'test',status:'reachable',checkedAt:'bad'}]}}));
+ assert.throws(()=>validateCatalog({...base,health:{...health,pendingReview:-1}}));
+});

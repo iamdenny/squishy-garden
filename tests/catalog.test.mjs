@@ -17,3 +17,9 @@ test('default discovery puts confirmed missing sources last without losing saved
  assert.deepEqual(selectItems(rows,{sort:'name'}).map(i=>i.id),['missing','uncertain','recovered']);
  assert.deepEqual(rows.map(i=>i.id),['missing','uncertain','recovered']);
 });
+
+test('cross-language character queries find original-language creator titles',()=>{
+ const rows=[{id:'c',creator:'Creator',category:'play',title:{ko:'산리오 시나모롤 스퀴시북',en:'산리오 시나모롤 스퀴시북',ja:'산리오 시나모롤 스퀴시북'}}];
+ for(const q of ['cinnamoroll','シナモロール','sanrio 시나모롤','스퀴즈 도안'])assert.equal(selectItems(rows,{q}).length,1);
+ assert.equal(selectItems(rows,{q:'kuromi'}).length,0);
+});
