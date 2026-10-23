@@ -46,6 +46,117 @@
   },
   "items": [
     {
+      "id": "h-squishy0145",
+      "title": {
+        "ko": "버터 패키지",
+        "en": "Butter Package",
+        "ja": "バターパッケージ"
+      },
+      "urls": {
+        "ko": "https://hyeriming.com/ko/print/squishy0145/",
+        "en": "https://hyeriming.com/en/print/squishy0145/",
+        "ja": "https://hyeriming.com/ja/print/squishy0145/"
+      },
+      "creator": "Hyeriming",
+      "kind": "external",
+      "access": "free",
+      "checkedAt": "2026-10-23",
+      "rights": "source-only",
+      "category": "food",
+      "difficulty": "unknown",
+      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0145.webp",
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23"
+    },
+    {
+      "id": "h-squishy0016",
+      "title": {
+        "ko": "붕어빵 스퀴시",
+        "en": "Bungeoppang Squishy",
+        "ja": "붕어빵（ブンオパン）セット"
+      },
+      "urls": {
+        "ko": "https://hyeriming.com/ko/print/squishy0016/",
+        "en": "https://hyeriming.com/en/print/squishy0016/",
+        "ja": "https://hyeriming.com/ja/print/squishy0016/"
+      },
+      "creator": "Hyeriming",
+      "kind": "external",
+      "access": "free",
+      "checkedAt": "2026-10-23",
+      "rights": "source-only",
+      "category": "food",
+      "difficulty": "unknown",
+      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0016.webp",
+      "firstSeenAt": "2026-10-22"
+    },
+    {
+      "id": "h-squishy0114",
+      "title": {
+        "ko": "떡볶이 그릇",
+        "en": "Tteokbokki Bowl",
+        "ja": "トッポッキ"
+      },
+      "urls": {
+        "ko": "https://hyeriming.com/ko/print/squishy0114/",
+        "en": "https://hyeriming.com/en/print/squishy0114/",
+        "ja": "https://hyeriming.com/ja/print/squishy0114/"
+      },
+      "creator": "Hyeriming",
+      "kind": "external",
+      "access": "free",
+      "checkedAt": "2026-10-23",
+      "rights": "source-only",
+      "category": "food",
+      "difficulty": "unknown",
+      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0114.webp",
+      "firstSeenAt": "2026-10-22"
+    },
+    {
+      "id": "h-squishy0093",
+      "title": {
+        "ko": "믹스 과일산도",
+        "en": "Mixed Fruit Sando",
+        "ja": "ぶどうフルーツサンド"
+      },
+      "urls": {
+        "ko": "https://hyeriming.com/ko/print/squishy0093/",
+        "en": "https://hyeriming.com/en/print/squishy0093/",
+        "ja": "https://hyeriming.com/ja/print/squishy0093/"
+      },
+      "creator": "Hyeriming",
+      "kind": "external",
+      "access": "free",
+      "checkedAt": "2026-10-23",
+      "rights": "source-only",
+      "category": "food",
+      "difficulty": "unknown",
+      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0093.webp",
+      "firstSeenAt": "2026-10-22"
+    },
+    {
+      "id": "h-squishy0113",
+      "title": {
+        "ko": "마라탕 그릇",
+        "en": "Mala Soup Bowl",
+        "ja": "マーラータン"
+      },
+      "urls": {
+        "ko": "https://hyeriming.com/ko/print/squishy0113/",
+        "en": "https://hyeriming.com/en/print/squishy0113/",
+        "ja": "https://hyeriming.com/ja/print/squishy0113/"
+      },
+      "creator": "Hyeriming",
+      "kind": "external",
+      "access": "free",
+      "checkedAt": "2026-10-23",
+      "rights": "source-only",
+      "category": "food",
+      "difficulty": "unknown",
+      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0113.webp",
+      "firstSeenAt": "2026-10-22"
+    },
+    {
       "id": "rosazzing-cinnamoroll",
       "title": {
         "ko": "시나모롤·포롱 스퀴시",
@@ -4127,29 +4238,6 @@
       "detailCheckedAt": "2026-10-22"
     },
     {
-      "id": "h-squishy0145",
-      "title": {
-        "ko": "버터 패키지",
-        "en": "Butter Package",
-        "ja": "バターパッケージ"
-      },
-      "urls": {
-        "ko": "https://hyeriming.com/ko/print/squishy0145/",
-        "en": "https://hyeriming.com/en/print/squishy0145/",
-        "ja": "https://hyeriming.com/ja/print/squishy0145/"
-      },
-      "creator": "Hyeriming",
-      "kind": "external",
-      "access": "free",
-      "checkedAt": "2026-10-23",
-      "rights": "source-only",
-      "category": "food",
-      "difficulty": "unknown",
-      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0145.webp",
-      "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23"
-    },
-    {
       "id": "h-squishy0144",
       "title": {
         "ko": "강아지 도시락",
@@ -4708,50 +4796,6 @@
       "firstSeenAt": "2026-10-22"
     },
     {
-      "id": "h-squishy0114",
-      "title": {
-        "ko": "떡볶이 그릇",
-        "en": "Tteokbokki Bowl",
-        "ja": "トッポッキ"
-      },
-      "urls": {
-        "ko": "https://hyeriming.com/ko/print/squishy0114/",
-        "en": "https://hyeriming.com/en/print/squishy0114/",
-        "ja": "https://hyeriming.com/ja/print/squishy0114/"
-      },
-      "creator": "Hyeriming",
-      "kind": "external",
-      "access": "free",
-      "checkedAt": "2026-10-23",
-      "rights": "source-only",
-      "category": "food",
-      "difficulty": "unknown",
-      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0114.webp",
-      "firstSeenAt": "2026-10-22"
-    },
-    {
-      "id": "h-squishy0113",
-      "title": {
-        "ko": "마라탕 그릇",
-        "en": "Mala Soup Bowl",
-        "ja": "マーラータン"
-      },
-      "urls": {
-        "ko": "https://hyeriming.com/ko/print/squishy0113/",
-        "en": "https://hyeriming.com/en/print/squishy0113/",
-        "ja": "https://hyeriming.com/ja/print/squishy0113/"
-      },
-      "creator": "Hyeriming",
-      "kind": "external",
-      "access": "free",
-      "checkedAt": "2026-10-23",
-      "rights": "source-only",
-      "category": "food",
-      "difficulty": "unknown",
-      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0113.webp",
-      "firstSeenAt": "2026-10-22"
-    },
-    {
       "id": "h-squishy0112",
       "title": {
         "ko": "삼겹살 불판",
@@ -5145,28 +5189,6 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0095.webp",
-      "firstSeenAt": "2026-10-22"
-    },
-    {
-      "id": "h-squishy0093",
-      "title": {
-        "ko": "믹스 과일산도",
-        "en": "Mixed Fruit Sando",
-        "ja": "ぶどうフルーツサンド"
-      },
-      "urls": {
-        "ko": "https://hyeriming.com/ko/print/squishy0093/",
-        "en": "https://hyeriming.com/en/print/squishy0093/",
-        "ja": "https://hyeriming.com/ja/print/squishy0093/"
-      },
-      "creator": "Hyeriming",
-      "kind": "external",
-      "access": "free",
-      "checkedAt": "2026-10-23",
-      "rights": "source-only",
-      "category": "food",
-      "difficulty": "unknown",
-      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0093.webp",
       "firstSeenAt": "2026-10-22"
     },
     {
@@ -6443,28 +6465,6 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0017.webp",
-      "firstSeenAt": "2026-10-22"
-    },
-    {
-      "id": "h-squishy0016",
-      "title": {
-        "ko": "붕어빵 스퀴시",
-        "en": "Bungeoppang Squishy",
-        "ja": "붕어빵（ブンオパン）セット"
-      },
-      "urls": {
-        "ko": "https://hyeriming.com/ko/print/squishy0016/",
-        "en": "https://hyeriming.com/en/print/squishy0016/",
-        "ja": "https://hyeriming.com/ja/print/squishy0016/"
-      },
-      "creator": "Hyeriming",
-      "kind": "external",
-      "access": "free",
-      "checkedAt": "2026-10-23",
-      "rights": "source-only",
-      "category": "food",
-      "difficulty": "unknown",
-      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0016.webp",
       "firstSeenAt": "2026-10-22"
     },
     {
