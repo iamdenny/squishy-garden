@@ -52,5 +52,11 @@
     "status": "reachable",
     "checkedAt": "2026-10-23T14:33:38.606684+00:00",
     "matchingItems": 180
+  },
+  {
+    "sourceId": "squishyidea",
+    "status": "reachable",
+    "checkedAt": "2026-10-23T15:25:09.841696+00:00",
+    "matchingItems": 14
   }
 ]

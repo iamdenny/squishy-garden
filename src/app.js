@@ -2,7 +2,7 @@ import {printCopy,printableFiles,printableLabel,hasPrintableOriginal} from './pr
 import {selectItems,sourceUnavailable} from './search.mjs';
 import {validateCatalog,catalogIsCurrent} from './catalog-contract.mjs';
 import {text} from './i18n.mjs';
-import {detailCopy} from './detail.mjs';
+import {detailCopy,accessRequirementLabel} from './detail.mjs';
 const config=JSON.parse(document.querySelector('#site-config').textContent),t=text[config.lang];
 const read=(key,fallback)=>{try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}};
 const write=(key,value)=>{try{localStorage.setItem(key,JSON.stringify(value))}catch{}};
@@ -96,7 +96,7 @@ if(apiPattern){
   if(!patternId)throw new Error('Missing pattern id');const payload=await fetchLatestCatalog();if(!payload)throw new Error('Catalog API is not configured');const item=payload.items.find(i=>i.id===patternId);if(!item)throw new Error('Pattern is not in the latest catalog');
   const title=item.title?.[config.lang]||item.title?.ko||item.id,category=t.cats[item.category]||item.category,summary=d.summary(title,item.creator,category),source=safeHttps(item.urls?.[config.lang]||item.urls?.ko||'');
   document.querySelector('#api-title').textContent=title;status.textContent=summary;document.title=`${title} | ${t.brand}`;document.querySelector('meta[name="description"]').content=summary;
-  document.querySelector('#api-creator').textContent=item.creator;document.querySelector('#api-access').textContent=item.access==='free'?t.free:item.access==='paid'?t.paid:d.unknownAccess;document.querySelector('#api-shape').textContent=item.craftType==='book'?d.book:d.unknownShape;
+  document.querySelector('#api-creator').textContent=item.creator;document.querySelector('#api-access').textContent=(item.access==='free'?t.free:item.access==='paid'?t.paid:d.unknownAccess)+accessRequirementLabel(item,lang);document.querySelector('#api-shape').textContent=item.craftType==='book'?d.book:d.unknownShape;
   const checked=item.checkedAt?new Date(item.checkedAt):null;document.querySelector('#api-checked').textContent=checked&&!Number.isNaN(checked.valueOf())?new Intl.DateTimeFormat(config.lang,{dateStyle:'medium'}).format(checked):d.unknownShape;
   const categoryArt={food:'strawberry',animals:'bear',nature:'cloud',seasonal:'star',play:'milk'},preview=item.thumbnail?safeHttps(item.thumbnail):'';const image=document.querySelector('#api-preview');image.alt=title;image.referrerPolicy='no-referrer';image.closest('figure').classList.toggle('has-preview',Boolean(preview));image.src=preview||`/art/${item.kind==='original'?encodeURIComponent(item.id):(categoryArt[item.category]||'strawberry')}.svg`;bindImageFallback(image);const printButton=document.querySelector('#api-print');if(preview)bindPrintButton(printButton,image,item.id,'preview');else printButton.hidden=true;
   const files=printableFiles(item),fileSection=document.querySelector('#api-printables');
