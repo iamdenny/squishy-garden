@@ -1,340 +1,172 @@
 {
-  "lastSuccessfulCheck": "2026-10-23T14:18:25.866227+00:00",
+  "lastSuccessfulCheck": "2026-10-23T23:53:09.174816+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "gripipi-rice-house",
+      "id": "72page-chips",
+      "status": "unverified",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "archive-1f11ff29a0c1538f",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "sowony-sweet-game",
+      "id": "archive-2113b82722f9e173",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "pokemon-bread",
+      "id": "archive-2a65313580ed5799",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "sanrio-diy",
+      "id": "archive-428139753e46ac93",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-melody-kitty",
+      "id": "archive-444b2c4b704f4942",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-kuromi-purin",
+      "id": "archive-47296e1b8c1835d4",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-cinnamoroll",
+      "id": "archive-50f08e25fb6c6602",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-kuromi-snack",
+      "id": "archive-52afdaa74d9da574",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-melody-square",
+      "id": "archive-590a1242dd2b3ffc",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-labubu",
+      "id": "archive-620133ba83adaa92",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "gripipi-haerin-book",
+      "id": "archive-633d2ea81b65c7a2",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "gripipi-unicorn-wallet",
+      "id": "archive-66f01e576628e4f6",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "gripipi-unicorn-house",
+      "id": "archive-683477cfe3d9e3fc",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "ryong-iphone",
+      "id": "archive-6c67907145e7fc1e",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "ryong-gummy-wallet",
+      "id": "archive-6e020fb49cec8b02",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "ryong-pokemon-taiyaki",
+      "id": "archive-7830cf2b4f79ab27",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "ryong-ditto-book",
+      "id": "archive-79e550c9a2fd52ce",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "ryong-pokemon-bread",
+      "id": "archive-819ff9458ec805b6",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "ryong-poliwag-bread",
+      "id": "archive-874ace6504510661",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-icecream",
+      "id": "archive-9134e25696425f64",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-kitty-square",
+      "id": "archive-91dce349f561cc0d",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-mini-labubu",
+      "id": "archive-97e484ca99e09bf1",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
     {
-      "id": "rosazzing-pochacco-square",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "rosazzing-sandwich",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "rosazzing-cinnamoroll-square",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "rosazzing-derpy",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "rosazzing-giant-labubu-macaron",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "rosazzing-giant-labubu-highlight",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "ddany-dubai-chocolate",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "yellow-chocolate",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "makeit-winter-snacks",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "torim-kitty-cosmetics",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-e7ea52e56c597665",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-826a94a69182af2f",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-cd128099cfab4611",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-b615a1f858a78e6c",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-53758ac9f7a0e525",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-9229b0ab4de9f1c5",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-9f1f0d4d517b92b5",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-a23713509eeca5aa",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-0d92eaec2c0e6873",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-488ebad22b6a669f",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-75e965e85b0a305e",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-e3169b1a5c141eb6",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "feed-2035fde09c12f283",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "h-squishySet0003",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "h-squishy0055",
-      "status": "reachable",
-      "checkedAt": "2026-10-23",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "h-squishy0037",
+      "id": "archive-acbbebe526ad5ddb",
       "status": "reachable",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
@@ -343,7 +175,7 @@
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-10-23T14:18:25.866227+00:00",
+  "lastAttempt": "2026-10-23T23:53:09.174816+00:00",
   "primaryStatus": "reachable",
-  "partialFailure": false
+  "partialFailure": true
 }

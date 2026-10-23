@@ -2022,11 +2022,12 @@
       "sourceUrl": "https://m.72page.com/article/%EB%AC%B4%EB%A3%8C%EB%8F%84%EC%95%88/1002/3961/"
     },
     "health": {
-      "status": "reachable",
+      "status": "unverified",
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "feed-8c00279888495e28",
@@ -13639,7 +13640,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:56:50.706391+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/463"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-1f11ff29a0c1538f",
@@ -13677,7 +13679,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:56:52.166161+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/451"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-66f01e576628e4f6",
@@ -13715,7 +13718,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:57:00.926770+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/414"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-444b2c4b704f4942",
@@ -13753,7 +13757,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:57:02.357681+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/413"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-7830cf2b4f79ab27",
@@ -13791,7 +13796,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:57:03.920741+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/412"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-6e020fb49cec8b02",
@@ -13829,7 +13835,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:57:06.982549+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/410"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-97e484ca99e09bf1",
@@ -13867,7 +13874,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:57:08.623512+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/407"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-428139753e46ac93",
@@ -13906,7 +13914,8 @@
       "checkedAt": "2026-10-23T14:57:11.552404+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/395"
     },
-    "craftType": "book"
+    "craftType": "book",
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-2113b82722f9e173",
@@ -13944,7 +13953,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:57:13.040149+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/393"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-47296e1b8c1835d4",
@@ -13982,7 +13992,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:57:17.333314+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/302"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-f550ba4edf71e814",
@@ -14096,7 +14107,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:57:23.332112+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/286"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-50f08e25fb6c6602",
@@ -14134,7 +14146,8 @@
       "sourceId": "ryongryongkid.tistory.com",
       "checkedAt": "2026-10-23T14:57:26.222656+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/277"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-f9d484611562826b",
@@ -14210,7 +14223,8 @@
       "sourceId": "rosazzing.tistory.com",
       "checkedAt": "2026-10-23T14:57:40.472260+00:00",
       "sourceUrl": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%8A%88%ED%8C%85%EC%8A%A4%ED%83%80-%EC%BA%90%EC%B9%98%ED%8B%B0%EB%8B%88%ED%95%91-%EC%98%A4%EB%A1%9C%EB%9D%BC%ED%95%91-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-f344324f6edea9c5",
@@ -14286,7 +14300,8 @@
       "sourceId": "rosazzing.tistory.com",
       "checkedAt": "2026-10-23T14:57:42.747925+00:00",
       "sourceUrl": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%BA%90%EC%B9%98%ED%8B%B0%EB%8B%88%ED%95%91-%EB%A7%88%EC%B9%B4%ED%95%91-%EC%8A%A4%ED%80%B4%EC%8B%9C%EB%A7%90%EB%9E%91%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-b3b560119fc72bc9",
@@ -14400,7 +14415,8 @@
       "sourceId": "rosazzing.tistory.com",
       "checkedAt": "2026-10-23T14:57:46.187642+00:00",
       "sourceUrl": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%BA%90%EC%B9%98%ED%8B%B0%EB%8B%88%ED%95%91-%EC%9A%94%EA%B1%B0%ED%95%91-%EC%8A%A4%ED%80%B4%EC%8B%9C%EB%A7%90%EB%9E%91%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-be1df6979938a709",
@@ -14476,7 +14492,8 @@
       "sourceId": "rosazzing.tistory.com",
       "checkedAt": "2026-10-23T14:57:48.473689+00:00",
       "sourceUrl": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%82%B0%EB%A6%AC%EC%98%A4-%EC%BF%A0%EB%A1%9C%EB%AF%B8%ED%95%BC%EB%9F%AC%EC%9C%88-%EC%BD%94%EC%8A%A4%ED%8A%AC-%EC%8A%A4%ED%80%B4%EC%8B%9C%EB%A7%90%EB%9E%91%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-2a65313580ed5799",
@@ -14514,7 +14531,8 @@
       "sourceId": "rosazzing.tistory.com",
       "checkedAt": "2026-10-23T14:57:49.614033+00:00",
       "sourceUrl": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%BA%90%EC%B9%98%ED%8B%B0%EB%8B%88%ED%95%91-%EB%A9%9C%EB%A1%9C%ED%95%91-%EC%8A%A4%ED%80%B4%EC%8B%9C%EB%A7%90%EB%9E%91%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-819ff9458ec805b6",
@@ -14552,7 +14570,8 @@
       "sourceId": "rosazzing.tistory.com",
       "checkedAt": "2026-10-23T14:57:50.774769+00:00",
       "sourceUrl": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%82%B0%EB%A6%AC%EC%98%A4-%EC%8B%9C%EB%82%98%EB%AA%A8%EB%A1%A4-%EC%8A%A4%ED%80%B4%EC%8B%9C%EB%A7%90%EB%9E%91%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-874ace6504510661",
@@ -14590,7 +14609,8 @@
       "sourceId": "rosazzing.tistory.com",
       "checkedAt": "2026-10-23T14:57:51.915924+00:00",
       "sourceUrl": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%BA%90%EC%B9%98%ED%8B%B0%EB%8B%88%ED%95%91-%EC%83%88%EC%BD%A4%ED%95%91-%EC%8A%A4%ED%80%B4%EC%8B%9C%EB%A7%90%EB%9E%91%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-91dce349f561cc0d",
@@ -14628,7 +14648,8 @@
       "sourceId": "rosazzing.tistory.com",
       "checkedAt": "2026-10-23T14:57:53.068815+00:00",
       "sourceUrl": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%BA%90%EC%B9%98%ED%8B%B0%EB%8B%88%ED%95%91-%EB%8B%AC%EC%BD%A4%ED%95%91-%EC%8A%A4%ED%80%B4%EC%8B%9C%EB%A7%90%EB%9E%91%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-e7ebb3feba227c65",
@@ -14704,7 +14725,8 @@
       "sourceId": "flameofyou.tistory.com",
       "checkedAt": "2026-10-23T14:57:57.017458+00:00",
       "sourceUrl": "https://flameofyou.tistory.com/212"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-79e550c9a2fd52ce",
@@ -14742,7 +14764,8 @@
       "sourceId": "flameofyou.tistory.com",
       "checkedAt": "2026-10-23T14:57:59.729605+00:00",
       "sourceUrl": "https://flameofyou.tistory.com/161"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "archive-6c67907145e7fc1e",
@@ -14780,7 +14803,8 @@
       "sourceId": "flameofyou.tistory.com",
       "checkedAt": "2026-10-23T14:58:42.421549+00:00",
       "sourceUrl": "https://flameofyou.tistory.com/100"
-    }
+    },
+    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
   },
   {
     "id": "squishyidea-dumpling-squishy-pdf-pattern",
