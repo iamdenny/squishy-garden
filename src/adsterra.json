@@ -28,7 +28,7 @@
       "src": "https://bauval.org/22/053bae2cd59630e2dbeb6a015d91a1eb",
       "width": 160,
       "height": 600,
-      "media": "(min-width: 1700px)"
+      "media": "(min-width: 1200px)"
     },
     {
       "id": "right-rail",
@@ -37,7 +37,7 @@
       "src": "https://bauval.org/22/794d17b73cf93aefd314f5386d018f34",
       "width": 160,
       "height": 300,
-      "media": "(min-width: 1700px)"
+      "media": "(min-width: 1200px)"
     },
     {
       "id": "bottom-rectangle",
