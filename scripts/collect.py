@@ -128,7 +128,7 @@ def check_extra(row):
    if info:row['printable']=info
    else:row.pop('printable',None)
   row['checkedAt']=TODAY
-  if row.get('verification',{}).get('method')=='approved-listing-and-file-v1':
+  if row.get('verification',{}).get('method') in ('approved-listing-and-file-v1','approved-listing-and-form-v1','editorial-download-form-v1'):
    from public_sources import eligible_listing
    evidence,reason=eligible_listing({'sourceId':row['verification']['sourceId'],'url':row['urls']['ko']},html)
    row['access']='free' if evidence else 'unknown'

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "6f6f9339ed1f1de7dda7f5a8322fcda009e94bf782c85a1b9862130815ef15b4",
-  "generatedAt": "2026-10-23T15:06:46.437Z",
+  "revision": "086653d5f1a9073a6fdc2ca52611d1ffd457f73f3b2be5cd88e0c962b8b46216",
+  "generatedAt": "2026-10-23T15:36:45.284Z",
   "updatedAt": "2026-10-23T14:18:25.866227+00:00",
   "health": {
     "lastAttempt": "2026-10-23T14:18:25.866227+00:00",
@@ -60,9 +60,15 @@
         "status": "reachable",
         "checkedAt": "2026-10-23T14:33:38.606684+00:00",
         "matchingItems": 180
+      },
+      {
+        "sourceId": "squishyidea",
+        "status": "reachable",
+        "checkedAt": "2026-10-23T15:25:09.841696+00:00",
+        "matchingItems": 14
       }
     ],
-    "pendingReview": 255
+    "pendingReview": 252
   },
   "items": [
     {
@@ -15348,6 +15354,806 @@
         "sourceId": "flameofyou.tistory.com",
         "checkedAt": "2026-10-23T14:58:42.421549+00:00",
         "sourceUrl": "https://flameofyou.tistory.com/100"
+      }
+    },
+    {
+      "id": "squishyidea-dumpling-squishy-pdf-pattern",
+      "title": {
+        "ko": "Dumpling Squishy PDF Pattern",
+        "en": "Dumpling Squishy PDF Pattern",
+        "ja": "Dumpling Squishy PDF Pattern"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/dumpling-squishy-pdf-pattern",
+        "ko": "https://squishyidea.com/templates/dumpling-squishy-pdf-pattern"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/dumpling-squishy-pdf-pattern.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:19.816471+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/dumpling-squishy-pdf-pattern"
+      }
+    },
+    {
+      "id": "squishyidea-butter-squishy-paper-template",
+      "title": {
+        "ko": "Butter Squishy Paper Template",
+        "en": "Butter Squishy Paper Template",
+        "ja": "Butter Squishy Paper Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/butter-squishy-paper-template",
+        "ko": "https://squishyidea.com/templates/butter-squishy-paper-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/butter-squishy-paper-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:21.102139+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/butter-squishy-paper-template"
+      }
+    },
+    {
+      "id": "squishyidea-cheese-squishy-idea-pack",
+      "title": {
+        "ko": "Cheese Squishy Idea Pack",
+        "en": "Cheese Squishy Idea Pack",
+        "ja": "Cheese Squishy Idea Pack"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/cheese-squishy-idea-pack",
+        "ko": "https://squishyidea.com/templates/cheese-squishy-idea-pack"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/cheese-squishy-idea-pack.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:22.865447+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/cheese-squishy-idea-pack"
+      }
+    },
+    {
+      "id": "squishyidea-ice-cube-paper-squishy-template",
+      "title": {
+        "ko": "Ice Cube Paper Squishy Template",
+        "en": "Ice Cube Paper Squishy Template",
+        "ja": "Ice Cube Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/ice-cube-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/ice-cube-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/ice-cube-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:24.441724+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/ice-cube-paper-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-strawberry-milk-carton-squishy-template",
+      "title": {
+        "ko": "Strawberry Milk Carton Squishy Template",
+        "en": "Strawberry Milk Carton Squishy Template",
+        "ja": "Strawberry Milk Carton Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/strawberry-milk-carton-squishy-template",
+        "ko": "https://squishyidea.com/templates/strawberry-milk-carton-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/strawberry-milk-carton-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:25.886861+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/strawberry-milk-carton-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-boba-paper-squishy-template",
+      "title": {
+        "ko": "Boba Paper Squishy Template",
+        "en": "Boba Paper Squishy Template",
+        "ja": "Boba Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/boba-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/boba-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/boba-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:27.405636+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/boba-paper-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-cookie-paper-squishy-template",
+      "title": {
+        "ko": "Cookie Paper Squishy Template",
+        "en": "Cookie Paper Squishy Template",
+        "ja": "Cookie Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/cookie-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/cookie-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/cookie-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:28.914581+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/cookie-paper-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-watermelon-paper-squishy-template",
+      "title": {
+        "ko": "Watermelon Paper Squishy Template",
+        "en": "Watermelon Paper Squishy Template",
+        "ja": "Watermelon Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/watermelon-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/watermelon-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/watermelon-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:30.497448+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/watermelon-paper-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-cute-snack-bag-paper-squishy-template",
+      "title": {
+        "ko": "Cute Snack Bag Paper Squishy Template",
+        "en": "Cute Snack Bag Paper Squishy Template",
+        "ja": "Cute Snack Bag Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/cute-snack-bag-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/cute-snack-bag-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/cute-snack-bag-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:32.038713+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/cute-snack-bag-paper-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-candy-paper-squishy-template",
+      "title": {
+        "ko": "Candy Paper Squishy Template",
+        "en": "Candy Paper Squishy Template",
+        "ja": "Candy Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/candy-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/candy-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/candy-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:33.507943+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/candy-paper-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-ice-cream-paper-squishy-template",
+      "title": {
+        "ko": "Ice Cream Paper Squishy Template",
+        "en": "Ice Cream Paper Squishy Template",
+        "ja": "Ice Cream Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/ice-cream-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/ice-cream-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/ice-cream-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:35.047280+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/ice-cream-paper-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-pizza-paper-squishy-template",
+      "title": {
+        "ko": "Pizza Paper Squishy Template",
+        "en": "Pizza Paper Squishy Template",
+        "ja": "Pizza Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/pizza-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/pizza-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/pizza-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:36.520378+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/pizza-paper-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-avocado-paper-squishy-template",
+      "title": {
+        "ko": "Avocado Paper Squishy Template",
+        "en": "Avocado Paper Squishy Template",
+        "ja": "Avocado Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/avocado-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/avocado-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/avocado-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:38.018640+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/avocado-paper-squishy-template"
+      }
+    },
+    {
+      "id": "squishyidea-cupcake-paper-squishy-template",
+      "title": {
+        "ko": "Cupcake Paper Squishy Template",
+        "en": "Cupcake Paper Squishy Template",
+        "ja": "Cupcake Paper Squishy Template"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "en": "https://squishyidea.com/templates/cupcake-paper-squishy-template",
+        "ko": "https://squishyidea.com/templates/cupcake-paper-squishy-template"
+      },
+      "creator": "SQUISHY IDEA",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "accessRequirement": "email",
+      "rights": "source-only",
+      "thumbnail": "https://squishyidea.com/images/cupcake-paper-squishy-template.png",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-download-form-v1",
+        "sourceId": "squishyidea",
+        "checkedAt": "2026-10-23T15:18:39.506431+00:00",
+        "sourceUrl": "https://squishyidea.com/templates/cupcake-paper-squishy-template"
+      }
+    },
+    {
+      "id": "etsy-4585556941",
+      "title": {
+        "ko": "Paper Squishy Template - DIY Halloween Craft Cute Kawaii Printable PDF Squishy Dumplings, Butter, Bubble Tea, Pumpkin, Candy Corn, Vampire",
+        "en": "Paper Squishy Template - DIY Halloween Craft Cute Kawaii Printable PDF Squishy Dumplings, Butter, Bubble Tea, Pumpkin, Candy Corn, Vampire",
+        "ja": "Paper Squishy Template - DIY Halloween Craft Cute Kawaii Printable PDF Squishy Dumplings, Butter, Bubble Tea, Pumpkin, Candy Corn, Vampire"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "ko": "https://www.etsy.com/listing/4585556941/paper-squishy-template-diy-halloween",
+        "en": "https://www.etsy.com/listing/4585556941/paper-squishy-template-diy-halloween"
+      },
+      "creator": "HuxmayPrint · Etsy",
+      "kind": "external",
+      "category": "seasonal",
+      "difficulty": "unknown",
+      "access": "paid",
+      "rights": "source-only",
+      "thumbnail": "https://i.etsystatic.com/63930704/r/il/e4b09d/8600669136/il_1588xN.8600669136_a4k4.jpg",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "editorial-browser-product-v1",
+        "sourceId": "etsy-editorial",
+        "checkedAt": "2026-10-23T15:13:23.890Z",
+        "sourceUrl": "https://www.etsy.com/listing/4585556941/paper-squishy-template-diy-halloween",
+        "fileTypes": "1 PDF"
+      }
+    },
+    {
+      "id": "etsy-4450326805",
+      "title": {
+        "ko": "Paper Squishy Template DIY Printable PDF Food Chip Bag Squishes Craft for Kids Make Your Own Paper Squishy Toy Color Cut and Assemble",
+        "en": "Paper Squishy Template DIY Printable PDF Food Chip Bag Squishes Craft for Kids Make Your Own Paper Squishy Toy Color Cut and Assemble",
+        "ja": "Paper Squishy Template DIY Printable PDF Food Chip Bag Squishes Craft for Kids Make Your Own Paper Squishy Toy Color Cut and Assemble"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "ko": "https://www.etsy.com/listing/4450326805/paper-squishy-template-diy-printable-pdf",
+        "en": "https://www.etsy.com/listing/4450326805/paper-squishy-template-diy-printable-pdf"
+      },
+      "creator": "PlaytimeAtelier · Etsy",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "paid",
+      "rights": "source-only",
+      "thumbnail": "https://i.etsystatic.com/60206958/r/il/32a764/7662039836/il_1588xN.7662039836_fv3j.jpg",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23T15:28:55.118Z",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23T15:28:55.118Z"
+      },
+      "verification": {
+        "method": "editorial-browser-product-v1",
+        "sourceId": "etsy-editorial",
+        "checkedAt": "2026-10-23T15:28:55.118Z",
+        "sourceUrl": "https://www.etsy.com/listing/4450326805/paper-squishy-template-diy-printable-pdf",
+        "fileTypes": "5 PDF"
+      }
+    },
+    {
+      "id": "etsy-4448781996",
+      "title": {
+        "ko": "Paper Squishy Template DIY Food Squishes Printable Craft PDF Make Your Own Cute Kawaii Paper Squishy Toy Color Cut and Assemble Activity",
+        "en": "Paper Squishy Template DIY Food Squishes Printable Craft PDF Make Your Own Cute Kawaii Paper Squishy Toy Color Cut and Assemble Activity",
+        "ja": "Paper Squishy Template DIY Food Squishes Printable Craft PDF Make Your Own Cute Kawaii Paper Squishy Toy Color Cut and Assemble Activity"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "ko": "https://www.etsy.com/listing/4448781996/paper-squishy-template-diy-food-squishes",
+        "en": "https://www.etsy.com/listing/4448781996/paper-squishy-template-diy-food-squishes"
+      },
+      "creator": "PlaytimeAtelier · Etsy",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "paid",
+      "rights": "source-only",
+      "thumbnail": "https://i.etsystatic.com/60206958/r/il/cec7e5/7651864386/il_1588xN.7651864386_2p1m.jpg",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23T15:32:40.883Z",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23T15:32:40.883Z"
+      },
+      "verification": {
+        "method": "editorial-browser-product-v1",
+        "sourceId": "etsy-editorial",
+        "checkedAt": "2026-10-23T15:32:40.883Z",
+        "sourceUrl": "https://www.etsy.com/listing/4448781996/paper-squishy-template-diy-food-squishes",
+        "fileTypes": "3 PDF"
+      }
+    },
+    {
+      "id": "etsy-4599005209",
+      "title": {
+        "ko": "Bakery Paper Squishies, 12 Printable Kawaii Designs, Bread Toast Croissant Cupcake, DIY Kids Craft",
+        "en": "Bakery Paper Squishies, 12 Printable Kawaii Designs, Bread Toast Croissant Cupcake, DIY Kids Craft",
+        "ja": "Bakery Paper Squishies, 12 Printable Kawaii Designs, Bread Toast Croissant Cupcake, DIY Kids Craft"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "ko": "https://www.etsy.com/listing/4599005209/bakery-paper-squishies-12-printable",
+        "en": "https://www.etsy.com/listing/4599005209/bakery-paper-squishies-12-printable"
+      },
+      "creator": "PartyPrintsbyCortney · Etsy",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "paid",
+      "rights": "source-only",
+      "thumbnail": "https://i.etsystatic.com/12238733/r/il/0ae01f/8713221414/il_1588xN.8713221414_l3di.jpg",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23T15:33:21.410Z",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23T15:33:21.410Z"
+      },
+      "verification": {
+        "method": "editorial-browser-product-v1",
+        "sourceId": "etsy-editorial",
+        "checkedAt": "2026-10-23T15:33:21.410Z",
+        "sourceUrl": "https://www.etsy.com/listing/4599005209/bakery-paper-squishies-12-printable",
+        "fileTypes": "2 PDF"
+      }
+    },
+    {
+      "id": "findyourfidget-butter",
+      "title": {
+        "ko": "Butter Paper Squishy Template & Step-by-Step Guide",
+        "en": "Butter Paper Squishy Template & Step-by-Step Guide",
+        "ja": "Butter Paper Squishy Template & Step-by-Step Guide"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "ko": "https://www.findyourfidget.com/paper-squishies/butter/",
+        "en": "https://www.findyourfidget.com/paper-squishies/butter/"
+      },
+      "creator": "FindYourFidget",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://assets.findyourfidget.com/rebuild/HOME-01/v1/web/butter.webp",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23T15:36:26.238313+00:00",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23T15:36:26.238313+00:00"
+      },
+      "verification": {
+        "method": "editorial-source-review",
+        "sourceId": "findyourfidget",
+        "checkedAt": "2026-10-23T15:36:26.238313+00:00",
+        "sourceUrl": "https://www.findyourfidget.com/paper-squishies/butter/",
+        "fileTypes": "PDF"
+      }
+    },
+    {
+      "id": "findyourfidget-candy-bag",
+      "title": {
+        "ko": "Candy Paper Squishy Template: Custom Wrapper & Guide",
+        "en": "Candy Paper Squishy Template: Custom Wrapper & Guide",
+        "ja": "Candy Paper Squishy Template: Custom Wrapper & Guide"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "ko": "https://www.findyourfidget.com/paper-squishies/candy-bag/",
+        "en": "https://www.findyourfidget.com/paper-squishies/candy-bag/"
+      },
+      "creator": "FindYourFidget",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://assets.findyourfidget.com/rebuild/SQ-02/v2/web/step-06.webp",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23T15:36:26.238313+00:00",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23T15:36:26.238313+00:00"
+      },
+      "verification": {
+        "method": "editorial-source-review",
+        "sourceId": "findyourfidget",
+        "checkedAt": "2026-10-23T15:36:26.238313+00:00",
+        "sourceUrl": "https://www.findyourfidget.com/paper-squishies/candy-bag/",
+        "fileTypes": "PDF"
       }
     },
     {

@@ -1,8 +1,8 @@
 {
   "targetAdditional": 500,
   "baselineTotal": 318,
-  "catalogTotal": 626,
-  "verifiedAdditional": 308,
+  "catalogTotal": 646,
+  "verifiedAdditional": 328,
   "verifiedIds": [
     "feed-a41c9d2a3ec585cb",
     "feed-708891cae498c7ec",
@@ -311,11 +311,30 @@
     "archive-e7ebb3feba227c65",
     "archive-9134e25696425f64",
     "archive-79e550c9a2fd52ce",
-    "archive-6c67907145e7fc1e"
+    "archive-6c67907145e7fc1e",
+    "squishyidea-dumpling-squishy-pdf-pattern",
+    "squishyidea-butter-squishy-paper-template",
+    "squishyidea-cheese-squishy-idea-pack",
+    "squishyidea-ice-cube-paper-squishy-template",
+    "squishyidea-strawberry-milk-carton-squishy-template",
+    "squishyidea-boba-paper-squishy-template",
+    "squishyidea-cookie-paper-squishy-template",
+    "squishyidea-watermelon-paper-squishy-template",
+    "squishyidea-cute-snack-bag-paper-squishy-template",
+    "squishyidea-candy-paper-squishy-template",
+    "squishyidea-ice-cream-paper-squishy-template",
+    "squishyidea-pizza-paper-squishy-template",
+    "squishyidea-avocado-paper-squishy-template",
+    "squishyidea-cupcake-paper-squishy-template",
+    "etsy-4585556941",
+    "etsy-4450326805",
+    "etsy-4448781996",
+    "etsy-4599005209",
+    "findyourfidget-butter",
+    "findyourfidget-candy-bag"
   ],
-  "additionalUnverifiedCandidateLinks": 245,
+  "additionalUnverifiedCandidateLinks": 242,
   "unverifiedCandidateIds": [
-    "d7a6a1d18c313a7e",
     "31a2ad8bf5e0f619",
     "3d7dbac236e9eba2",
     "bfa1414d0bb98e19",
@@ -329,7 +348,6 @@
     "bf18a1abcd4b6d41",
     "604431a425cd4758",
     "ee29614bc778d238",
-    "2ed537f6ba1f5816",
     "a9c221e81feff95b",
     "4e71b17cb6ccad02",
     "c44dc75bb5cdf959",
@@ -347,7 +365,6 @@
     "9d26829e8a2caf34",
     "03e5d16ae16d99de",
     "bb4b639238826e01",
-    "a9be3d577d5f92c8",
     "f3346ae17e4c9b60",
     "7eda5540b80a4c46",
     "765f09fbe04e1e67",
@@ -561,6 +578,6 @@
     "bba8292e9cc98403",
     "d84a96788dc5c7e6"
   ],
-  "verifiedTargetRemaining": 192,
-  "note": "Discovery candidates are not verified patterns and are excluded from public catalog counts. Bundle file counts and color/language variants were not multiplied."
+  "verifiedTargetRemaining": 172,
+  "note": "Source-verified metadata only; bundles and color/language variants are not multiplied. Unreviewed marketplace candidates remain unpublished. Current catalog total is not a deployment receipt."
 }

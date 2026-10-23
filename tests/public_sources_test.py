@@ -47,3 +47,16 @@ class ListingIdentityTest(unittest.TestCase):
    second,_=discover.refresh(first,[],lambda _:html)
   self.assertEqual(len(second),1)
   self.assertEqual(second[0]['url'],'https://www.squishyguide.com/en/templates/cat-paper-squishy')
+
+
+class DownloadFormTest(unittest.TestCase):
+ def test_email_gated_source_requires_form_and_explicit_free_pdf_claim(self):
+  source=next(s for s in SOURCES if s['id']=='squishyidea')
+  rows=parse_listing('<a href="/templates/butter-squishy-paper-template">View pattern</a><a href="/templates/free-paper-squishy-template">View starter</a>',source)
+  self.assertEqual(len(rows),1)
+  html='<h1>Butter Paper Squishy Template</h1><meta property="og:image" content="https://squishyidea.com/butter.png"><p>Free printable PDF. Enter your email.</p><input type="email">'
+  self.assertIsNotNone(eligible_listing(rows[0],html)[0])
+  for invalid in [html.replace('type="email"','type="text"'),html.replace('Free printable PDF','Paid PDF'),html.replace('Enter your email','More details')]:self.assertIsNone(eligible_listing(rows[0],invalid)[0])
+  grown,_=promote(rows,[],[source],lambda _:html,budget=1)
+  self.assertEqual(grown[0]['accessRequirement'],'email')
+  self.assertEqual(grown[0]['verification']['method'],'approved-listing-and-form-v1')

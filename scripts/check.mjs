@@ -38,3 +38,13 @@ console.log('Verified original-only filter, card badges and distinct detail/orig
 await access("dist/i18n.mjs");
 for(const lang of config.locales){const html=await readFile(`dist/${lang}/index.html`,"utf8");const embedded=JSON.parse(html.match(/id="site-config">(.*?)<\/script>/)[1]);assert.equal(embedded.lang,lang);assert(!Object.hasOwn(embedded,"ui"));}
 console.log("Verified shared locale module and compact per-page configuration.");
+
+for(const lang of config.locales){
+ const home=await readFile(`dist/${lang}/index.html`,'utf8');
+ const cards=home.split('id="cards" class="cards">')[1].split('<div id="empty"')[0];
+ assert.equal((cards.match(/<article class="card"/g)||[]).length,24);
+ const data=JSON.parse(home.match(/id="catalog-data">(.*?)<\/script>/)[1]);assert.equal(data.length,catalog.items.length);
+ const detail=await readFile(`dist/${lang}/patterns/squishyidea-butter-squishy-paper-template/index.html`,'utf8');
+ assert(detail.includes({ko:'이메일 입력 필요',en:'Email required',ja:'メールアドレスの入力が必要'}[lang]));
+}
+console.log('Verified compact initial cards, complete search data and email requirement disclosures.');
