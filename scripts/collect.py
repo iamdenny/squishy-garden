@@ -29,14 +29,26 @@ class Preview(HTMLParser):
   d=dict(a)
   if t=='meta' and d.get('property')=='og:image' and d.get('content','').startswith('https://'):self.image=d['content']
 robots={}
+REQUEST_LIMIT=240
+DOWNLOAD_LIMIT=64*1024*1024
+request_count=0
+downloaded_bytes=0
+class BudgetExceeded(RuntimeError):pass
+
 def request(url):
+ global request_count,downloaded_bytes
  for attempt in range(3):
   try:
+   if request_count>=REQUEST_LIMIT or downloaded_bytes>=DOWNLOAD_LIMIT:raise BudgetExceeded('Collection request or byte budget exhausted')
+   request_count+=1
    time.sleep(1)
    req=urllib.request.Request(url,headers={'User-Agent':UA})
    with urllib.request.urlopen(req,timeout=30) as r:
     if r.status!=200:raise RuntimeError('Unexpected status')
-    return r.read(4_000_000).decode('utf-8')
+    data=r.read(min(4_000_001,DOWNLOAD_LIMIT-downloaded_bytes+1));downloaded_bytes+=len(data)
+    if len(data)>4_000_000 or downloaded_bytes>DOWNLOAD_LIMIT:raise BudgetExceeded('Collection response exceeds byte budget')
+    return data.decode('utf-8')
+  except BudgetExceeded:raise
   except Exception:
    if attempt==2:raise
    time.sleep(2**attempt)

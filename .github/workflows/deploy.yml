@@ -24,11 +24,12 @@ concurrency:
   cancel-in-progress: false
 jobs:
   build:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    if: github.event.repository.private == false && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
     runs-on: ubuntu-24.04
     timeout-minutes: 20
     permissions:
       contents: read
+      actions: read
     outputs:
       sha: ${{ steps.revision.outputs.sha }}
     steps:
@@ -38,6 +39,12 @@ jobs:
           node-version: '22'
       - run: python3 -m unittest discover -s tests -p '*_test.py'
       - run: npm run verify
+      - run: python3 scripts/quota_guard.py
+      - name: Check artifact storage before upload
+        if: github.event_name != 'pull_request'
+        run: python3 scripts/quota_guard.py --remote
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - id: revision
         run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
