@@ -1,5 +1,5 @@
 {
-  "lastSuccessfulCheck": "2026-10-23T04:29:05.608234+00:00",
+  "lastSuccessfulCheck": "2026-10-23T06:02:13.843051+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
@@ -227,11 +227,102 @@
       "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-e7ea52e56c597665",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-826a94a69182af2f",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-cd128099cfab4611",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-b615a1f858a78e6c",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-53758ac9f7a0e525",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-9229b0ab4de9f1c5",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-9f1f0d4d517b92b5",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-a23713509eeca5aa",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-0d92eaec2c0e6873",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-488ebad22b6a669f",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-75e965e85b0a305e",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-e3169b1a5c141eb6",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "feed-2035fde09c12f283",
+      "status": "reachable",
+      "checkedAt": "2026-10-23",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-10-23T04:29:05.608234+00:00",
+  "lastAttempt": "2026-10-23T06:02:13.843051+00:00",
   "primaryStatus": "reachable",
   "partialFailure": false
 }
