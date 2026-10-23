@@ -5,7 +5,7 @@
 - DNS: DNSEver CNAME `squishy` → `iamdenny.github.io`
 - Hosting: GitHub Pages Actions; approved TLS certificate and HTTPS enforcement verified 2026-10-22 UTC.
 - Languages: Korean, English, Japanese.
-- Catalog snapshot: 292 entries (8 original foldable cube nets and creator-hosted source links). External patterns are not rehosted. This is a selected-source catalog, not exhaustive internet coverage. The live count and check time are in `catalog.json` and on the catalog page after its live fetch; `/freshness.json` is a static Pages snapshot that updates with the next Pages deployment.
+- Catalog snapshot: 295 entries (8 original foldable cube nets and creator-hosted source links). External patterns are not rehosted. This is a selected-source catalog, not exhaustive internet coverage. The live count and check time are in `catalog.json` and on the catalog page after its live fetch; `/freshness.json` is a static Pages snapshot that updates with the next Pages deployment.
 - Originals: six 50 mm faces, seven numbered glue tabs, solid cut lines and dashed fold lines, A4 color and coloring SVGs. Browser and geometry checked; physical print/assembly remains untested.
 
 ## Discovery and analytics

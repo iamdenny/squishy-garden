@@ -66,7 +66,16 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0145.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23"
+      "detailCheckedAt": "2026-10-23",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0145.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0145/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0016",
@@ -88,7 +97,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0016.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0016.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0016/",
+        "checkedAt": "2026-10-23"
+      },
+      "detailCheckedAt": "2026-10-23"
     },
     {
       "id": "h-squishy0114",
@@ -110,7 +129,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0114.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0114.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0114/",
+        "checkedAt": "2026-10-23"
+      },
+      "detailCheckedAt": "2026-10-23"
     },
     {
       "id": "h-squishy0093",
@@ -132,7 +161,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0093.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0093.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0093/",
+        "checkedAt": "2026-10-23"
+      },
+      "detailCheckedAt": "2026-10-23"
     },
     {
       "id": "h-squishy0113",
@@ -154,7 +193,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0113.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0113.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0113/",
+        "checkedAt": "2026-10-23"
+      },
+      "detailCheckedAt": "2026-10-23"
     },
     {
       "id": "rosazzing-cinnamoroll",
@@ -2244,6 +2293,103 @@
         "sourceUrl": "https://whitetree0415.tistory.com/6"
       },
       "craftType": "book"
+    },
+    {
+      "id": "h-squishySet0003",
+      "title": {
+        "ko": "과자 만들기 도안 세트",
+        "en": "과자 만들기 도안 세트",
+        "ja": "과자 만들기 도안 세트"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://hyeriming.com/ko/print/squishySet0003/"
+      },
+      "creator": "Hyeriming",
+      "kind": "external",
+      "access": "free",
+      "rights": "source-only",
+      "category": "food",
+      "difficulty": "unknown",
+      "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0040.webp",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0040.jpg",
+          "https://hyeriming.com/downloads/squishy/squishy0041.jpg",
+          "https://hyeriming.com/downloads/squishy/squishy0043.jpg",
+          "https://hyeriming.com/downloads/squishy/squishy0042.jpg",
+          "https://hyeriming.com/downloads/squishy/squishy0051.jpg",
+          "https://hyeriming.com/downloads/squishy/squishy0052.jpg",
+          "https://hyeriming.com/downloads/squishy/squishy0053.jpg",
+          "https://hyeriming.com/downloads/squishy/squishy0059.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishySet0003/",
+        "checkedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "h-squishy0055",
+      "title": {
+        "ko": "종이팩 주스 스퀴시",
+        "en": "종이팩 주스 스퀴시",
+        "ja": "종이팩 주스 스퀴시"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://hyeriming.com/ko/print/squishy0055/"
+      },
+      "creator": "Hyeriming",
+      "kind": "external",
+      "access": "free",
+      "rights": "source-only",
+      "category": "food",
+      "difficulty": "unknown",
+      "thumbnail": "https://hyeriming.com/previews/squishy/squishy0055.webp",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0055.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0055/",
+        "checkedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "h-squishy0037",
+      "title": {
+        "ko": "찐라면 순한맛 스퀴시",
+        "en": "찐라면 순한맛 스퀴시",
+        "ja": "찐라면 순한맛 스퀴시"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://hyeriming.com/ko/print/squishy0037/"
+      },
+      "creator": "Hyeriming",
+      "kind": "external",
+      "access": "free",
+      "rights": "source-only",
+      "category": "food",
+      "difficulty": "unknown",
+      "thumbnail": "https://hyeriming.com/previews/squishy/squishy0037.webp",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0037.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0037/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0244",
