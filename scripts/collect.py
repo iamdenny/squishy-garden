@@ -93,6 +93,12 @@ def check_extra(row):
   preview=Preview();preview.feed(html)
   if preview.image:row['thumbnail']=preview.image
   row['checkedAt']=TODAY
+  if row.get('verification',{}).get('method')=='approved-feed-and-article-v1':
+   from catalog_growth import eligible,category
+   evidence,reason=eligible({'title':row['title']['ko']},html)
+   row['access']='free' if evidence else 'unknown'
+   row['category']=category(row['title']['ko'])
+   row['verification'].update(lastRecheckAt=NOW.isoformat(),latestStatus='verified' if evidence else 'needs_review')
   check={'id':row['id'],'status':'reachable','checkedAt':TODAY}
  except HTTPError as error:
   check={'id':row['id'],'status':'unavailable' if error.code in (404,410) else 'unverified','checkedAt':TODAY,'httpStatus':error.code}
