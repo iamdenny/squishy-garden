@@ -1,5 +1,5 @@
 {
-  "lastSuccessfulCheck": "2026-10-23T10:46:30.361052+00:00",
+  "lastSuccessfulCheck": "2026-10-23T10:59:46.925791+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
@@ -343,7 +343,7 @@
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-10-23T10:46:30.361052+00:00",
+  "lastAttempt": "2026-10-23T10:59:46.925791+00:00",
   "primaryStatus": "reachable",
   "partialFailure": false
 }
