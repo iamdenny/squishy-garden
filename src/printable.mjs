@@ -8,3 +8,8 @@ export function printableFiles(item){
  if(!p||p.paper!=='A4'||p.format!=='JPG'||!Array.isArray(p.files)||p.files.length<1||p.files.length>24||!Object.values(item.urls||{}).includes(p.sourceUrl)||!p.sourceUrl.startsWith('https://hyeriming.com/ko/print/')||Number.isNaN(Date.parse(p.checkedAt)))return [];
  return p.files.every(url=>/^https:\/\/hyeriming\.com\/downloads\/squishy\/squishy[0-9]+\.jpg$/.test(url))?p.files:[];
 }
+
+export const printableLabel={ko:'원본 인쇄 가능',en:'Printable original',ja:'原本を印刷可能'};
+export function hasPrintableOriginal(item){
+ return (item.health?.lastConfirmedStatus||item.health?.status)!=='unavailable'&&(item.kind==='original'||printableFiles(item).length>0);
+}
