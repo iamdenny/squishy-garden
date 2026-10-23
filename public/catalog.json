@@ -1,44 +1,44 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T14:01:05.804207+00:00",
+  "updatedAt": "2026-10-23T14:18:25.866227+00:00",
   "health": {
-    "lastAttempt": "2026-10-23T14:01:05.804207+00:00",
+    "lastAttempt": "2026-10-23T14:18:25.866227+00:00",
     "primaryStatus": "reachable",
     "discovery": [
       {
         "sourceId": "gripipi",
         "status": "reachable",
-        "checkedAt": "2026-10-23T14:04:06.455190+00:00",
+        "checkedAt": "2026-10-23T14:22:00.167311+00:00",
         "matchingItems": 1
       },
       {
         "sourceId": "rosazzing",
         "status": "reachable",
-        "checkedAt": "2026-10-23T14:04:06.455190+00:00",
+        "checkedAt": "2026-10-23T14:22:00.167311+00:00",
         "matchingItems": 14
       },
       {
         "sourceId": "ryong",
         "status": "reachable",
-        "checkedAt": "2026-10-23T14:04:06.455190+00:00",
+        "checkedAt": "2026-10-23T14:22:00.167311+00:00",
         "matchingItems": 0
       },
       {
         "sourceId": "sunny",
         "status": "reachable",
-        "checkedAt": "2026-10-23T14:04:06.455190+00:00",
+        "checkedAt": "2026-10-23T14:22:00.167311+00:00",
         "matchingItems": 3
       },
       {
         "sourceId": "zzoangland",
         "status": "reachable",
-        "checkedAt": "2026-10-23T14:04:06.455190+00:00",
+        "checkedAt": "2026-10-23T14:22:00.167311+00:00",
         "matchingItems": 10
       },
       {
         "sourceId": "morongborong",
         "status": "reachable",
-        "checkedAt": "2026-10-23T14:04:06.455190+00:00",
+        "checkedAt": "2026-10-23T14:22:00.167311+00:00",
         "matchingItems": 6
       }
     ],
@@ -1862,7 +1862,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://sunny-utube.tistory.com/6",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -1902,7 +1902,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://sunny-utube.tistory.com/3",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -1942,7 +1942,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/419",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -1982,7 +1982,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/418",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -2022,7 +2022,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/417",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -2062,7 +2062,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/416",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -2102,7 +2102,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/415",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -2142,7 +2142,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/414",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -2182,7 +2182,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/413",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -2222,7 +2222,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/412",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -2262,7 +2262,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/411",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -2302,7 +2302,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://chohwa.tistory.com/410",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       }
     },
@@ -2342,7 +2342,7 @@
         "method": "approved-feed-and-article-v1",
         "checkedAt": "2026-10-23T05:54:08.200603+00:00",
         "sourceUrl": "https://whitetree0415.tistory.com/6",
-        "lastRecheckAt": "2026-10-23T14:01:05.804207+00:00",
+        "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
         "latestStatus": "verified"
       },
       "craftType": "book"
@@ -6314,7 +6314,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0045.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0045.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0045/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0044",
@@ -6336,7 +6346,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0044.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0044.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0044/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0039",
@@ -6358,7 +6378,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0039.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0039.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0039/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0034",
@@ -6380,7 +6410,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0034.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0034.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0034/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0033",
@@ -6402,7 +6442,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0033.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0033.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0033/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0032",
@@ -6424,7 +6474,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0032.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0032.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0032/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0031",
@@ -6446,7 +6506,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0031.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0031.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0031/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0030",
@@ -6468,7 +6538,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0030.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0030.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0030/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0029",
@@ -6490,7 +6570,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0029.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0029.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0029/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0028",
@@ -6512,7 +6602,17 @@
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0028.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0028.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0028/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0027",
@@ -6534,7 +6634,17 @@
       "category": "animals",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0027.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0027.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0027/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0026",
@@ -6556,7 +6666,17 @@
       "category": "animals",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0026.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-23T14:18:25.866227+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0026.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0026/",
+        "checkedAt": "2026-10-23"
+      }
     },
     {
       "id": "h-squishy0025",
@@ -6579,7 +6699,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0025.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6588,7 +6707,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0025/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0024",
@@ -6611,7 +6731,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0024.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6620,7 +6739,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0024/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0023",
@@ -6643,7 +6763,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0023.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6652,7 +6771,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0023/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0022",
@@ -6675,7 +6795,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0022.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6684,7 +6803,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0022/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0021",
@@ -6707,7 +6827,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0021.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6716,7 +6835,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0021/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0020",
@@ -6739,7 +6859,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0020.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6748,7 +6867,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0020/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0019",
@@ -6771,7 +6891,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0019.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6780,7 +6899,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0019/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0018",
@@ -6803,7 +6923,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0018.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6812,7 +6931,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0018/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0017",
@@ -6835,7 +6955,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0017.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6844,7 +6963,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0017/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0015",
@@ -6867,7 +6987,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0015.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6876,7 +6995,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0015/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0014",
@@ -6899,7 +7019,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0014.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6908,7 +7027,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0014/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0013",
@@ -6931,7 +7051,6 @@
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0013.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -6940,7 +7059,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0013/",
         "checkedAt": "2026-10-23"
-      }
+      },
+      "detailCheckedAt": "2026-10-23T14:01:05.804207+00:00"
     },
     {
       "id": "h-squishy0012",
