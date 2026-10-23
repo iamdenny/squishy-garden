@@ -8,3 +8,8 @@ console.log('Verified detail-first discovery and final creator handoff in all la
 for(const lang of config.locales){for(const route of ['print-studio','print/strawberry']){const page=await readFile(`dist/${lang}/${route}/index.html`,'utf8');assert(!page.includes('data-promotion='),'Print routes must not contain ads');assert(page.includes('noindex,follow'))}const detail=await readFile(`dist/${lang}/patterns/ryong-ditto-book/index.html`,'utf8');for(const slot of ['top','left','right'])assert(detail.includes(`class="ad-${slot}"`));}
 const liveCatalogUrl='https://raw.githubusercontent.com/iamdenny/squishy-garden/main/public/catalog.json';assert.equal(config.catalogApiUrl,liveCatalogUrl);await access('dist/catalog-contract.mjs');assert((await readFile('dist/app.js','utf8')).includes("from './catalog-contract.mjs'"));for(const lang of config.locales){const page=await readFile(`dist/${lang}/index.html`,'utf8');assert(page.includes(`\"catalogApiUrl\":\"${liveCatalogUrl}\"`));}
 console.log('Verified the live catalog endpoint and bundled browser validator.');
+
+const seller=`google.com, ${config.adsensePublisher.replace(/^ca-/, '')}, DIRECT, f08c47fec0942fa0\n`;
+assert.equal(await readFile('dist/ads.txt','utf8'),seller);
+for(const [,loc]of xml.matchAll(/<loc>(.*?)<\/loc>/g)){const html=await readFile('dist'+new URL(loc).pathname+'index.html','utf8');assert(html.includes(`<meta name="google-adsense-account" content="${config.adsensePublisher}">`));assert(!/<script[^>]+(?:pagead2\.googlesyndication|adsbygoogle)/.test(html),'Verification must not activate Google ads');}
+console.log('Verified AdSense ownership metadata and seller record without Google ad scripts.');
