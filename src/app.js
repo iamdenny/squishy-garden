@@ -1,4 +1,5 @@
 import {selectItems,sourceUnavailable} from './search.mjs';
+import {validateCatalog} from './catalog-contract.mjs';
 import {detailCopy} from './detail.mjs';
 const config=JSON.parse(document.querySelector('#site-config').textContent),t=config.ui;
 const read=(key,fallback)=>{try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}};
@@ -19,12 +20,13 @@ let rerender=()=>{};
 document.addEventListener('click',e=>{const b=e.target.closest('[data-save]');if(!b)return;const id=b.dataset.save;favorites=favorites.includes(id)?favorites.filter(v=>v!==id):[...favorites,id];write('squishy-favorites',favorites);updateSaves();rerender();event('save_pattern',{pattern_id:id})});updateSaves();
 async function fetchLatestCatalog(){
  if(!config.catalogApiUrl)return null;
- const response=await fetch(config.catalogApiUrl,{headers:{Accept:'application/json'},cache:'default',signal:AbortSignal.timeout(5000)});
- if(!response.ok)throw new Error(`Catalog API returned ${response.status}`);
- const payload=await response.json();
- if(payload?.schemaVersion!==1||!Array.isArray(payload.items)||payload.items.length>10000)throw new Error('Catalog API response is invalid');
- const ids=new Set();for(const item of payload.items){if(!item||typeof item.id!=='string'||!item.id||ids.has(item.id)||!item.title||typeof item.creator!=='string')throw new Error('Catalog item is invalid');ids.add(item.id)}
- return payload;
+ const response=await fetch(config.catalogApiUrl,{headers:{Accept:'application/json'},cache:'default',credentials:'omit',signal:AbortSignal.timeout(5000)});
+ if(!response.ok)throw new Error(`Catalog source returned HTTP ${response.status}`);
+ const declaredSize=Number(response.headers.get('content-length')||0);
+ if(declaredSize>24*1024*1024)throw new Error('Catalog source is too large');
+ const body=await response.text();
+ if(new TextEncoder().encode(body).byteLength>24*1024*1024)throw new Error('Catalog source is too large');
+ return validateCatalog(JSON.parse(body));
 }
 function safeHttps(value){try{const url=new URL(value);return url.protocol==='https:'?url.href:''}catch{return''}}
 function bindImageFallback(img){const fallback=()=>{img.hidden=true;const note=document.createElement('span');note.className='preview-unavailable';note.textContent=img.alt;img.after(note)};img.addEventListener('error',fallback,{once:true});if(img.complete&&!img.naturalWidth)fallback()}

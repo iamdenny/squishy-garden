@@ -41,4 +41,4 @@ jobs:
             echo '## Last successful catalog check' >> "$GITHUB_STEP_SUMMARY"
             cat src/freshness.json >> "$GITHUB_STEP_SUMMARY"
           fi
-          echo 'Validated catalog snapshots update the read-only API source without rebuilding the SEO pages. Static detail pages are refreshed by the weekly deploy workflow.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Validated catalog snapshots update the public JSON read directly by browsers without a Pages rebuild. Static detail pages and the sitemap are refreshed by the weekly deploy workflow.' >> "$GITHUB_STEP_SUMMARY"

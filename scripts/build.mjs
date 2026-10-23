@@ -8,8 +8,9 @@ import {collections} from '../src/collections.mjs';
 import {promotionBlock,affiliateBlock,surroundingAds,affiliateCompact} from '../src/promotions.mjs';
 import {selectItems,sourceUnavailable} from '../src/search.mjs';
 const config=JSON.parse(await readFile('site.json')),external=JSON.parse(await readFile('src/catalog-external.json'));
-const catalogApiUrl=(process.env.CATALOG_API_URL||config.catalogApiUrl||'').trim();
-if(catalogApiUrl){const apiUrl=new URL(catalogApiUrl),localApi=process.env.NODE_ENV==='development'&&apiUrl.protocol==='http:'&&['localhost','127.0.0.1'].includes(apiUrl.hostname);if((apiUrl.protocol!=='https:'&&!localApi)||apiUrl.username||apiUrl.password)throw Error('CATALOG_API_URL must be an HTTPS URL without credentials (local HTTP is allowed only in development)');}
+const catalogUrl=new URL(config.catalogApiUrl||'');
+if(catalogUrl.protocol!=='https:'||catalogUrl.hostname!=='raw.githubusercontent.com'||catalogUrl.pathname!=='/iamdenny/squishy-garden/main/public/catalog.json'||catalogUrl.username||catalogUrl.password||catalogUrl.search||catalogUrl.hash)throw Error('catalogApiUrl must point to the public main-branch catalog JSON');
+const catalogApiUrl=catalogUrl.href;
 const extras=JSON.parse(await readFile('src/catalog-extra.json'));
 const affiliate=JSON.parse(await readFile('src/affiliate.json'));
 const freshness=JSON.parse(await readFile('src/freshness.json'));
@@ -20,7 +21,7 @@ const esc=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'
 const json=v=>JSON.stringify(v).replace(/</g,'\\u003c');
 await rm('dist',{recursive:true,force:true});await mkdir('dist',{recursive:true});await cp('public','dist',{recursive:true});
 await cp('src/freshness.json','dist/freshness.json');
-await cp('src/app.js','dist/app.js');await cp('src/style.css','dist/style.css');await cp('src/search.mjs','dist/search.mjs');await cp('src/detail.mjs','dist/detail.mjs');
+await cp('src/app.js','dist/app.js');await cp('src/style.css','dist/style.css');await cp('src/search.mjs','dist/search.mjs');await cp('src/detail.mjs','dist/detail.mjs');await cp('src/catalog-contract.mjs','dist/catalog-contract.mjs');
 const paths=[];
 async function put(path,content){await mkdir('dist/'+path.split('/').slice(0,-1).join('/'),{recursive:true});await writeFile('dist/'+path,content);}
 for(const item of originals){for(const lang of langs){await put(`patterns/${lang}/${item.id}.svg`,printable(item,false,lang));await put(`patterns/${lang}/${item.id}-coloring.svg`,printable(item,true,lang));}await put(`art/${item.id}.svg`,art(item));await put(`patterns/${item.id}.svg`,printable(item));await put(`patterns/${item.id}-coloring.svg`,printable(item,true));}

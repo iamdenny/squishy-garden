@@ -26,8 +26,6 @@ jobs:
       contents: read
     outputs:
       sha: ${{ steps.revision.outputs.sha }}
-    env:
-      CATALOG_API_URL: ${{ vars.CATALOG_API_URL }}
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
@@ -48,7 +46,7 @@ jobs:
             echo '## Last successful catalog check' >> "$GITHUB_STEP_SUMMARY"
             cat src/freshness.json >> "$GITHUB_STEP_SUMMARY"
           fi
-          echo 'Source failures preserve the last known metadata and success timestamps; partial failures are reported. Validation failures block deployment.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Source failures preserve the last known metadata and success timestamps; partial failures are reported. Validation failures block deployment. Browsers use the latest public catalog JSON and fall back to the embedded snapshot if it is unavailable.' >> "$GITHUB_STEP_SUMMARY"
   deploy:
     if: github.event_name != 'pull_request'
     needs: build
