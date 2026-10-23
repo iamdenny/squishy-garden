@@ -22,7 +22,7 @@ for(const slot of adsterra.slots){const url=new URL(slot.src);if(url.protocol!==
 const freshness=JSON.parse(await readFile('src/freshness.json'));
 const discovery=JSON.parse(await readFile('data/discovery-health.json')),reviewQueue=JSON.parse(await readFile('data/discovery-queue.json'));
 const catalogHealth={lastAttempt:freshness.lastAttempt,primaryStatus:freshness.primaryStatus,discovery,pendingReview:reviewQueue.filter(row=>row.status==='pending_review').length};
-const featuredIds=['rosazzing-cinnamoroll','ryong-ditto-book','rosazzing-labubu','gripipi-unicorn-wallet','sanrio-diy','pokemon-bread','h-squishy0192','h-squishy0139','gripipi-rice-house','sowony-sweet-game','h-squishy0197','h-squishy0234','h-squishySet0019','h-squishy0245','h-squishy0142','h-squishy0138'];
+const featuredIds=['h-squishy0145','h-squishy0016','h-squishy0114','h-squishy0093','h-squishy0113','rosazzing-cinnamoroll','ryong-ditto-book','rosazzing-labubu','gripipi-unicorn-wallet','sanrio-diy','pokemon-bread','h-squishy0192','h-squishy0139','gripipi-rice-house','sowony-sweet-game','h-squishy0197','h-squishy0234','h-squishySet0019','h-squishy0245','h-squishy0142','h-squishy0138'];
 const allItems=[...originals,...extras,...external];
 const items=selectItems([...featuredIds.map(id=>allItems.find(i=>i.id===id)).filter(Boolean),...allItems.filter(i=>!featuredIds.includes(i.id))]),base='https://'+config.domain,langs=config.locales;
 const esc=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
