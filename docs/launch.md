@@ -5,7 +5,7 @@
 - DNS: DNSEver CNAME `squishy` → `iamdenny.github.io`
 - Hosting: GitHub Pages Actions; approved TLS certificate and HTTPS enforcement verified 2026-10-22 UTC.
 - Languages: Korean, English, Japanese.
-- Catalog snapshot: 279 entries (8 original foldable cube nets and creator-hosted source links). External patterns are not rehosted. This is a selected-source catalog, not exhaustive internet coverage. The live count and check time are in `catalog.json` and on the catalog page after its live fetch; `/freshness.json` is a static Pages snapshot that updates with the next Pages deployment.
+- Catalog snapshot: 292 entries (8 original foldable cube nets and creator-hosted source links). External patterns are not rehosted. This is a selected-source catalog, not exhaustive internet coverage. The live count and check time are in `catalog.json` and on the catalog page after its live fetch; `/freshness.json` is a static Pages snapshot that updates with the next Pages deployment.
 - Originals: six 50 mm faces, seven numbered glue tabs, solid cut lines and dashed fold lines, A4 color and coloring SVGs. Browser and geometry checked; physical print/assembly remains untested.
 
 ## Discovery and analytics
@@ -18,9 +18,9 @@ Canonical URLs, reciprocal hreflang, server-rendered content, JSON-LD, robots.tx
 
 ## Daily maintenance
 
-GitHub Actions runs the `Refresh live catalog` workflow at 21:23 UTC / 06:23 Asia/Seoul daily (GitHub may delay scheduled jobs). Use that workflow's manual dispatch to request an immediate refresh.
+GitHub Actions runs the `Refresh live catalog` workflow at 21:23 and 09:23 UTC / 06:23 and 18:23 Asia/Seoul daily (GitHub may delay scheduled jobs). Use that workflow's manual dispatch to request an immediate refresh.
 
-The collector respects robots directives, limits requests, discovers pagination, deduplicates entries, checks all three translations, rotates 12 detail checks and probes the two additional sources. Major shrinkage or collection failure keeps the existing public catalog intact. Validated changes commit to `main`; data-only commits do not redeploy Pages. Browsers fetch `public/catalog.json` from the public GitHub raw URL, which currently allows CORS and advertises a five-minute cache. If that fetch fails, the embedded snapshot remains available. Static SEO pages and the sitemap deploy weekly and on code changes. Review Actions failures and `freshness.json` for operational health. No recurring paid LLM/API or Cloudflare Worker/KV is required.
+The collector respects robots directives, limits requests, discovers pagination, deduplicates entries, checks all three translations, rotates 12 detail checks and probes the two additional sources. Major shrinkage or collection failure keeps the existing public catalog intact. Validated changes commit to `main`; data-only commits do not redeploy Pages. Browsers fetch `public/catalog.json` from the public GitHub raw URL, which currently allows CORS and advertises a five-minute cache. If that fetch fails, the embedded snapshot remains available. Static SEO pages and the sitemap deploy after successful catalog refreshes, weekly as a fallback, and on code changes. Review Actions failures and `freshness.json` for operational health. No recurring paid LLM/API or Cloudflare Worker/KV is required.
 
 ## Validation and recovery
 
@@ -53,3 +53,7 @@ Coupang placement expansion: the existing issued supplies affiliate URL now appe
 Adsterra approved `squishy.iamdenny.com` with five distinct active banner units. Adult inventory remains disabled; scripts are requested only after separate adult affirmation and ad-request opt-in. Desktop top, mobile top, wide-screen left/right rails (1700px+), and bottom placements are configured. Print routes exclude both providers. Active unit status is not evidence of delivered creatives, impressions, or earnings.
 
 Detail-page print buttons now open the browser print dialog for the image on that detail page instead of sending visitors to an empty upload studio. Creator listings print the displayed preview image; the studio originals print their actual A4 SVG template. The standalone multi-image print studio remains available for user-selected files.
+
+## Growth and free operations
+
+See `docs/discovery-review.md` for six-feed discovery, conservative automatic source verification, twice-daily collection, independent freshness checks, and original-title handling. The catalog status page exposes current source checks. Free, squishy book, Halloween and recently-added collection pages are crawlable in all three locales. Character spelling aliases are normalized across Korean, English and Japanese. Ranking and AI citations remain unverified outcomes.

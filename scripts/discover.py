@@ -1,4 +1,4 @@
-"""Find review candidates from approved RSS feeds; never auto-publish feed content."""
+"""Find review candidates from approved RSS feeds; publish only source-verified metadata from approved creators."""
 import hashlib,json,re,xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.parse import urlsplit,urlunsplit,parse_qsl,urlencode,unquote,quote
@@ -9,7 +9,10 @@ from html import unescape
 SOURCES=[
  {'id':'gripipi','creator':'그리피피 · Gripipi','feed':'https://tingkka.tistory.com/rss'},
  {'id':'rosazzing','creator':'로사찡','feed':'https://rosazzing.tistory.com/rss'},
- {'id':'ryong','creator':'룡룡쌤','feed':'https://ryongryongkid.tistory.com/rss'}]
+ {'id':'ryong','creator':'룡룡쌤','feed':'https://ryongryongkid.tistory.com/rss'},
+ {'id':'sunny','creator':'햇님유뚜비','feed':'https://sunny-utube.tistory.com/rss','autoPublish':True},
+ {'id':'zzoangland','creator':'쪼앙랜드 · zzoangland','feed':'https://chohwa.tistory.com/rss','autoPublish':True},
+ {'id':'morongborong','creator':'모롱보롱 · morongborong','feed':'https://whitetree0415.tistory.com/rss','autoPublish':True}]
 
 def canonical_url(url):
  u=urlsplit(url)
@@ -64,6 +67,11 @@ def main():
  path=Path('data/discovery-queue.json');old=json.loads(path.read_text()) if path.exists() else []
  published=json.loads(Path('src/catalog-external.json').read_text())+json.loads(Path('src/catalog-extra.json').read_text())
  rows,checks=refresh(old,published)
+ from catalog_growth import promote
+ extra_path=Path('src/catalog-extra.json');extras=json.loads(extra_path.read_text())
+ grown,verified=promote(rows,extras,SOURCES)
+ extra_path.write_text(json.dumps(grown,ensure_ascii=False,indent=2)+'\n')
+ print('New verified patterns:',len(grown)-len(extras),'source pages checked:',verified,flush=True)
  path.parent.mkdir(exist_ok=True);path.write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n')
  Path('data/discovery-health.json').write_text(json.dumps(checks,ensure_ascii=False,indent=2)+'\n')
  print('Review queue:',sum(r['status']=='pending_review' for r in rows),'pending; source checks:',len(checks),flush=True)

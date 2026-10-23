@@ -4,6 +4,11 @@ const MAX_ITEMS=10000;
 export function validateCatalog(value){
  if(!value||value.schemaVersion!==1||!Array.isArray(value.items)||value.items.length<1||value.items.length>MAX_ITEMS)throw new Error('Catalog envelope is invalid');
  if(typeof value.updatedAt!=='string'||Number.isNaN(Date.parse(value.updatedAt)))throw new Error('Catalog timestamp is invalid');
+ if(value.health!==undefined){
+  const h=value.health;
+  if(!h||!['reachable','unverified'].includes(h.primaryStatus)||typeof h.lastAttempt!=='string'||Number.isNaN(Date.parse(h.lastAttempt))||!Array.isArray(h.discovery)||h.discovery.length>100||!Number.isInteger(h.pendingReview)||h.pendingReview<0)throw new Error('Catalog health is invalid');
+  for(const source of h.discovery)if(!source||typeof source.sourceId!=='string'||source.sourceId.length>100||!['reachable','unverified'].includes(source.status)||typeof source.checkedAt!=='string'||Number.isNaN(Date.parse(source.checkedAt)))throw new Error('Source health is invalid');
+ }
  const ids=new Set();
  for(const item of value.items){
   if(!item||typeof item.id!=='string'||!/^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*$/.test(item.id)||ids.has(item.id))throw new Error('Catalog id is invalid');

@@ -2,6 +2,7 @@ name: Refresh live catalog
 on:
   schedule:
     - cron: '23 21 * * *'
+    - cron: '23 9 * * *'
   workflow_dispatch:
 permissions:
   contents: read
@@ -41,4 +42,6 @@ jobs:
             echo '## Last successful catalog check' >> "$GITHUB_STEP_SUMMARY"
             cat src/freshness.json >> "$GITHUB_STEP_SUMMARY"
           fi
-          echo 'Validated catalog snapshots update the public JSON read directly by browsers without a Pages rebuild. Static detail pages and the sitemap are refreshed by the weekly deploy workflow.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Validated catalog snapshots update the public JSON read directly by browsers without a Pages rebuild. Static detail pages and the sitemap deploy after each successful refresh.' >> "$GITHUB_STEP_SUMMARY"
+      - name: Fail visibly when collection is unhealthy
+        run: python3 scripts/check_freshness.py

@@ -1,6 +1,49 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-23T04:29:05.608234+00:00",
+  "health": {
+    "lastAttempt": "2026-10-23T04:29:05.608234+00:00",
+    "primaryStatus": "reachable",
+    "discovery": [
+      {
+        "sourceId": "gripipi",
+        "status": "reachable",
+        "checkedAt": "2026-10-23T05:53:53.125825+00:00",
+        "matchingItems": 1
+      },
+      {
+        "sourceId": "rosazzing",
+        "status": "reachable",
+        "checkedAt": "2026-10-23T05:53:53.125825+00:00",
+        "matchingItems": 14
+      },
+      {
+        "sourceId": "ryong",
+        "status": "reachable",
+        "checkedAt": "2026-10-23T05:53:53.125825+00:00",
+        "matchingItems": 0
+      },
+      {
+        "sourceId": "sunny",
+        "status": "reachable",
+        "checkedAt": "2026-10-23T05:53:53.125825+00:00",
+        "matchingItems": 3
+      },
+      {
+        "sourceId": "zzoangland",
+        "status": "reachable",
+        "checkedAt": "2026-10-23T05:53:53.125825+00:00",
+        "matchingItems": 10
+      },
+      {
+        "sourceId": "morongborong",
+        "status": "reachable",
+        "checkedAt": "2026-10-23T05:53:53.125825+00:00",
+        "matchingItems": 6
+      }
+    ],
+    "pendingReview": 6
+  },
   "items": [
     {
       "id": "rosazzing-cinnamoroll",
@@ -1595,6 +1638,501 @@
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-23"
       }
+    },
+    {
+      "id": "feed-e7ea52e56c597665",
+      "title": {
+        "ko": "무료도안 허기워기반전 스퀴스 #스퀴시 #말랑스퀴시 #스퀴시도안 #DIY #squishy",
+        "en": "무료도안 허기워기반전 스퀴스 #스퀴시 #말랑스퀴시 #스퀴시도안 #DIY #squishy",
+        "ja": "무료도안 허기워기반전 스퀴스 #스퀴시 #말랑스퀴시 #스퀴시도안 #DIY #squishy"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://sunny-utube.tistory.com/6"
+      },
+      "creator": "햇님유뚜비",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcAcoyb%2FbtssaTA0nrU%2FAAAAAAAAAAAAAAAAAAAAAPIGQiVCSKMwBxx6bD_roisFwp1nZpF-UUPmWCkOoXBL%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DwoWLw1Wg5%252F%252F%252F1ApHiK%252FheqRBv9M%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Sat, 26 Aug 2023 17:49:16 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://sunny-utube.tistory.com/6"
+      }
+    },
+    {
+      "id": "feed-826a94a69182af2f",
+      "title": {
+        "ko": "강아지키우기 스퀴시 dog squishy #무료도안 #스퀴시만들기 #DIY #squishy #paper doll #햇님유뚜비 #paper #dog",
+        "en": "강아지키우기 스퀴시 dog squishy #무료도안 #스퀴시만들기 #DIY #squishy #paper doll #햇님유뚜비 #paper #dog",
+        "ja": "강아지키우기 스퀴시 dog squishy #무료도안 #스퀴시만들기 #DIY #squishy #paper doll #햇님유뚜비 #paper #dog"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://sunny-utube.tistory.com/3"
+      },
+      "creator": "햇님유뚜비",
+      "kind": "external",
+      "category": "animals",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fou3Qk%2FbtssaRXtfSP%2FAAAAAAAAAAAAAAAAAAAAACYvIHwEHaSPGRS_gWS2R8EaQYssmgYs1n3o28xXmHQJ%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D5ZiXdPKMM3azc9vhmpqbW7mJRhc%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Sat, 26 Aug 2023 16:06:34 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://sunny-utube.tistory.com/3"
+      }
+    },
+    {
+      "id": "feed-cd128099cfab4611",
+      "title": {
+        "ko": "할로윈 프랑켄슈타인 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "en": "할로윈 프랑켄슈타인 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "ja": "할로윈 프랑켄슈타인 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/419"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "seasonal",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FpmGyz%2FdJMcaaUH8ms%2FAAAAAAAAAAAAAAAAAAAAAJfHyC8fEXDW5vImjdFZwYHeV6-tCstwfCvI3CYIihem%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DDppvsJOnfg54cwB7jsK66ykjKDA%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 15:05:01 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/419"
+      }
+    },
+    {
+      "id": "feed-b615a1f858a78e6c",
+      "title": {
+        "ko": "할로윈 검은 고양이 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "en": "할로윈 검은 고양이 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "ja": "할로윈 검은 고양이 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/418"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "seasonal",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FTfDLg%2FdJMcaaAwJrl%2FAAAAAAAAAAAAAAAAAAAAANGX2WkSm3-gjKpq8zx2HkTcOGhJs-wilUNASd-apiqN%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Darm%252BS0nIYACXTtnu48XCX0zCJE8%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 15:04:05 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/418"
+      }
+    },
+    {
+      "id": "feed-53758ac9f7a0e525",
+      "title": {
+        "ko": "할로윈 호박 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "en": "할로윈 호박 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "ja": "할로윈 호박 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/417"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "seasonal",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FBCEbv%2FdJMcafuX695%2FAAAAAAAAAAAAAAAAAAAAAPZoWkrKHCUf_YzEpi2TTAMyaB0kdomEfs0-pbabd-Lj%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DDRvzcX0kETgCNMrC0Z9MpaPI4ag%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 15:03:16 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/417"
+      }
+    },
+    {
+      "id": "feed-9229b0ab4de9f1c5",
+      "title": {
+        "ko": "할로윈 귀여운 유령 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "en": "할로윈 귀여운 유령 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "ja": "할로윈 귀여운 유령 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/416"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "seasonal",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FGbnvR%2FdJMcagm47Xf%2FAAAAAAAAAAAAAAAAAAAAAP1Jh2PiwOiQ3p-0B0xr2j9ZY4Fihn-ZX2eivT4R3-ny%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DOwqnkcoUZDe3i89szZ3rQ7xmt1U%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 15:02:27 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/416"
+      }
+    },
+    {
+      "id": "feed-9f1f0d4d517b92b5",
+      "title": {
+        "ko": "할로윈 박쥐 캔디 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "en": "할로윈 박쥐 캔디 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "ja": "할로윈 박쥐 캔디 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/415"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "seasonal",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FkNGj4%2FdJMcabeTirO%2FAAAAAAAAAAAAAAAAAAAAAGyIfCoji3vjSTplefbJCJmYJXyOholZRUv9zGPaRIMv%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D1EhvfcTHis%252FOHSdigVZ1BaNo%252Fh8%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 15:00:44 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/415"
+      }
+    },
+    {
+      "id": "feed-a23713509eeca5aa",
+      "title": {
+        "ko": "할로윈 미라 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "en": "할로윈 미라 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "ja": "할로윈 미라 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/414"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "seasonal",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbJKXOX%2FdJMcah0yqTb%2FAAAAAAAAAAAAAAAAAAAAAOVUVDtco5Zy4i_NN3XEYT7PzcZ8FG_bP9t-bMqKeUiZ%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D54mikjKGSWEDCNj%252FLAmL%252Bz8g69o%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 14:39:40 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/414"
+      }
+    },
+    {
+      "id": "feed-0d92eaec2c0e6873",
+      "title": {
+        "ko": "할로윈 눈알 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "en": "할로윈 눈알 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안",
+        "ja": "할로윈 눈알 버터 스퀴시 만들기 · 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/413"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "seasonal",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbHusQQ%2FdJMb99OWoyE%2FAAAAAAAAAAAAAAAAAAAAAFqtTYICsnhSWMjSYre4OLgPofY8yByIPnELLHMfO_KR%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DcffQ8PL%252FYPLjMLE3jWlc2eMEcn0%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 14:38:02 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/413"
+      }
+    },
+    {
+      "id": "feed-488ebad22b6a669f",
+      "title": {
+        "ko": "버터 스퀴시 과일 블루베리 버전 종이 스퀴시 무료 도안",
+        "en": "버터 스퀴시 과일 블루베리 버전 종이 스퀴시 무료 도안",
+        "ja": "버터 스퀴시 과일 블루베리 버전 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/412"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbvqo5b%2FdJMcafPcpet%2FAAAAAAAAAAAAAAAAAAAAAHMXWHmIEhPmo61DD6aiWTKCVRxB1gm6wynRLzUwH9YZ%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D0W%252FF5noeTTxqt2Hb0Wdbprt8B%252BU%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 30 Sep 2026 19:20:09 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/412"
+      }
+    },
+    {
+      "id": "feed-75e965e85b0a305e",
+      "title": {
+        "ko": "버터 스퀴시 과일 키위 버전 종이 스퀴시 무료 도안",
+        "en": "버터 스퀴시 과일 키위 버전 종이 스퀴시 무료 도안",
+        "ja": "버터 스퀴시 과일 키위 버전 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/411"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbF9qpR%2FdJMcagHjTuu%2FAAAAAAAAAAAAAAAAAAAAAJwwPA4QIO6U7s_BdyxuY4mvWn6rPzsDDjJgpQeprP8J%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D3iqCcxjb71%252FhQJOmTUCgqoKX2mc%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 30 Sep 2026 19:20:03 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/411"
+      }
+    },
+    {
+      "id": "feed-e3169b1a5c141eb6",
+      "title": {
+        "ko": "버터 스퀴시 과일 패션 후르츠 종이 스퀴시 무료 도안",
+        "en": "버터 스퀴시 과일 패션 후르츠 종이 스퀴시 무료 도안",
+        "ja": "버터 스퀴시 과일 패션 후르츠 종이 스퀴시 무료 도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://chohwa.tistory.com/410"
+      },
+      "creator": "쪼앙랜드 · zzoangland",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb1OCtd%2FdJMcacrngfR%2FAAAAAAAAAAAAAAAAAAAAAJCoxXy2VqfnK1bto9Us8tanppcatpbB480yMWTMIXr4%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DQ315%252BVy4vqpNdYf%252B%252Btdl%252BB6GuRo%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Wed, 30 Sep 2026 19:09:00 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://chohwa.tistory.com/410"
+      }
+    },
+    {
+      "id": "feed-2035fde09c12f283",
+      "title": {
+        "ko": "귀여운 일러스트로 시작하는 모롱보롱 떡볶이가게 #스퀴시북DIY 무료도안",
+        "en": "귀여운 일러스트로 시작하는 모롱보롱 떡볶이가게 #스퀴시북DIY 무료도안",
+        "ja": "귀여운 일러스트로 시작하는 모롱보롱 떡볶이가게 #스퀴시북DIY 무료도안"
+      },
+      "titleLanguage": "ko",
+      "urls": {
+        "ko": "https://whitetree0415.tistory.com/6"
+      },
+      "creator": "모롱보롱 · morongborong",
+      "kind": "external",
+      "category": "play",
+      "difficulty": "unknown",
+      "access": "free",
+      "rights": "source-only",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FW40gP%2FbtsOaeO6cLh%2FAAAAAAAAAAAAAAAAAAAAAN0ec6H_s2xTvxEF-qD6H0vBqTNmsYiwpj0M_2wUv9kP%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DAvM6v2agQz%252BqLdBQSOyYj736uks%253D",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "sourcePublishedAt": "Fri, 23 May 2025 00:24:15 +0900",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23"
+      },
+      "verification": {
+        "method": "approved-feed-and-article-v1",
+        "checkedAt": "2026-10-23T05:54:08.200603+00:00",
+        "sourceUrl": "https://whitetree0415.tistory.com/6"
+      },
+      "craftType": "book"
     },
     {
       "id": "h-squishy0244",

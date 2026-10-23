@@ -10,6 +10,10 @@ on:
       - 'data/discovery-queue.json'
       - 'data/discovery-health.json'
   pull_request:
+  workflow_run:
+    workflows: [Refresh live catalog]
+    types: [completed]
+    branches: [main]
   schedule:
     - cron: '0 22 * * 0'
   workflow_dispatch:
@@ -20,6 +24,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-24.04
     timeout-minutes: 20
     permissions:
@@ -39,6 +44,7 @@ jobs:
         if: github.event_name != 'pull_request'
         with:
           path: dist
+          retention-days: 1
       - name: Freshness summary
         if: always()
         run: |
