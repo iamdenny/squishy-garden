@@ -15,14 +15,14 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdB5arl%2FbtrknXiaubk%2FAAAAAAAAAAAAAAAAAAAAAIpnHSF3oesNO6OZH05u2OUtycXNAFt7ppKCIxPuh-2r%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DOBm4k9NXxZWu4rWdv1ARkcIP7MA%253D",
     "firstSeenAt": "2026-10-22",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -41,15 +41,15 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "thumbnail": "https://sowonyplayground.com/data/item/1742360912/13.jpg",
     "firstSeenAt": "2026-10-22",
     "craftType": "book",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -68,7 +68,7 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "tags": [
       "포켓몬",
       "Pokemon",
@@ -83,9 +83,9 @@
     "firstSeenAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -104,7 +104,7 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "tags": [
       "시나모롤",
       "쿠로미",
@@ -123,9 +123,9 @@
     "firstSeenAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -145,7 +145,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FzslHG%2FdJMcagRXbOE%2FAAAAAAAAAAAAAAAAAAAAAMe68S0M6Mb9IZdCZ_cKKWFvq_AW5bbsCywb0clTmM8d%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DPPYuCROEuy5CTO2j4bz6JUBVR5Y%253D",
     "tags": [
@@ -165,9 +165,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -187,7 +187,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqEIHo%2FdJMcabwi4Iy%2FAAAAAAAAAAAAAAAAAAAAACYoWuwgxhv2DMdBS68FE8lIvYsX8xtbDt33LU_ioFB6%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DPT1cFtS%252FOE9G2Wtlvp8SdmWFKD0%253D",
     "tags": [
@@ -207,9 +207,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -229,7 +229,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fu8k40%2FdJMcagYxHBg%2FAAAAAAAAAAAAAAAAAAAAAApMWVcWmZdNOxL3pkIH9D4_qfxBUq9s_ZTtZGHjfvCI%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DestwSLSEf7Hq7nkMjYyCyMbXbR0%253D",
     "tags": [
@@ -249,9 +249,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -271,7 +271,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FAtpQu%2FbtsQ6TINBnk%2FAAAAAAAAAAAAAAAAAAAAANkxegOhU5SzSWY3lGfEVfmyXL-1NstA2nzZJOShB8Td%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DTHHsO8m9%252Bs2HJWQTKUM1FCd6hsc%253D",
     "tags": [
@@ -291,9 +291,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -313,7 +313,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbZsNkc%2FbtsQEbiAX6g%2FAAAAAAAAAAAAAAAAAAAAAKXqNOxHm-cTPkIW13JFJWSlmV5qeIcIJqvtvnHBGuSi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DrqsXaaWeK6wLkIkR4JEcAwKrkks%253D",
     "tags": [
@@ -333,9 +333,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -355,7 +355,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FAEasA%2FbtsQoBCPZ6j%2FAAAAAAAAAAAAAAAAAAAAAGIP8bSdINYg4ZeyBohQ3vGrv-8jILWEK409r82tMwev%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D1IquXl59Wm1Gkm4RpNT6Piy7rLo%253D",
     "tags": [
@@ -372,9 +372,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -394,7 +394,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "book",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbjgNG2%2Fbtr1dl9MAeg%2FAAAAAAAAAAAAAAAAAAAAACdhznbbSKJJWsmUf3E24nBOQ0KRIpkOP3GhFealfWkr%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Df%252F0xtSbJ1fOZY%252BfgDz6mZpEuu5Y%253D",
     "tags": [
@@ -411,9 +411,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -433,7 +433,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F6lYfO%2FbtrgB4fPVZv%2FAAAAAAAAAAAAAAAAAAAAAH-445fn7hjeaY9MHlowc00hAqhDaZiRqpY9ZPpX_YpI%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DTs4s%252B9Bxx1y1Cz8c2LD%252BfIdwUVE%253D",
     "tags": [
@@ -450,9 +450,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -472,7 +472,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FZHvrc%2Fbtq5QOs30CK%2FAAAAAAAAAAAAAAAAAAAAAISu6CqecGQ6JeHxKkaWoKVP8-UMLrDLDksikWuit9Qx%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Dh93j%252FZjkN8KZgfKqm%252FOiPsvrkCc%253D",
     "tags": [
@@ -489,9 +489,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -511,7 +511,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbAFAC2%2Fbtsvb5LXXl6%2FAAAAAAAAAAAAAAAAAAAAAAMTtpJiIMoO8QbMAczO205HQeSk1PkmN0WEDw6BIm29%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Dm8n21lxAzGWfpHXbejo5FJMzm8w%253D",
     "tags": [
@@ -528,9 +528,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -550,7 +550,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FmSLcF%2Fbtsp1jGOprF%2FAAAAAAAAAAAAAAAAAAAAAM9JA60Gr7vBuaiKEya1OE0Wi4UIzIOLQqxmWFwAXnPq%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Diq5T5nbrFJ7jq5bKUPiICcEE3WU%253D",
     "tags": [
@@ -567,9 +567,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -589,7 +589,7 @@
     "access": "unknown",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FRTumG%2FbtrRGw7tU6K%2FAAAAAAAAAAAAAAAAAAAAAF8NFYseIT3w9ciU6btWnTrCezD2m1dR02UjP5PsOZMM%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DshyjSyIXeVrc%252B6NEK08e9vXsTx8%253D",
     "tags": [
@@ -610,9 +610,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -632,7 +632,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "book",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FPgoSz%2FbtrLuxTIuIF%2FAAAAAAAAAAAAAAAAAAAAAKbs1dUWCLmjW2AyzfnRd33_MUEXKIvrSJLBFnlBsO3R%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D3ieYdUcila5cJI%252BbMZev8MzmbUk%253D",
     "tags": [
@@ -653,9 +653,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -675,7 +675,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcFd6Fh%2FbtrD4UAJFNv%2FAAAAAAAAAAAAAAAAAAAAAGuj7Lmqx2jgixJVyPSOwdkM8N2J_0ervmaJna10OIew%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DsM5OCouoF4srQjTAOfccnRAvWFE%253D",
     "tags": [
@@ -696,9 +696,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -718,7 +718,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-23",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fl6FXZ%2FbtrD2Hu8bl1%2FAAAAAAAAAAAAAAAAAAAAALIBhidgWPN2qeCZbgjmzEoKRynJ1KgWDcB-1DnDQ2Pi%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DfUVq5Mv8gzzy01Tsn5dlSEpfFdg%253D",
     "tags": [
@@ -739,9 +739,9 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -761,7 +761,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Fri, 5 Sep 2025 17:11:47 +0900",
@@ -779,9 +779,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -801,7 +801,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Sat, 23 Aug 2025 19:26:10 +0900",
@@ -819,9 +819,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -841,7 +841,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Tue, 19 Aug 2025 20:28:42 +0900",
@@ -860,9 +860,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -882,7 +882,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Tue, 19 Aug 2025 20:13:43 +0900",
@@ -900,9 +900,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -922,7 +922,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Thu, 14 Aug 2025 16:40:13 +0900",
@@ -940,9 +940,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -962,7 +962,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Tue, 12 Aug 2025 18:36:39 +0900",
@@ -980,9 +980,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -1002,7 +1002,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Mon, 11 Aug 2025 18:21:22 +0900",
@@ -1023,9 +1023,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -1045,7 +1045,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Mon, 4 Aug 2025 20:35:21 +0900",
@@ -1064,9 +1064,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -1086,7 +1086,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Thu, 17 Jul 2025 10:40:34 +0900",
@@ -1104,9 +1104,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -1126,7 +1126,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "thumbnail": "https://blogthumb.pstatic.net/MjAyNDA4MDJfMjQ4/MDAxNzIyNTc0NTYwMjUw.3Ce7KM7lUri3NMKKvbGKOIgMNEBZQE_QEDrqCTNhEbwg.8WkWoG08N4W66RnSRvUyjEbA2E4Q0O_mf8P4D3VgiOMg.PNG/%BD%E6%B3%D7%C0%CF.png?type=w2",
@@ -1146,9 +1146,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -1168,7 +1168,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "thumbnail": "https://blogthumb.pstatic.net/MjAyNTAyMDVfMTc5/MDAxNzM4NzQ0ODc1OTg4.fp21A9CO5A-X23UAdcU46U1-Ta90SWklBZJCVJdsdzgg.ZEn_0HMhPBAZOHFD4YZQwkpZGMZAXyU_Nm8Bkl2iJHYg.JPEG/IMG_9173.JPG?type=w2",
@@ -1187,9 +1187,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -1209,7 +1209,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "thumbnail": "https://blogthumb.pstatic.net/MjAyMzExMTBfMTAw/MDAxNjk5NTgxNTczMjYz.9PQH5fgzT2OkzK91WVBSynuss0udJBDRmaoeAX1OOUAg.8E4h4uHm8en8rIeqLM_RboIWdOlQwG6PO2qrOKqn3E4g.JPEG.makeit_youtube/%A4%A1%A4%B5%A4%B1%A4%A7%A4%A1.jpg?type=w2",
@@ -1229,9 +1229,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   },
   {
@@ -1251,7 +1251,7 @@
     "access": "unknown",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "thumbnail": "https://blogthumb.pstatic.net/MjAyNDEyMjJfMTY2/MDAxNzM0ODUyODMwMjM0.6RGPJJvVKCQFO2mHB3olgje-ECbyCxaA7NrNfaVto3sg.uNsghNpRncQvtbhxng0P4q3gvSQTu9W1nKUgv2W3Pp8g.JPEG/IMG_1471.JPG?type=w2",
@@ -1273,9 +1273,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-22"
+      "lastConfirmedAt": "2026-10-23"
     }
   }
 ]
