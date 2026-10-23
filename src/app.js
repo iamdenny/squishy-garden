@@ -1,8 +1,9 @@
 import {printCopy,printableFiles,printableLabel,hasPrintableOriginal} from './printable.mjs';
 import {selectItems,sourceUnavailable} from './search.mjs';
-import {validateCatalog} from './catalog-contract.mjs';
+import {validateCatalog,catalogIsCurrent} from './catalog-contract.mjs';
+import {text} from './i18n.mjs';
 import {detailCopy} from './detail.mjs';
-const config=JSON.parse(document.querySelector('#site-config').textContent),t=config.ui;
+const config=JSON.parse(document.querySelector('#site-config').textContent),t=text[config.lang];
 const read=(key,fallback)=>{try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}};
 const write=(key,value)=>{try{localStorage.setItem(key,JSON.stringify(value))}catch{}};
 const element=(name,className,text)=>{const node=document.createElement(name);if(className)node.className=className;if(text!==undefined)node.textContent=text;return node};
@@ -50,7 +51,9 @@ async function fetchLatestCatalog(){
  if(declaredSize>24*1024*1024)throw new Error('Catalog source is too large');
  const body=await response.text();
  if(new TextEncoder().encode(body).byteLength>24*1024*1024)throw new Error('Catalog source is too large');
- return validateCatalog(JSON.parse(body));
+ const catalog=validateCatalog(JSON.parse(body));
+ if(!catalogIsCurrent(catalog,config.catalogGeneratedAt,config.catalogRevision))throw new Error("Catalog snapshot is older than this page");
+ return catalog;
 }
 function safeHttps(value){try{const url=new URL(value);return url.protocol==='https:'?url.href:''}catch{return''}}
 function bindImageFallback(img){const fallback=()=>{img.hidden=true;const note=document.createElement('span');note.className='preview-unavailable';note.textContent=img.alt;img.after(note)};img.addEventListener('error',fallback,{once:true});if(img.complete&&!img.naturalWidth)fallback()}
