@@ -49,7 +49,8 @@ def category(title):
  if re.search('할로윈|크리스마스|산타|미라|유령|호박|눈알|프랑켄슈타인',title):return 'seasonal'
  if re.search('스퀴시북|가게|하우스|게임|집 만들기',title):return 'play'
  if re.search('강아지|고양이|토끼|동물|곰|펭귄',title):return 'animals'
- return 'food'
+ if re.search('버터|과일|블루베리|키위|빵|우유|초콜릿|간식|아이스크림',title):return 'food'
+ return 'play'
 
 def promote(queue,published,sources,fetch=allowed_get,now=None,budget=24):
  now=now or datetime.now(timezone.utc).isoformat();day=now[:10]

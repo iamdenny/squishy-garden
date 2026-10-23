@@ -39,3 +39,14 @@ class FreshnessTest(unittest.TestCase):
   self.assertTrue(problems({**state,'primaryStatus':'unverified'},checks,now))
   self.assertTrue(problems(state,[],now))
 if __name__=='__main__':unittest.main()
+
+class RecheckTest(unittest.TestCase):
+ def test_changed_free_claim_becomes_unknown_then_recovers(self):
+  import collect
+  from unittest.mock import patch
+  row={'id':'test','title':{'ko':TITLE},'urls':{'ko':'https://example.com/1'},'access':'free','verification':{'method':'approved-feed-and-article-v1'}}
+  for html,expected in [(HTML.replace(TITLE,'고양이 스퀴시 유료 도안'),'unknown'),(HTML,'free')]:
+   with patch.object(collect,'allowed_get',return_value='<h1>Pattern</h1>'+html):collect.check_extra(row)
+   self.assertEqual(row['access'],expected)
+ def test_unknown_character_is_not_assumed_food(self):
+  self.assertEqual(g.category('허기워기 스퀴시 무료도안'),'play')
