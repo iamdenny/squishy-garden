@@ -33,3 +33,8 @@ for(const lang of config.locales){
  const detail=await readFile(`dist/${lang}/patterns/h-squishy0145/index.html`,'utf8');assert(detail.includes('data-pattern-view="h-squishy0145"'));assert(detail.includes('data-original-file="h-squishy0145"'));
 }
 console.log('Verified original-only filter, card badges and distinct detail/original event targets.');
+
+// Shared UI strings must be available without a per-page duplicate payload.
+await access("dist/i18n.mjs");
+for(const lang of config.locales){const html=await readFile(`dist/${lang}/index.html`,"utf8");const embedded=JSON.parse(html.match(/id="site-config">(.*?)<\/script>/)[1]);assert.equal(embedded.lang,lang);assert(!Object.hasOwn(embedded,"ui"));}
+console.log("Verified shared locale module and compact per-page configuration.");

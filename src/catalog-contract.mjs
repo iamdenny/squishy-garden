@@ -31,3 +31,9 @@ export function validateCatalog(value){
 function isHttpsUrl(value){
  try{const url=new URL(value);return url.protocol==='https:'&&Boolean(url.hostname)&&!url.username&&!url.password}catch{return false}
 }
+
+export function catalogIsCurrent(value, minimum, revision){
+ if(revision&&value.revision===revision)return true;
+ const timestamp=Date.parse(value.generatedAt||value.updatedAt);
+ return Number.isFinite(timestamp)&&timestamp>=Date.parse(minimum);
+}
