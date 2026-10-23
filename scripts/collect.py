@@ -128,6 +128,11 @@ def check_extra(row):
    if info:row['printable']=info
    else:row.pop('printable',None)
   row['checkedAt']=TODAY
+  if row.get('verification',{}).get('method')=='approved-listing-and-file-v1':
+   from public_sources import eligible_listing
+   evidence,reason=eligible_listing({'sourceId':row['verification']['sourceId'],'url':row['urls']['ko']},html)
+   row['access']='free' if evidence else 'unknown'
+   row['verification'].update(lastRecheckAt=NOW.isoformat(),latestStatus='verified' if evidence else 'needs_review')
   if row.get('verification',{}).get('method')=='approved-feed-and-article-v1':
    from catalog_growth import eligible,category
    evidence,reason=eligible({'title':row['title']['ko']},html)
@@ -146,8 +151,12 @@ def check_extra(row):
   confirmed=previous.get('lastConfirmedStatus',previous.get('status'))
   if confirmed in ('reachable','unavailable'):
    check.update(lastConfirmedStatus=confirmed,lastConfirmedAt=previous.get('lastConfirmedAt',previous.get('checkedAt',row.get('checkedAt'))))
+ row['lastCheckAttempt']=NOW.isoformat()
  row['health']={k:v for k,v in check.items() if k!='id'}
  return check
+
+def extra_sample(rows,limit=24):
+ return sorted(rows,key=lambda row:(row.get('lastCheckAttempt',''),row['id']))[:limit]
 
 def main():
  path=Path('src/catalog-external.json');statepath=Path('src/freshness.json')
@@ -159,7 +168,9 @@ def main():
  except Exception as error:
   print('::warning::Primary catalog refresh failed; preserving previous catalog and success timestamp. '+type(error).__name__,flush=True)
  extras=json.loads(Path('src/catalog-extra.json').read_text())
- checks=[check_extra(row) for row in extras]
+ # Bound growth cost: rotate through the oldest attempted source pages.
+ sampled=extra_sample(extras)
+ checks=[check_extra(row) for row in sampled]
  state.update(lastAttempt=NOW.isoformat(),primaryStatus='reachable' if primary_ok else 'unverified',otherSourceChecks=checks)
  state['partialFailure']=not primary_ok or any(c['status']!='reachable' for c in checks)
  if state['partialFailure']:print('::warning::Some sources could not be verified. See freshness.json.',flush=True)

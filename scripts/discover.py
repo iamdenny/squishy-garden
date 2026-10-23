@@ -5,6 +5,7 @@ from urllib.parse import urlsplit,urlunsplit,parse_qsl,urlencode,unquote,quote
 from datetime import datetime,timezone
 from collect import allowed_get
 from html import unescape
+from public_sources import SOURCES as LISTINGS, parse_listing
 
 SOURCES=[
  {'id':'gripipi','creator':'그리피피 · Gripipi','feed':'https://tingkka.tistory.com/rss'},
@@ -12,7 +13,8 @@ SOURCES=[
  {'id':'ryong','creator':'룡룡쌤','feed':'https://ryongryongkid.tistory.com/rss'},
  {'id':'sunny','creator':'햇님유뚜비','feed':'https://sunny-utube.tistory.com/rss','autoPublish':True},
  {'id':'zzoangland','creator':'쪼앙랜드 · zzoangland','feed':'https://chohwa.tistory.com/rss','autoPublish':True},
- {'id':'morongborong','creator':'모롱보롱 · morongborong','feed':'https://whitetree0415.tistory.com/rss','autoPublish':True}]
+ {'id':'morongborong','creator':'모롱보롱 · morongborong','feed':'https://whitetree0415.tistory.com/rss','autoPublish':True},
+ {'id':'leesaem','creator':'리샘아트','feed':'https://leesaemart.tistory.com/rss'}]+LISTINGS
 
 def canonical_url(url):
  u=urlsplit(url)
@@ -49,9 +51,10 @@ def refresh(old,published,fetch=allowed_get):
  known={canonical_url(url) for row in published for url in row.get('urls',{}).values()}
  for source in SOURCES:
   try:
-   candidates=parse_feed(fetch(source['feed']),source)
+   html=fetch(source['feed'])
+   candidates=parse_listing(html,source) if source.get('adapter')=='listing' else parse_feed(html,source)
    for row in candidates:
-    url=row['url']
+    url=canonical_url(row['url']);row['url']=url
     if url in known:continue
     if url not in rows:rows[url]={**row,'firstSeenAt':now}
     rows[url]['lastSeenAt']=now
