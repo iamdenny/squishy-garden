@@ -23,3 +23,17 @@ test('cross-language character queries find original-language creator titles',()
  for(const q of ['cinnamoroll','シナモロール','sanrio 시나모롤','스퀴즈 도안'])assert.equal(selectItems(rows,{q}).length,1);
  assert.equal(selectItems(rows,{q:'kuromi'}).length,0);
 });
+
+test('price queries use verified access metadata in every language',()=>{
+ const rows=[
+  {id:'free',title:{ko:'딸기',en:'strawberry'},access:'free'},
+  {id:'paid',title:{ko:'딸기 무료 이벤트',en:'free strawberry'},access:'paid'},
+  {id:'unknown',title:{ko:'딸기 무료 안내',en:'free strawberry'},access:'unknown'}
+ ];
+ for(const q of ['무료 도안','무료도안','free pattern','free patterns','無料 型紙','無料型紙','딸기 무료'])assert.deepEqual(selectItems(rows,{q}).map(i=>i.id),['free']);
+ for(const q of ['유료 도안','paid pattern','有料型紙'])assert.deepEqual(selectItems(rows,{q}).map(i=>i.id),['paid']);
+ assert.deepEqual(selectItems(rows,{q:'무료',access:'paid'}),[]);
+ assert.deepEqual(selectItems(rows,{q:'무료 유료'}),[]);
+ assert.equal(selectItems(rows,{q:'딸기'}).length,3);
+ assert.deepEqual(selectItems(rows,{q:'무료',saved:true},['paid']),[]);
+});
