@@ -1,0 +1,51 @@
+{
+  "enabled": true,
+  "site": "squishy.iamdenny.com",
+  "adultAdsEnabled": false,
+  "slots": [
+    {
+      "id": "top-desktop",
+      "zoneId": "31876491",
+      "key": "f5d69be87dfe9fea4a705cb8005d4e85",
+      "src": "https://bauval.org/22/f5d69be87dfe9fea4a705cb8005d4e85",
+      "width": 728,
+      "height": 90,
+      "media": "(min-width: 761px)"
+    },
+    {
+      "id": "top-mobile",
+      "zoneId": "31876492",
+      "key": "cb9327abd833eb605195cab56e209471",
+      "src": "https://bauval.org/22/cb9327abd833eb605195cab56e209471",
+      "width": 320,
+      "height": 50,
+      "media": "(max-width: 760px)"
+    },
+    {
+      "id": "left-rail",
+      "zoneId": "31876493",
+      "key": "053bae2cd59630e2dbeb6a015d91a1eb",
+      "src": "https://bauval.org/22/053bae2cd59630e2dbeb6a015d91a1eb",
+      "width": 160,
+      "height": 600,
+      "media": "(min-width: 1700px)"
+    },
+    {
+      "id": "right-rail",
+      "zoneId": "31876494",
+      "key": "794d17b73cf93aefd314f5386d018f34",
+      "src": "https://bauval.org/22/794d17b73cf93aefd314f5386d018f34",
+      "width": 160,
+      "height": 300,
+      "media": "(min-width: 1700px)"
+    },
+    {
+      "id": "bottom-rectangle",
+      "zoneId": "31876495",
+      "key": "87756eb62fd5238aebcb65b2cd5e24e2",
+      "src": "https://bauval.org/22/87756eb62fd5238aebcb65b2cd5e24e2",
+      "width": 300,
+      "height": 250
+    }
+  ]
+}
