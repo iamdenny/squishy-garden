@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "086653d5f1a9073a6fdc2ca52611d1ffd457f73f3b2be5cd88e0c962b8b46216",
-  "generatedAt": "2026-10-23T15:36:45.284Z",
+  "revision": "b5b396ca71cd0c47c6dcdba690201fc61ca85577ba48e976bd0848fb69762b38",
+  "generatedAt": "2026-10-23T15:39:34.577Z",
   "updatedAt": "2026-10-23T14:18:25.866227+00:00",
   "health": {
     "lastAttempt": "2026-10-23T14:18:25.866227+00:00",
@@ -68,7 +68,7 @@
         "matchingItems": 14
       }
     ],
-    "pendingReview": 252
+    "pendingReview": 251
   },
   "items": [
     {
@@ -16154,6 +16154,46 @@
         "checkedAt": "2026-10-23T15:36:26.238313+00:00",
         "sourceUrl": "https://www.findyourfidget.com/paper-squishies/candy-bag/",
         "fileTypes": "PDF"
+      }
+    },
+    {
+      "id": "etsy-4584202978",
+      "title": {
+        "ko": "Butter Squishy Template Bundle: 110 Printable Paper Squishy Designs, Coloring Pages, DIY Kids Craft",
+        "en": "Butter Squishy Template Bundle: 110 Printable Paper Squishy Designs, Coloring Pages, DIY Kids Craft",
+        "ja": "Butter Squishy Template Bundle: 110 Printable Paper Squishy Designs, Coloring Pages, DIY Kids Craft"
+      },
+      "titleLanguage": "en",
+      "urls": {
+        "ko": "https://www.etsy.com/listing/4584202978/butter-squishy-template-bundle-110",
+        "en": "https://www.etsy.com/listing/4584202978/butter-squishy-template-bundle-110"
+      },
+      "creator": "YsnAit · Etsy",
+      "kind": "external",
+      "category": "food",
+      "difficulty": "unknown",
+      "access": "paid",
+      "rights": "source-only",
+      "thumbnail": "https://i.etsystatic.com/34443987/r/il/73f8fc/8590296066/il_1588xN.8590296066_bg0f.jpg",
+      "checkedAt": "2026-10-23",
+      "firstSeenAt": "2026-10-23",
+      "tags": [
+        "스퀴시",
+        "squishy",
+        "スクイーズ"
+      ],
+      "health": {
+        "status": "reachable",
+        "checkedAt": "2026-10-23T15:39:00.734Z",
+        "lastConfirmedStatus": "reachable",
+        "lastConfirmedAt": "2026-10-23T15:39:00.734Z"
+      },
+      "verification": {
+        "method": "editorial-browser-product-v1",
+        "sourceId": "etsy-editorial",
+        "checkedAt": "2026-10-23T15:39:00.734Z",
+        "sourceUrl": "https://www.etsy.com/listing/4584202978/butter-squishy-template-bundle-110",
+        "fileTypes": "4 PDF"
       }
     },
     {

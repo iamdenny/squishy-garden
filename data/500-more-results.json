@@ -1,8 +1,8 @@
 {
   "targetAdditional": 500,
   "baselineTotal": 318,
-  "catalogTotal": 646,
-  "verifiedAdditional": 328,
+  "catalogTotal": 647,
+  "verifiedAdditional": 329,
   "verifiedIds": [
     "feed-a41c9d2a3ec585cb",
     "feed-708891cae498c7ec",
@@ -331,11 +331,11 @@
     "etsy-4448781996",
     "etsy-4599005209",
     "findyourfidget-butter",
-    "findyourfidget-candy-bag"
+    "findyourfidget-candy-bag",
+    "etsy-4584202978"
   ],
-  "additionalUnverifiedCandidateLinks": 242,
+  "additionalUnverifiedCandidateLinks": 241,
   "unverifiedCandidateIds": [
-    "31a2ad8bf5e0f619",
     "3d7dbac236e9eba2",
     "bfa1414d0bb98e19",
     "d4d1e5d9ca115c35",
@@ -578,6 +578,6 @@
     "bba8292e9cc98403",
     "d84a96788dc5c7e6"
   ],
-  "verifiedTargetRemaining": 172,
+  "verifiedTargetRemaining": 171,
   "note": "Source-verified metadata only; bundles and color/language variants are not multiplied. Unreviewed marketplace candidates remain unpublished. Current catalog total is not a deployment receipt."
 }
