@@ -72,6 +72,14 @@ def validate_rows(rows,old):
  for row in rows:
   if set(row['title'])!={'ko','en','ja'} or any(not v.strip() for v in row['title'].values()):raise RuntimeError('Incomplete translation '+row['id'])
   if len(row['title']['ko'])>250:raise RuntimeError('Invalid title')
+def detail_sample(rows,limit=12):
+ # Missing checks first, then oldest evidence. Unlike date offsets, repeated
+ # runs on the same day advance through the catalog without extra requests.
+ def checked(row):
+  try:return datetime.fromisoformat(row.get('detailCheckedAt','').replace('Z','+00:00')).replace(tzinfo=timezone.utc).timestamp()
+  except (ValueError,TypeError):return float('-inf')
+ return sorted(rows,key=lambda row:(checked(row),row['id']))[:limit]
+
 def collect_primary():
  rows={};path=Path('src/catalog-external.json');old=json.loads(path.read_text()) if path.exists() else []
  for lang in ['ko','en','ja']:
@@ -99,12 +107,11 @@ def collect_primary():
   row['firstSeenAt']=previous.get('firstSeenAt',previous.get('checkedAt',TODAY))
   if previous.get('printable'):row['printable']=previous['printable']
   if previous.get('detailCheckedAt'):row['detailCheckedAt']=previous['detailCheckedAt']
- offset=(NOW.date().toordinal()*12)%len(result)
- sample=[result[(offset+i)%len(result)] for i in range(min(12,len(result)))]
+ sample=detail_sample(result)
  for row in sample:
   html=allowed_get(row['urls']['ko'])
   if '<h1' not in html or row['urls']['ko'] not in html:raise RuntimeError('Detail page changed '+row['id'])
-  row['detailCheckedAt']=TODAY
+  row['detailCheckedAt']=NOW.isoformat()
   info=printable_metadata(html,row['urls']['ko'])
   if info:row['printable']=info
   else:row.pop('printable',None)
