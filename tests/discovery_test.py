@@ -1,4 +1,4 @@
-import sys,unittest,json
+import sys,unittest,json,contextlib,io
 from pathlib import Path
 sys.path.insert(0,'scripts')
 import discover as d
@@ -34,5 +34,6 @@ class DiscoveryTest(unittest.TestCase):
  def test_failure_does_not_drop_previous_candidates(self):
   old=[{'url':'https://tingkka.tistory.com/109','status':'pending_review'}]
   def fail(_):raise TimeoutError()
-  rows,checks=d.refresh(old,[],fail);self.assertEqual(rows,old);self.assertTrue(all(c['status']=='unverified' for c in checks))
+  with contextlib.redirect_stdout(io.StringIO()):rows,checks=d.refresh(old,[],fail)
+  self.assertEqual(rows,old);self.assertTrue(all(c['status']=='unverified' for c in checks))
 if __name__=='__main__':unittest.main()
