@@ -5,7 +5,7 @@
 - DNS: DNSEver CNAME `squishy` → `iamdenny.github.io`
 - Hosting: GitHub Pages Actions; approved TLS certificate and HTTPS enforcement verified 2026-10-22 UTC.
 - Languages: Korean, English, Japanese.
-- Catalog snapshot: 279 entries (8 original foldable cube nets and creator-hosted source links). External patterns are not rehosted. This is a selected-source catalog, not exhaustive internet coverage; the current count and check time are published in `freshness.json`.
+- Catalog snapshot: 279 entries (8 original foldable cube nets and creator-hosted source links). External patterns are not rehosted. This is a selected-source catalog, not exhaustive internet coverage. The live count and check time are in `catalog.json` and on the catalog page after its live fetch; `/freshness.json` is a static Pages snapshot that updates with the next Pages deployment.
 - Originals: six 50 mm faces, seven numbered glue tabs, solid cut lines and dashed fold lines, A4 color and coloring SVGs. Browser and geometry checked; physical print/assembly remains untested.
 
 ## Discovery and analytics
@@ -26,7 +26,7 @@ The collector respects robots directives, limits requests, discovers pagination,
 
 `npm run verify` checks search/provenance/net geometry, builds all pages, and validates metadata and local links. Python collector tests cover parsing and fail-closed validation. Desktop and 390px mobile search, saved items and language switching were checked in Chrome.
 
-The final readback job verifies the served commit and HTTPS endpoints. To roll back, revert the relevant content commit and let the push workflow deploy. To pause collection, disable the schedule in `.github/workflows/refresh-catalog.yml`; manual Pages deployment remains available through `.github/workflows/deploy.yml`.
+The final readback job verifies the served commit, HTTPS endpoints, and live GitHub catalog JSON. The site's `/freshness.json` is a deployment snapshot; data-only commits are read directly from the live catalog endpoint. To roll back, revert the relevant content commit and let the push workflow deploy. To pause collection, disable the schedule in `.github/workflows/refresh-catalog.yml`; manual Pages deployment remains available through `.github/workflows/deploy.yml`.
 
 ## Initial production evidence
 
