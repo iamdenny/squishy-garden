@@ -19,6 +19,10 @@ export function validateCatalog(value){
    const sources=Object.entries(item.urls||{});
    if(!sources.length||sources.some(([lang,source])=>!['ko','en','ja'].includes(lang)||!isHttpsUrl(source)))throw new Error(`Catalog source is invalid for ${item.id}`);
   }
+  if(item.printable){
+   const p=item.printable;
+   if(p.paper!=='A4'||p.format!=='JPG'||!Object.values(item.urls||{}).includes(p.sourceUrl)||new URL(p.sourceUrl).hostname!=='hyeriming.com'||!Array.isArray(p.files)||!p.files.length||p.files.length>24||p.files.some(url=>!/^https:\/\/hyeriming\.com\/downloads\/squishy\/squishy[0-9]+\.jpg$/.test(url))||Number.isNaN(Date.parse(p.checkedAt)))throw new Error(`Invalid printable metadata for ${item.id}`);
+  }
   if(item.thumbnail!==undefined&&item.thumbnail!==null&&!isHttpsUrl(item.thumbnail))throw new Error(`Catalog preview is invalid for ${item.id}`);
  }
  return value;

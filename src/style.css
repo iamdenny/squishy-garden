@@ -39,3 +39,5 @@
 .search-box:focus-within{outline:3px solid var(--green);outline-offset:4px;border-color:var(--green)}
 .search-box input:focus{outline:none}
 .search-box button:focus-visible{outline:3px solid var(--green);outline-offset:1px}
+
+.verified-printables{margin:24px 0;padding:18px;border:1px solid var(--line);border-radius:16px;background:#f0f4eb}.verified-printables h2{font-size:18px;margin:0 0 8px}.verified-printables p{font-size:13px;margin:0 0 12px}.verified-printables small{display:block;margin-top:12px;color:var(--muted)}

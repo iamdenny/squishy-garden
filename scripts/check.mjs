@@ -19,3 +19,11 @@ const seller=`google.com, ${config.adsensePublisher.replace(/^ca-/, '')}, DIRECT
 assert.equal(await readFile('dist/ads.txt','utf8'),seller);
 for(const [,loc]of xml.matchAll(/<loc>(.*?)<\/loc>/g)){const html=await readFile('dist'+new URL(loc).pathname+'index.html','utf8');assert(html.includes(`<meta name="google-adsense-account" content="${config.adsensePublisher}">`));assert(!/<script[^>]+(?:pagead2\.googlesyndication|adsbygoogle)/.test(html),'Verification must not activate Google ads');}
 console.log('Verified AdSense ownership metadata and seller record without Google ad scripts.');
+
+for(const lang of config.locales){
+ const detail=await readFile(`dist/${lang}/patterns/h-squishy0145/index.html`,'utf8');
+ assert(detail.includes('href="https://hyeriming.com/downloads/squishy/squishy0145.jpg"'));
+ assert(detail.includes('class="verified-printables"'));
+ const live=await readFile(`dist/${lang}/fresh-pattern/index.html`,'utf8');assert(live.includes('id="api-printables"'));
+}
+console.log('Verified source-hosted A4 original links and live detail placeholders.');

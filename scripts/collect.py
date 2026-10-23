@@ -28,6 +28,14 @@ class Preview(HTMLParser):
  def handle_starttag(self,t,a):
   d=dict(a)
   if t=='meta' and d.get('property')=='og:image' and d.get('content','').startswith('https://'):self.image=d['content']
+def printable_metadata(html,source_url):
+ # Only creator-declared JPG assets on the approved origin; never guess file paths.
+ from urllib.parse import urlsplit
+ if urlsplit(source_url).hostname!='hyeriming.com' or 'A4' not in html:return None
+ paths=list(dict.fromkeys(re.findall(r'"downloadJpg"\s*:\s*"(/downloads/squishy/squishy[0-9]+\.jpg)"',html.replace('\\"','"'))))
+ if not paths or len(paths)>24:return None
+ return {'format':'JPG','paper':'A4','files':[BASE+path for path in paths],'sourceUrl':source_url,'checkedAt':TODAY}
+
 robots={}
 REQUEST_LIMIT=240
 DOWNLOAD_LIMIT=64*1024*1024
@@ -89,6 +97,7 @@ def collect_primary():
  for row in result:
   previous=oldmap.get(row['id'],{})
   row['firstSeenAt']=previous.get('firstSeenAt',previous.get('checkedAt',TODAY))
+  if previous.get('printable'):row['printable']=previous['printable']
   if previous.get('detailCheckedAt'):row['detailCheckedAt']=previous['detailCheckedAt']
  offset=(NOW.date().toordinal()*12)%len(result)
  sample=[result[(offset+i)%len(result)] for i in range(min(12,len(result)))]
@@ -96,6 +105,9 @@ def collect_primary():
   html=allowed_get(row['urls']['ko'])
   if '<h1' not in html or row['urls']['ko'] not in html:raise RuntimeError('Detail page changed '+row['id'])
   row['detailCheckedAt']=TODAY
+  info=printable_metadata(html,row['urls']['ko'])
+  if info:row['printable']=info
+  else:row.pop('printable',None)
  return result,len(sample)
 def check_extra(row):
  # An upstream failure is not evidence of deletion. Keep the last usable metadata.
@@ -104,6 +116,10 @@ def check_extra(row):
   if '<h1' not in html:raise RuntimeError('Source markup changed')
   preview=Preview();preview.feed(html)
   if preview.image:row['thumbnail']=preview.image
+  if row['urls']['ko'].startswith(BASE+'/'):
+   info=printable_metadata(html,row['urls']['ko'])
+   if info:row['printable']=info
+   else:row.pop('printable',None)
   row['checkedAt']=TODAY
   if row.get('verification',{}).get('method')=='approved-feed-and-article-v1':
    from catalog_growth import eligible,category
