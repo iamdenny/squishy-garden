@@ -43,17 +43,21 @@ document.addEventListener('click',e=>{const original=e.target.closest('[data-ori
 function updateSaves(){document.querySelectorAll('[data-save]').forEach(b=>{const active=favorites.includes(b.dataset.save);b.setAttribute('aria-pressed',String(active));b.classList.toggle('is-saved',active);b.textContent=b.classList.contains('save')?(active?'♥':'♡'):(active?'♥ '+t.unsave:'♡ '+t.save);if(b.classList.contains('save')){const title=b.closest('.card').querySelector('h3').textContent;b.setAttribute('aria-label',(active?t.unsave:t.save)+' · '+title)}})}
 let rerender=()=>{};
 document.addEventListener('click',e=>{const b=e.target.closest('[data-save]');if(!b)return;const id=b.dataset.save;favorites=favorites.includes(id)?favorites.filter(v=>v!==id):[...favorites,id];write('squishy-favorites',favorites);updateSaves();rerender();event('save_pattern',{pattern_id:id})});updateSaves();
-async function fetchLatestCatalog(){
- if(!config.catalogApiUrl)return null;
- const response=await fetch(config.catalogApiUrl,{headers:{Accept:'application/json'},cache:'default',credentials:'omit',signal:AbortSignal.timeout(5000)});
+async function fetchCatalog(url){
+ const response=await fetch(url,{headers:{Accept:'application/json'},cache:'default',credentials:'omit',signal:AbortSignal.timeout(5000)});
  if(!response.ok)throw new Error(`Catalog source returned HTTP ${response.status}`);
  const declaredSize=Number(response.headers.get('content-length')||0);
  if(declaredSize>24*1024*1024)throw new Error('Catalog source is too large');
  const body=await response.text();
  if(new TextEncoder().encode(body).byteLength>24*1024*1024)throw new Error('Catalog source is too large');
- const catalog=validateCatalog(JSON.parse(body));
- if(!catalogIsCurrent(catalog,config.catalogGeneratedAt,config.catalogRevision))throw new Error("Catalog snapshot is older than this page");
- return catalog;
+ return validateCatalog(JSON.parse(body));
+}
+async function fetchLatestCatalog(){
+ let remoteFailure;
+ if(config.catalogApiUrl){
+  try{const catalog=await fetchCatalog(config.catalogApiUrl);if(!catalogIsCurrent(catalog,config.catalogGeneratedAt,config.catalogRevision))throw new Error('Catalog snapshot is older than this page');return catalog}catch(error){remoteFailure=error}
+ }
+ try{const catalog=await fetchCatalog('/catalog.json');if(!catalogIsCurrent(catalog,config.catalogGeneratedAt,config.catalogRevision))throw new Error('Saved catalog does not match this page');return{...catalog,dataSource:'snapshot'}}catch(error){throw remoteFailure||error}
 }
 function safeHttps(value){try{const url=new URL(value);return url.protocol==='https:'?url.href:''}catch{return''}}
 function bindImageFallback(img){const fallback=()=>{img.hidden=true;const note=document.createElement('span');note.className='preview-unavailable';note.textContent=img.alt;img.after(note)};img.addEventListener('error',fallback,{once:true});if(img.complete&&!img.naturalWidth)fallback()}
@@ -87,7 +91,7 @@ if(data){let items=JSON.parse(data.textContent);const staticIds=new Set(items.ma
  document.querySelector('#saved-only').onclick=()=>{state.saved=!state.saved;limit=24;render(true)};
  document.querySelector('#reset').onclick=()=>{history.replaceState(null,'',location.pathname+'#catalog');fromURL();limit=24;render();q.focus()};
  document.querySelector('#more').onclick=()=>{limit+=24;render()};window.addEventListener('popstate',()=>{fromURL();limit=24;render()});
- fetchLatestCatalog().then(payload=>{if(!payload)return;document.querySelector('#live-catalog-status').textContent={ko:'최신 목록을 불러왔습니다.',en:'Latest catalog loaded.',ja:'最新の一覧を読み込みました。'}[config.lang];items=payload.items;cards=new Map(items.map(item=>[item.id,makeCard(item,staticIds.has(item.id))]));const creators=new Set(items.map(i=>i.creator)),creatorSelect=document.getElementById('creator'),chosen=state.creator;creatorSelect.replaceChildren(new Option(t.anyCreator,'all'));for(const creator of creators){const option=document.createElement('option');option.value=creator;option.textContent=creator;creatorSelect.append(option)}state.creator=creators.has(chosen)?chosen:'all';creatorSelect.value=state.creator;updateFreshness(payload.updatedAt);limit=24;render()}).catch(()=>{document.querySelector('#live-catalog-status').textContent={ko:'최신 목록 연결이 지연되어 저장된 도안을 보여드리고 있습니다.',en:'Live updates are unavailable. Showing the saved catalog.',ja:'最新の一覧に接続できないため、保存された型紙を表示しています。'}[config.lang]});
+ fetchLatestCatalog().then(payload=>{document.querySelector('#live-catalog-status').textContent=payload.dataSource==='snapshot'?{ko:'최신 연결이 지연되어 저장된 도안을 보여드리고 있습니다.',en:'Live updates are delayed. Showing the saved catalog.',ja:'最新接続が遅れているため、保存済みの型紙を表示しています。'}[config.lang]:{ko:'최신 목록을 불러왔습니다.',en:'Latest catalog loaded.',ja:'最新の一覧を読み込みました。'}[config.lang];items=payload.items;cards=new Map(items.map(item=>[item.id,makeCard(item,staticIds.has(item.id))]));const creators=new Set(items.map(i=>i.creator)),creatorSelect=document.getElementById('creator'),chosen=state.creator;creatorSelect.replaceChildren(new Option(t.anyCreator,'all'));for(const creator of creators){const option=document.createElement('option');option.value=creator;option.textContent=creator;creatorSelect.append(option)}state.creator=creators.has(chosen)?chosen:'all';creatorSelect.value=state.creator;updateFreshness(payload.updatedAt);limit=24;render()}).catch(()=>{document.querySelector('#live-catalog-status').textContent={ko:'최신 목록 연결이 지연되어 저장된 도안을 보여드리고 있습니다.',en:'Live updates are unavailable. Showing the saved catalog.',ja:'最新の一覧に接続できないため、保存済みの型紙を表示しています。'}[config.lang]});
 }
 const apiPattern=document.querySelector('#api-pattern');
 if(apiPattern){
