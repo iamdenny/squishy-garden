@@ -37,3 +37,16 @@ test('price queries use verified access metadata in every language',()=>{
  assert.equal(selectItems(rows,{q:'딸기'}).length,3);
  assert.deepEqual(selectItems(rows,{q:'무료',saved:true},['paid']),[]);
 });
+
+test('attached Korean search nouns preserve the topic and access constraints',async()=>{
+ const extras=JSON.parse(await readFile(new URL('../src/catalog-extra.json',import.meta.url)));
+ const ids=q=>selectItems(extras,{q}).map(x=>x.id);
+ for(const topic of ['쿠로미','시나모롤','버터']){
+  assert(ids(topic).length>0);
+  for(const suffix of ['도안','스퀴시도안','스퀴즈도안'])assert.deepEqual(ids(topic+suffix),ids(topic));
+ }
+ assert.deepEqual(ids('스퀴시 북'),ids('스퀴시북'));
+ assert.deepEqual(ids('없는캐릭터123도안'),[]);
+ assert.deepEqual(selectItems(extras,{q:'무료 쿠로미도안'}).map(x=>x.id),selectItems(extras,{q:'쿠로미',access:'free'}).map(x=>x.id));
+ assert.deepEqual(selectItems(extras,{q:'버터도안',category:'animals'}),selectItems(extras,{q:'버터',category:'animals'}));
+});

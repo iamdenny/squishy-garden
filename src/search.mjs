@@ -5,8 +5,9 @@ export function normalize(value){return String(value).normalize('NFKC').toLocale
 const priceTerms=new Map([['무료','free'],['free','free'],['無料','free'],['유료','paid'],['paid','paid'],['有料','paid']]);
 function queryPrice(term){return priceTerms.get(term.replace(/(?:도안|patterns?|型紙)$/u,''));}
 export function selectItems(items,{q='',category='all',kind='all',difficulty='all',craftType='all',creator='all',access='all',printable='all',saved=false,sort='recommended',lang='ko'}={},favorites=[]){
- const tokens=String(q).trim().split(/\s+/).map(normalize).filter(Boolean);
+ const tokens=String(q).replace(/(스퀴시|스퀴즈|스퀴쉬)\s+북/g,'$1북').trim().split(/\s+/).map(normalize).filter(Boolean);
  const prices=tokens.map(queryPrice).filter(Boolean);
- const terms=tokens.filter(term=>!queryPrice(term));
+ // Treat a trailing search noun as intent, while preserving the character/topic.
+ const terms=tokens.filter(term=>!queryPrice(term)).map(term=>term.replace(/(?:(?:스퀴시)?도안|스퀴시|pattern|型紙)$/u,'')||term);
  return items.filter(i=>prices.every(price=>i.access===price)&&(printable!=='verified'||hasPrintableOriginal(i))&&(access==='all'||i.access===access)&&(category==='all'||i.category===category)&&(kind==='all'||i.kind===kind)&&(difficulty==='all'||i.difficulty===difficulty)&&(craftType==='all'||(i.craftType||'unknown')===craftType)&&(creator==='all'||i.creator===creator)&&(!saved||favorites.includes(i.id))&&terms.every(term=>normalize([...Object.values(i.title),i.creator,i.category,'스퀴시 도안 squishy pattern スクイーズ 型紙',...(i.tags||[])].join(' ')).includes(term))).sort((a,b)=>sort==='newest'?(b.firstSeenAt||b.checkedAt||'').localeCompare(a.firstSeenAt||a.checkedAt||''):sort==='name'?(a.title[lang]||a.title.ko).localeCompare(b.title[lang]||b.title.ko,lang):Number(sourceUnavailable(a))-Number(sourceUnavailable(b)));
 }
