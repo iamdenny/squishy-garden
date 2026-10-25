@@ -7,6 +7,7 @@ for(const lang of config.locales){const live=await readFile(`dist/${lang}/fresh-
 console.log('Verified detail-first discovery and final creator handoff in all languages.');
 for(const lang of config.locales){for(const route of ['print-studio','print/strawberry']){const page=await readFile(`dist/${lang}/${route}/index.html`,'utf8');assert(!page.includes('data-promotion='),'Print routes must not contain ads');assert(!page.includes('data-adsterra-slot='),'Print routes must not contain Adsterra slots');assert(!/<script src="https:\/\/bauval\.org\/22\//.test(page),'Print routes must not request Adsterra');assert(page.includes('noindex,follow'))}const detail=await readFile(`dist/${lang}/patterns/ryong-ditto-book/index.html`,'utf8');for(const slot of ['top-desktop','top-mobile','left-rail','right-rail','bottom-rectangle'])assert(detail.includes(`data-adsterra-slot="${slot}"`));assert(detail.includes('id="consent-adult"'));assert(detail.includes('id="consent-advertising"'));assert(detail.includes('localStorage.getItem("squishy-advertising")'));assert(!/<script src="https:\/\/bauval\.org\/22\//.test(detail),'Adsterra must wait for explicit opt-in');const privacy=await readFile(`dist/${lang}/privacy/index.html`,'utf8');assert(privacy.includes('https://adsterra.com/privacy-policy-managed'));}
 const liveCatalogUrl='https://raw.githubusercontent.com/iamdenny/squishy-garden/main/public/catalog.json';assert.equal(config.catalogApiUrl,liveCatalogUrl);await access('dist/catalog-contract.mjs');assert.match(await readFile('dist/app.js','utf8'),/from '\.\/catalog-contract\.mjs\?v=[a-f0-9]{12}'/);for(const lang of config.locales){const page=await readFile(`dist/${lang}/index.html`,'utf8');assert(page.includes(`\"catalogApiUrl\":\"${liveCatalogUrl}\"`));}
+assert((await readFile('dist/app.js','utf8')).includes("fetchCatalog('/catalog.json')"),'Search must fall back to the shared local catalog snapshot');
 console.log('Verified the live catalog endpoint and bundled browser validator.');
 for(const lang of config.locales){const detail=await readFile(`dist/${lang}/patterns/ryong-ditto-book/index.html`,'utf8');const rails=(detail.match(/class="coupang-rail"/g)||[]).length;assert.equal(rails,lang==='ko'?2:0,'Coupang side rails are Korean-only and need partner disclosures');assert(detail.includes('class="ad-rail-stack ad-rail-left"'));assert(detail.includes('class="ad-rail-stack ad-rail-right"'));}
 const adCss=await readFile('dist/ads.css','utf8');assert(adCss.includes('@media(min-width:1200px)'));assert(adCss.includes('@media print{.adsterra-placement,.ad-rail-stack,.coupang-rail,.consent'));
@@ -43,8 +44,8 @@ for(const lang of config.locales){
  const home=await readFile(`dist/${lang}/index.html`,'utf8');
  const cards=home.split('id="cards" class="cards">')[1].split('<div id="empty"')[0];
  assert.equal((cards.match(/<article class="card"/g)||[]).length,24);
- const data=JSON.parse(home.match(/id="catalog-data">(.*?)<\/script>/)[1]);assert.equal(data.length,catalog.items.length);
+ const data=JSON.parse(home.match(/id="catalog-data">(.*?)<\/script>/)[1]);assert.equal(data.length,Math.min(24,catalog.items.length));
  const detail=await readFile(`dist/${lang}/patterns/squishyidea-butter-squishy-paper-template/index.html`,'utf8');
  assert(detail.includes({ko:'이메일 입력 필요',en:'Email required',ja:'メールアドレスの入力が必要'}[lang]));
 }
-console.log('Verified compact initial cards, complete search data and email requirement disclosures.');
+console.log('Verified compact initial cards, shared full-catalog loading and email requirement disclosures.');

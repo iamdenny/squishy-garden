@@ -62,8 +62,13 @@ def eligible_listing(candidate,html):
   return p,None
  # Only a file explicitly linked by this exact pattern page counts as evidence.
  slug=u.path.rstrip('/').split('/')[-1]
+ resource_slugs={slug}
+ # SquishyGuide detail slugs append "-template" while their creator-hosted
+ # asset directory and matching PDF names use the shorter template stem.
+ if source['id']=='squishyguide' and slug.endswith('-template'):
+  resource_slugs.add(slug[:-len('-template')])
  files=[urlsplit(urljoin(candidate['url'],href)) for href,_ in p.links]
- if not any(f.scheme=='https' and f.hostname in (u.hostname,'assets.squishyguide.com') and slug in f.path and re.search(r'\.(pdf|zip)$',f.path,re.I) for f in files):return None,'Matching printable file link missing'
+ if not any(f.scheme=='https' and f.hostname in (u.hostname,'assets.squishyguide.com') and any(stem in f.path for stem in resource_slugs) and re.search(r'\.(pdf|zip)$',f.path,re.I) for f in files):return None,'Matching printable file link missing'
  text=' '.join(p.text)+' '+p.meta.get('og:title','')
  if not re.search(r'무료|free',text,re.I):return None,'Free access needs review'
  p.title=title

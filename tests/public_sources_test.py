@@ -15,6 +15,12 @@ class PublicSourcesTest(unittest.TestCase):
   self.assertIsNotNone(eligible_listing(row,html)[0])
   for invalid in [html.replace('squishy-01-1.pdf','another.pdf'),html.replace('무료','유료'),html.replace('곰 스퀴시','곰 후기'),html.replace('/worksheets/squishy-01-1.pdf','https://evil.test/squishy-01-1.pdf')]:self.assertIsNone(eligible_listing(row,invalid)[0])
   self.assertIsNone(eligible_listing({**row,'url':'https://evil.test/worksheets/squishy-01-1'},html)[0])
+ def test_squishyguide_accepts_matching_asset_stem_without_template_suffix(self):
+  row={'sourceId':'squishyguide','url':'https://www.squishyguide.com/en/templates/retro-arcade-3d-template'}
+  html='<h1>Retro Arcade 3D Paper Squishy Template</h1><meta property="og:title" content="Retro Arcade 3D Paper Squishy Template"><meta property="og:image" content="https://assets.squishyguide.com/retro-arcade.png"><p>All our resources are free. No payment is needed.</p><a href="https://assets.squishyguide.com/assets/templates/retro-arcade-3d/retro-arcade-3d-paper-squishy-color-template-a4.pdf">Download PDF</a>'
+  self.assertIsNotNone(eligible_listing(row,html)[0])
+  wrong=html.replace('/retro-arcade-3d/retro-arcade-3d-paper','/another-item/another-item-paper')
+  self.assertIsNone(eligible_listing(row,wrong)[0])
  def test_sources_share_global_review_budget(self):
   sources=[{'id':s,'creator':s,'feed':'https://'+s+'.test/rss','autoPublish':True} for s in ['a','b']]
   queue=[{'id':str(i)+s,'sourceId':s,'title':'스퀴시','url':f'https://{s}.test/{i}','status':'pending_review'} for s in ['a','b'] for i in range(5)]
