@@ -16700,8 +16700,9 @@
       "スクイーズ"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T08:05:58Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T08:05:58Z"
     },
@@ -16712,7 +16713,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4579900453/halloween-cat-squishy-craft-6-diy-paper",
       "fileTypes": "3 PDF",
       "detail": "Listing viewed in Chrome. Seller describes six pre-colored Halloween cat squishy designs with front/back pieces and assembly steps; three PDFs; instant paid download. Some design elements are noted as AI-assisted by the seller. One bundle counted once; price is not stored because it can change. Original files remain on Etsy."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4582438735",
@@ -16744,8 +16746,9 @@
       "ハロウィン"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T08:09:18Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T08:09:18Z"
     },
@@ -16756,7 +16759,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4582438735/halloween-paper-squishy-printable-8",
       "fileTypes": "1 PDF",
       "detail": "Listing viewed in Chrome. Seller describes one paid A4 PDF with four printable pages and eight Halloween characters, each with front and back designs, plus print/cut/fold/assemble instructions. Counted as one bundle; price is not stored because it can change. Original files remain on Etsy."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4598654183",
@@ -17064,8 +17068,9 @@
       "blind bag"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T08:12:35Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T08:12:35Z"
     },
@@ -17076,7 +17081,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4583532532/kawaii-sushi-blind-bag-printable-diy",
       "fileTypes": "2 PDF",
       "detail": "Listing viewed in Chrome. The seller offers a paid sushi blind-bag printable kit with full-color and coloring templates, creative worksheets and a step-by-step video tutorial. US Letter and A4 printing notes are provided; personal use only. Counted as one resource; original files remain on Etsy."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4541640222",
@@ -17338,8 +17344,9 @@
       "spa"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T08:17:04Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T08:17:04Z"
     },
@@ -17350,7 +17357,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4584214158/bath-bomb-paper-squishy-templates",
       "fileTypes": "2 PDF",
       "detail": "Listing viewed in Chrome and cross-linked as a separate set from the seller’s original spa set. It has four designs: bath bomb, perfume, nail polish and sleep mask, with front/back pieces, 8-step assembly instructions, and A4/US Letter PDFs. Seller discloses AI-assisted illustrations. Paid instant download. Counted once; original files remain on Etsy."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4596814611",
@@ -17533,8 +17541,9 @@
       "はちみつ"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T08:27:32Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T08:27:32Z"
     },
@@ -17545,7 +17554,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4583365867/paper-squishy-food-templates-mini",
       "fileTypes": "2 PDF",
       "detail": "Listing reviewed in Chrome. The seller describes four colored designs—milk, cereal, jam and honey—with front/back pieces and an assembly instruction page. Two PDFs provide six landscape pages each in US Letter and A4. Paid instant download; seller discloses AI-assisted illustrations. Counted once; no files were copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4601647881",
@@ -21009,8 +21019,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:04:46Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:04:46Z"
     },
@@ -21021,7 +21032,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4581513250/paper-squishies-printable-templates",
       "fileTypes": "Etsy lists 3 PDFs; description specifies color and black-and-white PDFs, 8 pages each",
       "detail": "Chrome listing review: paid instant download; the title and description specify 14 sleepover-themed paper squishies. The description lists one color PDF and one black-and-white PDF with 8 pages each (16 pages total); Etsy metadata reports 3 PDFs, so the discrepancy is retained rather than inferred. Preview examples include a teddy bear, sleeping cat, duffel bag, sleep mask, slippers, cocoa, pizza and popcorn. Personal use only; sharing, redistribution and resale of the digital files are prohibited. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4581592639",
@@ -21088,8 +21100,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:04:46Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:04:46Z"
     },
@@ -21100,7 +21113,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4581592639/25-paper-squishy-templates-squishy",
       "fileTypes": "1 PDF; printable 8.5 × 11 inch pages, front and back designs, instruction guide",
       "detail": "Chrome listing review: paid digital instant download described as a 25+ template paper-squishy bundle inspired by cute food and technology. The preview shows ice cream, watch, croissant, car, books, peach soda, globe, burger, boba and snack bag. The listing provides front/back designs and an instruction guide in a non-editable 8.5 × 11 inch PDF. Personal use only; sharing, resale, redistribution and commercial reproduction are prohibited. Exact design total is not specified beyond 25+; counted once as one bundle. No files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4565091572",
@@ -21771,8 +21785,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:04:46Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:04:46Z"
     },
@@ -21783,7 +21798,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4578627954/squishies-for-skincare-play-printable",
       "fileTypes": "Etsy lists 2 PDFs; description says 1 PDF with 10 activity/template pages plus cover",
       "detail": "Chrome listing review: paid paper-squishy pretend-play activity with front/back skincare-product templates. The description lists 10 activity/template pages plus a cover and named items including moisturizer, facial spray, serum, cleanser, micellar water, sunscreen, eye patches, lip mask, cleansing pads, lip balm, sheet mask, gua sha and face roller. Etsy metadata lists two PDFs while the description says one; the discrepancy is retained. Personal use only; resale, sharing, copying and redistribution are prohibited. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4540767089",
@@ -22334,8 +22350,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:10:58.641Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:10:58.641Z"
     },
@@ -22346,7 +22363,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4578842018/paper-squishy-lunch-box-printable-12",
       "fileTypes": "Etsy metadata: 3 PDFs; seller description: color and black-and-white versions plus lunch-box craft",
       "detail": "Chrome listing review on 2026-10-24: paid digital set describes 12 food designs (sandwich, cheese, napkin, apple slices, carrot sticks, grapes, strawberry, cookie, juice box, cupcake, yogurt and banana) in color and black-and-white, plus two separate lunch-box crafts. Etsy metadata lists three PDFs. Squishies are front/back cutouts; the lunch box is folded separately. Personal use only; sharing, resale and digital redistribution are prohibited. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4560490050",
@@ -22833,8 +22851,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:14:02.362Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
     },
@@ -22845,7 +22864,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4579519740/halloween-paper-squishy-template-bundle",
       "fileTypes": "1 ZIP by Etsy metadata; seller describes 11 PDF files including color, coloring and tutorial pages.",
       "detail": "Chrome listing review on 2026-10-24: paid A4 Halloween bundle naming five characters (pumpkin, ghost, bat, skull and black cat), with five colored and five black-and-white templates plus a tutorial. The page lists one ZIP in Etsy metadata but the seller description says 11 PDFs; the discrepancy is retained here. Print, cut, assemble with tape and fill. Personal use only. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4587633450",
@@ -22899,8 +22919,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:14:02.362Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
     },
@@ -22911,7 +22932,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4587633450/thanksgiving-paper-squishy-templates-6",
       "fileTypes": "1 ZIP; description says 15-page PDF in US Letter and A4.",
       "detail": "Chrome listing review on 2026-10-24: paid bundle of six named Thanksgiving designs (turkey, pumpkin, pie slice, acorn, pilgrim hat and corn cob), color front/back and black-and-white versions, plus assembly guide. Both US Letter and A4 are listed; print at Actual Size/100%, cut, tape, stuff and seal. Personal use only; files may not be resold or redistributed. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4581658790",
@@ -22962,8 +22984,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:14:02.362Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
     },
@@ -22974,7 +22997,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4581658790/printable-squishy-templates-autumn",
       "fileTypes": "1 A4 PDF, 50 templates across 62 pages; listing description says Dutch text.",
       "detail": "Chrome listing review on 2026-10-24: paid A4 PDF explicitly describes 50 autumn templates over 62 pages, including woodland animals, harvest foods, treats and seasonal clothing/decor. Instructions explain coloring, folding one sheet in half, cutting through both layers, taping edges, stuffing and closing. Seller allows personal and single-classroom use; no resale, sharing or redistribution. Listing text is Dutch. Counted once as one bundle; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4581659944",
@@ -23027,8 +23051,9 @@
       "50種類"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:14:02.362Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
     },
@@ -23039,7 +23064,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4581659944/printable-squishy-templates-christmas",
       "fileTypes": "1 A4 PDF, 50 templates across 62 pages; listing description says Dutch text.",
       "detail": "Chrome listing review on 2026-10-24: paid A4 PDF describes 50 Christmas templates across characters, decorations, treats and drinks. Six-step instructions cover coloring, folding, cutting through both layers, taping, filling and sealing. Seller allows personal and single-classroom use; files may not be resold, shared or redistributed. Listing text is Dutch. Counted once as one bundle; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4581661169",
@@ -23092,8 +23118,9 @@
       "50種類"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:14:02.362Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
     },
@@ -23104,7 +23131,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4581661169/printable-squishy-templates-italian",
       "fileTypes": "1 A4 PDF, 50 templates across 62 pages; listing description says Dutch text.",
       "detail": "Chrome listing review on 2026-10-24: paid A4 PDF describes 50 Italian-food-themed templates across pasta, pizza, breads, antipasti, sweets and drinks. Six-step guide explains coloring, fold-in-half, cut-through-both-layers, seal, fill and close. Seller allows personal and single-classroom use; no file resale or sharing. Despite the Italian food theme, the listing text is Dutch. Counted once as one bundle; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4558899773",
@@ -23281,8 +23309,9 @@
       "25種類以上"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:15:48.546Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:15:48.546Z"
     },
@@ -23293,7 +23322,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4580851153/25-paper-squishy-templates-squishy",
       "fileTypes": "1 PDF, US Letter 8.5 × 11 in; seller title claims 25+ templates.",
       "detail": "Chrome listing review on 2026-10-24: paid listing titled as a 25+ paper-squishy bundle and describes food, technology and kawaii designs, print/cut/fold assembly and stuffing. It lists one US Letter PDF, but does not enumerate designs and its “what you get” section is singular, so the quantity remains a seller claim rather than an independently confirmed count. Personal use only; file sharing, resale and redistribution are prohibited. Counted as one link; no file copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4588017440",
@@ -23346,8 +23376,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:15:48.546Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:15:48.546Z"
     },
@@ -23358,7 +23389,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4588017440/25-paper-squishy-templates-printable",
       "fileTypes": "1 PDF, US Letter 8.5 × 11 in; 25 full-color front/back designs.",
       "detail": "Chrome listing review on 2026-10-24: paid bundle explicitly describes 25 full-color templates across food, candy, donuts, bakery items, technology, school supplies and kawaii themes. Each design has front/back pieces and cut lines; instructions say print, cut, tape, stuff and seal. The seller says print again for personal use; no broader license terms were visible. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4592410886",
@@ -24456,8 +24488,9 @@
       "個人利用"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:20:36.601Z",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:20:36.601Z"
     },
@@ -24468,7 +24501,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4582505559/paper-ice-cube-squishy-template",
       "fileTypes": "1 PDF; single printable cube template.",
       "detail": "Chrome listing review on 2026-10-24: paid PDF for a single paper ice-cube squishy. Instructions specify print, cut, fold along lines, glue tabs, fill with cotton and squeeze. Personal use only; reselling, redistribution and digital file sharing prohibited. Counted once; no file copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4555408442",
@@ -24934,8 +24968,9 @@
       "25種類"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24"
     },
@@ -24946,7 +24981,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4581634703/cute-paper-squishies-template-guide-25",
       "fileTypes": "14-page, 300 dpi PDF; US Letter 8.5 × 11 in.",
       "detail": "Chrome listing review on 2026-10-24: paid 14-page 300 dpi PDF with 25 designs, matching front/back pieces and clear visual instructions. The listing specifies US Letter 8.5 × 11 in. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4581250458",
@@ -24981,8 +25017,9 @@
       "文房具"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24"
     },
@@ -24993,7 +25030,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4581250458/paper-squishy-template-bundle-school",
       "fileTypes": "3 PDFs; colored and black-and-white editions; A4 noted in description.",
       "detail": "Chrome listing review on 2026-10-24: paid school-themed bundle with 15 designs, colored and black-and-white PDFs and assembly instructions; A4 is stated in the description. Personal use only; redistribution prohibited. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4575451454",
@@ -25123,8 +25161,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24"
     },
@@ -25135,7 +25174,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4584175400/christmas-paper-squishy-templates-12",
       "fileTypes": "4 A4 PNG sheets, 300 dpi, with front/back pieces and assembly instructions.",
       "detail": "Chrome listing review on 2026-10-24: paid 12-design Christmas set in four A4 PNG sheets at 300 dpi, with matching fronts/backs, cut guides and assembly instructions. The seller identifies AI-assisted design. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4589596471",
@@ -25265,8 +25305,9 @@
       "食べ物"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24"
     },
@@ -25277,7 +25318,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4580229088/paper-squishy-sandwich-template-paper",
       "fileTypes": "Printable color and black-and-white template pages with ingredient pieces and an order/play page.",
       "detail": "Chrome listing review on 2026-10-24: paid sandwich craft with bread and ingredient pieces including lettuce, tomato, onion, cheese, pepper, mushroom and pepperoni. Colored and black-and-white templates, an order/play page and instructions are described. Personal use only. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4557891064",
@@ -25361,8 +25403,9 @@
       "14種類"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24"
     },
@@ -25373,7 +25416,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4581800247/cute-paper-squishies-template-guide-14",
       "fileTypes": "300 dpi PDF with individual PNG page files; US Letter 8.5 × 11 in.",
       "detail": "Chrome listing review on 2026-10-24: paid 14-design paper-squishy set with a 300 dpi PDF, individual PNG page files and visible instructions. The listing specifies US Letter 8.5 × 11 in. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4534086457",
@@ -25746,8 +25790,9 @@
       "ペーパースクイシー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24"
     },
@@ -25758,7 +25803,8 @@
       "sourceUrl": "https://www.etsy.com/listing/4587628919/new-years-paper-squishy-templates-6",
       "fileTypes": "1 ZIP containing a 15-page PDF in US Letter and A4 sizes; color and coloring designs plus instructions.",
       "detail": "Chrome listing review on 2026-10-24: paid set with six designs (party hat, disco ball, midnight clock, sparkling cider bottle, 2027 cake and firework star), color and coloring versions, front/back pieces and step-by-step assembly instructions. A 15-page PDF is supplied in US Letter and A4. Personal use only; resale and redistribution prohibited. Counted once; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   },
   {
     "id": "etsy-4581608192",
@@ -25796,8 +25842,9 @@
       "テクノロジー"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24"
     },
@@ -25808,6 +25855,7 @@
       "sourceUrl": "https://www.etsy.com/listing/4581608192/25-paper-squishy-templates-squishy",
       "fileTypes": "1 PDF; US Letter 8.5 × 11 in., front/back designs and instruction guide.",
       "detail": "Chrome listing review on 2026-10-24: paid one-PDF paper-squishy bundle with front/back designs, an instruction guide and US Letter 8.5 × 11 in. templates. The seller describes food, technology and kawaii-style designs, claims 25+ templates without enumerating them, and permits personal use while prohibiting sharing, resale, redistribution and commercial reproduction. Counted as one listing; no files copied."
-    }
+    },
+    "lastCheckAttempt": "2026-10-27T00:35:23.566582+00:00"
   }
 ]
