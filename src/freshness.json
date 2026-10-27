@@ -1,19 +1,155 @@
 {
-  "lastSuccessfulCheck": "2026-10-27T00:35:23.566582+00:00",
+  "lastSuccessfulCheck": "2026-10-27T15:26:45.503072+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "etsy-4578627954",
+      "id": "etsy-4588487512",
       "status": "unverified",
       "checkedAt": "2026-10-27",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:04:46Z"
+      "lastConfirmedAt": "2026-10-24T13:29:03Z"
     },
     {
-      "id": "etsy-4578842018",
+      "id": "etsy-4589035442",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T14:15:48.546Z"
+    },
+    {
+      "id": "etsy-4589596471",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24"
+    },
+    {
+      "id": "etsy-4589671427",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T08:41:13.705Z"
+    },
+    {
+      "id": "etsy-4589755804",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
+    },
+    {
+      "id": "etsy-4589765644",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24"
+    },
+    {
+      "id": "etsy-4590968347",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24"
+    },
+    {
+      "id": "etsy-4591719849",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T08:18:27Z"
+    },
+    {
+      "id": "etsy-4592054518",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T08:32:14Z"
+    },
+    {
+      "id": "etsy-4592410886",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T14:15:48.546Z"
+    },
+    {
+      "id": "etsy-4594185027",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T08:31:43Z"
+    },
+    {
+      "id": "etsy-4594424667",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
+    },
+    {
+      "id": "etsy-4594692986",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
+    },
+    {
+      "id": "etsy-4594720527",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T08:15:50Z"
+    },
+    {
+      "id": "etsy-4595511670",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24"
+    },
+    {
+      "id": "etsy-4596814611",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T08:17:52Z"
+    },
+    {
+      "id": "etsy-4596877827",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24"
+    },
+    {
+      "id": "etsy-4596898317",
+      "status": "unverified",
+      "checkedAt": "2026-10-27",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T08:33:19Z"
+    },
+    {
+      "id": "etsy-4597333727",
       "status": "unverified",
       "checkedAt": "2026-10-27",
       "httpStatus": 403,
@@ -21,23 +157,15 @@
       "lastConfirmedAt": "2026-10-24T14:10:58.641Z"
     },
     {
-      "id": "etsy-4579519740",
+      "id": "etsy-4597350367",
       "status": "unverified",
       "checkedAt": "2026-10-27",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
+      "lastConfirmedAt": "2026-10-24T14:10:58.641Z"
     },
     {
-      "id": "etsy-4579900453",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T08:05:58Z"
-    },
-    {
-      "id": "etsy-4580229088",
+      "id": "etsy-4597667098",
       "status": "unverified",
       "checkedAt": "2026-10-27",
       "httpStatus": 403,
@@ -45,161 +173,33 @@
       "lastConfirmedAt": "2026-10-24"
     },
     {
-      "id": "etsy-4580851153",
+      "id": "etsy-4597800919",
       "status": "unverified",
       "checkedAt": "2026-10-27",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:15:48.546Z"
+      "lastConfirmedAt": "2026-10-24T08:32:41Z"
     },
     {
-      "id": "etsy-4581250458",
+      "id": "etsy-4597874664",
       "status": "unverified",
       "checkedAt": "2026-10-27",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24"
+      "lastConfirmedAt": "2026-10-24T14:10:58.641Z"
     },
     {
-      "id": "etsy-4581513250",
+      "id": "etsy-4598167551",
       "status": "unverified",
       "checkedAt": "2026-10-27",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:04:46Z"
-    },
-    {
-      "id": "etsy-4581592639",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:04:46Z"
-    },
-    {
-      "id": "etsy-4581608192",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24"
-    },
-    {
-      "id": "etsy-4581634703",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24"
-    },
-    {
-      "id": "etsy-4581658790",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
-    },
-    {
-      "id": "etsy-4581659944",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
-    },
-    {
-      "id": "etsy-4581661169",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
-    },
-    {
-      "id": "etsy-4581800247",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24"
-    },
-    {
-      "id": "etsy-4582438735",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T08:09:18Z"
-    },
-    {
-      "id": "etsy-4582505559",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:20:36.601Z"
-    },
-    {
-      "id": "etsy-4583365867",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T08:27:32Z"
-    },
-    {
-      "id": "etsy-4583532532",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T08:12:35Z"
-    },
-    {
-      "id": "etsy-4584175400",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24"
-    },
-    {
-      "id": "etsy-4584214158",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T08:17:04Z"
-    },
-    {
-      "id": "etsy-4587628919",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24"
-    },
-    {
-      "id": "etsy-4587633450",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
-    },
-    {
-      "id": "etsy-4588017440",
-      "status": "unverified",
-      "checkedAt": "2026-10-27",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:15:48.546Z"
+      "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-10-27T00:35:23.566582+00:00",
+  "lastAttempt": "2026-10-27T15:26:45.503072+00:00",
   "primaryStatus": "reachable",
   "partialFailure": true
 }
