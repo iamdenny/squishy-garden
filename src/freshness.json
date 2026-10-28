@@ -1,155 +1,11 @@
 {
-  "lastSuccessfulCheck": "2026-10-28T00:33:52.870702+00:00",
+  "lastSuccessfulCheck": "2026-10-28T16:09:57.685654+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "etsy-4598583471",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
-    },
-    {
-      "id": "etsy-4598654183",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T08:09:18Z"
-    },
-    {
-      "id": "etsy-4598840322",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:44:02Z"
-    },
-    {
-      "id": "etsy-4598840492",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
-    },
-    {
-      "id": "etsy-4598846189",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:48:56Z"
-    },
-    {
-      "id": "etsy-4598955172",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:47:31Z"
-    },
-    {
-      "id": "etsy-4598960164",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:47:31Z"
-    },
-    {
-      "id": "etsy-4598998543",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24"
-    },
-    {
-      "id": "etsy-4599014654",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
-    },
-    {
-      "id": "etsy-4599090757",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:44:02Z"
-    },
-    {
-      "id": "etsy-4599510775",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T08:41:13.705Z"
-    },
-    {
-      "id": "etsy-4600169205",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:47:31Z"
-    },
-    {
-      "id": "etsy-4600590448",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T08:26:27Z"
-    },
-    {
-      "id": "etsy-4600943004",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
-    },
-    {
-      "id": "etsy-4600993618",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:58:16Z"
-    },
-    {
-      "id": "etsy-4601023938",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:58:16Z"
-    },
-    {
-      "id": "etsy-4601089597",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:03:06Z"
-    },
-    {
-      "id": "etsy-4601100215",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:44:02Z"
-    },
-    {
-      "id": "etsy-4601119596",
+      "id": "etsy-4601141294",
       "status": "unverified",
       "checkedAt": "2026-10-28",
       "httpStatus": 403,
@@ -157,23 +13,7 @@
       "lastConfirmedAt": "2026-10-24T14:01:30Z"
     },
     {
-      "id": "etsy-4601122568",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:44:02Z"
-    },
-    {
-      "id": "etsy-4601124154",
-      "status": "unverified",
-      "checkedAt": "2026-10-28",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:58:16Z"
-    },
-    {
-      "id": "etsy-4601128768",
+      "id": "etsy-4601150956",
       "status": "unverified",
       "checkedAt": "2026-10-28",
       "httpStatus": 403,
@@ -181,25 +21,165 @@
       "lastConfirmedAt": "2026-10-24T14:03:06Z"
     },
     {
-      "id": "etsy-4601134682",
+      "id": "etsy-4601157260",
       "status": "unverified",
       "checkedAt": "2026-10-28",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:57:18Z"
+      "lastConfirmedAt": "2026-10-24T13:58:16Z"
     },
     {
-      "id": "etsy-4601137642",
+      "id": "etsy-4601647881",
       "status": "unverified",
       "checkedAt": "2026-10-28",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:48:56Z"
+      "lastConfirmedAt": "2026-10-24T08:27:56Z"
+    },
+    {
+      "id": "feed-1f4f3b629560d7c4",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-1f76a9990182b6e4",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-2035fde09c12f283",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-2112d8c7b5951bd4",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-22d60b7f9f227e14",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-23183ecaf6e05911",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-25a4db511bbe79a4",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-26b38d502ae4f5fb",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-27bb806d8b0fe5a3",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-28e2cc98502701ba",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-295813bb58801846",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-2a9e9f0ff4f2b059",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-2ad07ef362a3ba87",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-2b98fae887cb2e36",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-2d381a5e434b39d2",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-2d5521bd846c12dc",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-2f6629c4080cc9ea",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-302bda854a831145",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-308e42e7d85a9a5d",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
+    },
+    {
+      "id": "feed-30c5dd86c411f2ab",
+      "status": "reachable",
+      "checkedAt": "2026-10-28",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-28"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-10-28T00:33:52.870702+00:00",
+  "lastAttempt": "2026-10-28T16:09:57.685654+00:00",
   "primaryStatus": "reachable",
   "partialFailure": true
 }
