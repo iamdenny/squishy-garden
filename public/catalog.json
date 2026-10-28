@@ -1,70 +1,70 @@
 {
   "schemaVersion": 1,
-  "revision": "b8218c39262a5a2b0f2fba22277cb2cd3e14e5d4e51b0641a578cd245481f2f3",
-  "generatedAt": "2026-10-27T15:31:33.049Z",
-  "updatedAt": "2026-10-27T15:26:45.503072+00:00",
+  "revision": "e8842914ab36370b2a18356c447a5672e12d3acfa9482169a162f9da7b6bfdac",
+  "generatedAt": "2026-10-28T00:38:31.743Z",
+  "updatedAt": "2026-10-28T00:33:52.870702+00:00",
   "health": {
-    "lastAttempt": "2026-10-27T15:26:45.503072+00:00",
+    "lastAttempt": "2026-10-28T00:33:52.870702+00:00",
     "primaryStatus": "reachable",
     "discovery": [
       {
         "sourceId": "gripipi",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
         "matchingItems": 1
       },
       {
         "sourceId": "rosazzing",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
         "matchingItems": 14
       },
       {
         "sourceId": "ryong",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
         "matchingItems": 0
       },
       {
         "sourceId": "sunny",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
         "matchingItems": 3
       },
       {
         "sourceId": "zzoangland",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
         "matchingItems": 10
       },
       {
         "sourceId": "morongborong",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
         "matchingItems": 6
       },
       {
         "sourceId": "leesaem",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
         "matchingItems": 0
       },
       {
         "sourceId": "doran",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
         "matchingItems": 64
       },
       {
         "sourceId": "squishyguide",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
-        "matchingItems": 179
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
+        "matchingItems": 175
       },
       {
         "sourceId": "squishyidea",
         "status": "reachable",
-        "checkedAt": "2026-10-27T15:30:49.107967+00:00",
+        "checkedAt": "2026-10-28T00:37:46.870224+00:00",
         "matchingItems": 14
       }
     ],
@@ -86,7 +86,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -118,7 +118,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -150,7 +150,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -182,7 +182,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -214,7 +214,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -485,7 +485,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -507,7 +507,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -598,7 +598,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -620,7 +620,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -642,7 +642,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -664,7 +664,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
@@ -686,7 +686,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -718,7 +718,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -17366,8 +17366,9 @@
         "クリスマス"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T08:09:18Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:09:18Z"
       },
@@ -17378,7 +17379,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4598654183/christmas-paper-squishy-printable-10",
         "fileTypes": "2 PDF",
         "detail": "Listing viewed in Chrome. The seller describes ten Christmas-themed paper squishy characters and two PDFs for A4 and US Letter. Paid instant digital download. Counted as one listing; price is not stored because it can change. Original files remain on Etsy."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4574767202",
@@ -18065,8 +18067,9 @@
         "日本食"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T08:26:27Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:26:27Z"
       },
@@ -18077,7 +18080,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4600590448/paper-squishy-template-printable-24",
         "fileTypes": "4 PDF",
         "detail": "Listing reviewed in Chrome. The seller describes 24 Japanese-food cat designs, with matching front/back pieces and 4 PDFs: full-color and color-your-own editions in A4 and US Letter, 14 pages each. Paid digital download; personal use only, redistribution prohibited. Counted as one bundle. Source files and artwork were not copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4583365867",
@@ -19118,8 +19122,9 @@
         "型紙"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T08:41:13.705Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:41:13.705Z"
       },
@@ -19130,7 +19135,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4599510775/20-christmas-paper-squishy-printable",
         "fileTypes": "1 PDF",
         "detail": "Original Etsy listing reviewed in Chrome from the same seller’s related products. The paid instant download is one PDF with 20 Christmas paper-squishy designs plus five bonus sticker sheets; the sticker sheets are not counted as squishy designs. The listing describes printing, cutting, folding, filling and assembling, and confirms no physical item ships. No broader usage terms were visible. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4564707434",
@@ -19961,8 +19967,9 @@
         "子ども工作"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:44:02Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:44:02Z"
       },
@@ -19973,7 +19980,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4599090757/mega-squishy-kids-craft-bundle-12",
         "fileTypes": "1 PDF",
         "detail": "Chrome listing review: one paid instant-download PDF with 12 printable 8.5 x 11 inch craft pages and cut/assemble/stuff instructions. Themes include animal, food, Christmas, Halloween, fall, dinosaur, ocean, doll and pet crafts. Four doll pages (rainbow, ocean, space and candy) overlap a previously listed 5-theme EllandOak bundle; the overlap is noted, not multiplied. No files were copied. Broader reuse terms were not stated in the visible listing."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4553048122",
@@ -20123,8 +20131,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:44:02Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:44:02Z"
       },
@@ -20135,7 +20144,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4601100215/space-adventure-paper-squishy-templates",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 unique space designs in two PDFs, one pre-colored and one color-your-own; each PDF has 12 design pages plus instructions, US Letter. The seller explicitly says the two versions are 12 designs, not 24. The description discloses AI assistance in development and listing backgrounds, and says the printable pages are from the included PDFs. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4572924242",
@@ -20262,8 +20272,9 @@
         "オリジナルデザイン"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:44:02Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:44:02Z"
       },
@@ -20274,7 +20285,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4598840322/pumpkin-paper-squishies-10-printable",
         "fileTypes": "2 PDFs: A4 and US Letter, color and black-and-white pages",
         "detail": "Chrome listing review: paid printable set. The seller describes eight named pumpkin squishies plus blank design-your-own pumpkins and calls the set ten squishies; each page has full-color and black-and-white versions, with A4 and US Letter PDFs and a how-to page. Seller terms: personal/classroom use only; do not share or resell the file. Finished example photos are disclosed as AI-assisted. Counted once; formats and color variants are not multiplied. No files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4601122568",
@@ -20344,8 +20356,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:44:02Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:44:02Z"
       },
@@ -20356,7 +20369,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4601122568/cozy-pets-paper-squishy-templates-12",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 distinct cozy-pet designs in two US Letter PDFs, one pre-colored and one color-your-own, each with assembly instructions. Named designs include cat, puppy, hamster, bunny, guinea pig, turtle, budgie, goldfish, ferret, pet bed, treat jar and carrier. Seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4600169205",
@@ -20411,8 +20425,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:47:31Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:47:31Z"
       },
@@ -20423,7 +20438,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4600169205/christmas-paper-squishy-templates",
         "fileTypes": "2 PDFs (A4 and US Letter, 21 pages each) plus ZIP",
         "detail": "Chrome listing review: paid digital bundle with 30 front/back holiday-treat squishy templates, six color-your-own outlines, step-by-step guide, supply list, collector checklist and thank-you page. Seller identifies the artwork as original and permits personal, family, classroom and single-workplace printing; sharing and reselling the PDF files are prohibited. The A4 and US Letter files are format variants, not separate resources. No files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4598960164",
@@ -20493,8 +20509,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:47:31Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:47:31Z"
       },
@@ -20505,7 +20522,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4598960164/ocean-animal-paper-squishies-12",
         "fileTypes": "2 PDFs; A4 and US Letter editions",
         "detail": "Chrome listing review: paid two-PDF set with 12 sea-animal squishies (six paired sheets) in color-your-own and ready-colored versions, with assembly steps. The seller permits printing for personal/family/party/classroom use and prohibits file sharing or resale. Finished-squishy example photos are disclosed as AI-generated. Counted once; format and color variants are not multiplied. No files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4598955172",
@@ -20575,8 +20593,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:47:31Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:47:31Z"
       },
@@ -20587,7 +20606,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4598955172/winter-paper-squishies-12-printable",
         "fileTypes": "2 PDFs; A4 and US Letter editions",
         "detail": "Chrome listing review: paid set with 12 winter squishies across six paired sheets, color-your-own and ready-colored versions, instructions and supply list. A4 and US Letter are included. Seller permits printing for personal use and prohibits sharing/reselling. The listing discloses AI assistance in the artwork and finished-example photos. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4598846189",
@@ -20657,8 +20677,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:48:56Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:48:56Z"
       },
@@ -20669,7 +20690,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4598846189/valentine-paper-squishies-12-printable",
         "fileTypes": "2 PDFs; A4 and US Letter editions",
         "detail": "Chrome listing review: paid set with 12 Valentine squishies across six paired sheets, color-your-own and ready-colored pages, instructions and supply list. A4 and US Letter are included. Seller permits personal use and prohibits sharing or reselling files. Finished examples are disclosed as AI-generated. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4601137642",
@@ -20736,8 +20758,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:48:56Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:48:56Z"
       },
@@ -20748,7 +20771,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4601137642/thanksgiving-paper-squishy-templates-12",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 distinct Thanksgiving food and kitchen-themed squishies in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly instructions. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4601134682",
@@ -20815,8 +20839,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:57:18Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:57:18Z"
       },
@@ -20827,7 +20852,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4601134682/new-year-paper-squishy-templates-12",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 distinct New Year designs in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly steps. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4600993618",
@@ -20897,8 +20923,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:58:16Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:58:16Z"
       },
@@ -20909,7 +20936,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4600993618/halloween-paper-squishy-templates-12",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 distinct Halloween designs in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly steps. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4601157260",
@@ -21059,8 +21087,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:58:16Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:58:16Z"
       },
@@ -21071,7 +21100,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4601023938/birthday-party-paper-squishy-templates",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 distinct birthday-party designs in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly steps. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4601124154",
@@ -21141,8 +21171,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T13:58:16Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:58:16Z"
       },
@@ -21153,7 +21184,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4601124154/cute-cafe-paper-squishy-templates-12",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 distinct cafe and food designs in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly steps. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4601141294",
@@ -21290,8 +21322,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T14:01:30Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:01:30Z"
       },
@@ -21302,7 +21335,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4601119596/christmas-paper-squishy-templates-12",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 distinct Christmas designs in two 13-page US Letter PDFs, one pre-colored and one color-your-own, with paired front/back pieces and illustrated assembly steps. The named designs are a Christmas tree, gingerbread person, Santa, reindeer, snowman, wrapped gift, stocking, Santa hat, ornament, wreath, hot cocoa mug and elf. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4601128768",
@@ -21372,8 +21406,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T14:03:06Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:03:06Z"
       },
@@ -21384,7 +21419,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4601128768/under-the-sea-paper-squishy-templates-12",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 distinct ocean designs in two 13-page US Letter PDFs, one pre-colored and one color-your-own, with paired front/back pieces and illustrated assembly steps. Named designs include sea turtle, jellyfish, octopus, whale, pufferfish, dolphin, crab, seahorse, starfish, shell with pearl, tropical fish and shark. AI assistance in development and listing backgrounds is disclosed. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4601150956",
@@ -21536,8 +21572,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T14:03:06Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:03:06Z"
       },
@@ -21548,7 +21585,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4601089597/cheer-paper-squishy-templates-12-designs",
         "fileTypes": "2 PDFs, 13 pages each",
         "detail": "Chrome listing review: paid instant download with 12 distinct cheer-themed designs in two 13-page US Letter PDFs, one pre-colored and one color-your-own, with paired front/back pieces and illustrated assembly steps. Named designs include cheer bow, pom-pom, megaphone, sneaker, cheer top, cheer skirt, water bottle, duffel bag, trophy, medal, foam finger and star. AI assistance in development and listing backgrounds is disclosed. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4581513250",
@@ -23853,8 +23891,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T14:14:02.362Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
       },
@@ -23865,7 +23904,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4598840492/winter-paper-squishies-6-printable",
         "fileTypes": "2 PDFs; six designs in full-color and black-and-white editions, US Letter and A4.",
         "detail": "Chrome listing review on 2026-10-24: paid winter set with six named characters (snowman, penguin, polar bear, mitten, beanie and snowy owl), each with matching front/back pieces in color and black-and-white. How-to page and supply list included. Print at 100%/Actual Size, cut, tape, stuff and seal. Personal and classroom use only; do not share or resell files. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4580851153",
@@ -24451,8 +24491,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T14:19:27.363Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
       },
@@ -24463,7 +24504,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4599014654/axolotl-paper-squishies-12-printable",
         "fileTypes": "2 PDFs; 12 front/back designs in black-and-white and full color; US Letter and A4.",
         "detail": "Chrome listing review on 2026-10-24: paid set describes 12 axolotl characters across six pages (smiling/bow, strawberry hat/heart, sleepy/crown, bubble tea/flower, bubble/baby, star wand/beanie), in coloring and ready-colored versions with matching backs and guide. Print at 100%/Actual Size, cut, tape, stuff and seal. Personal use only; no file sharing or resale. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4594424667",
@@ -24590,8 +24632,9 @@
         "クリスマス"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T14:19:27.363Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
       },
@@ -24602,7 +24645,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4600943004/paper-squishy-templates-43-printable",
         "fileTypes": "4 PDFs: color and coloring editions in A4 and US Letter.",
         "detail": "Chrome listing review on 2026-10-24: paid bundle describes 30 flat designs, five fold-up 3D boxes and eight Christmas bonuses, for 43 total. The listing names the designs, says all include fronts/backs, and provides a guide. Instructions cover print, color, tape, cut, stuff and seal. Personal/family/classroom use allowed; sharing, resale and uploading files prohibited. AI assistance is disclosed. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4598167551",
@@ -24794,8 +24838,9 @@
         "ペーパースクイシー"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24T14:19:27.363Z",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
       },
@@ -24806,7 +24851,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4598583471/halloween-baby-animals-paper-squishy",
         "fileTypes": "1 ZIP with A4 and US Letter PDFs; 19 themed and 19 plain designs plus a guide.",
         "detail": "Chrome listing review on 2026-10-24: paid bundle contains 19 baby animals in Halloween costumes and 19 matching plain animals, each with front/back pieces and dashed cut lines, plus a how-to page. Named costume designs include ghost pony, pumpkin puppy, zombie kitten, wizard cheetah, candy-corn calf, witch panda and more. Instructions cover print at Actual Size, cut, tape/glue, fill and seal. No broader license terms were visible. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4573585708",
@@ -25477,8 +25523,9 @@
         "日本食"
       ],
       "health": {
-        "status": "reachable",
-        "checkedAt": "2026-10-24",
+        "status": "unverified",
+        "checkedAt": "2026-10-28",
+        "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24"
       },
@@ -25489,7 +25536,8 @@
         "sourceUrl": "https://www.etsy.com/listing/4598998543/sushi-paper-squishies-12-printable",
         "fileTypes": "2 PDFs; six paired sheets, color and coloring editions, A4 and US Letter.",
         "detail": "Chrome listing review on 2026-10-24: paid bundle of 12 sushi and Japanese-food designs in six paired sheets, with colored and coloring versions in A4 and US Letter and actual-size printing guidance. Personal use only; sharing is prohibited. Counted once; no files copied."
-      }
+      },
+      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
     },
     {
       "id": "etsy-4577570402",
@@ -26495,7 +26543,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
@@ -26517,7 +26565,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
@@ -26539,7 +26587,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
@@ -26561,7 +26609,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
@@ -26583,7 +26631,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
@@ -26605,7 +26653,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
@@ -26627,7 +26675,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26649,7 +26697,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26671,7 +26719,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26693,7 +26741,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26715,7 +26763,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26737,7 +26785,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26759,7 +26807,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26781,7 +26829,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26803,7 +26851,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26825,7 +26873,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26847,7 +26895,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26869,7 +26917,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26891,7 +26939,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26913,7 +26961,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26935,7 +26983,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26957,7 +27005,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -26979,7 +27027,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27001,7 +27049,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27023,7 +27071,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27045,7 +27093,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27067,7 +27115,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27089,7 +27137,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27111,7 +27159,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27133,7 +27181,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27155,7 +27203,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27177,7 +27225,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27199,7 +27247,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27221,7 +27269,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27243,7 +27291,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27265,7 +27313,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27287,7 +27335,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -27309,7 +27357,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -27331,7 +27379,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27353,7 +27401,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27375,7 +27423,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27397,7 +27445,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27419,7 +27467,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27441,7 +27489,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27463,7 +27511,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27485,7 +27533,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27507,7 +27555,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27529,7 +27577,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27551,7 +27599,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -27573,7 +27621,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -27595,7 +27643,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27617,7 +27665,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27639,7 +27687,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -27661,7 +27709,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
@@ -27683,12 +27731,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0187.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0187.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0187/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0186",
@@ -27705,12 +27763,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0186.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0186.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0186/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0185",
@@ -27727,12 +27795,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0185.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0185.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0185/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0184",
@@ -27749,12 +27827,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0184.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0184.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0184/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0183",
@@ -27771,12 +27859,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0183.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0183.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0183/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0182",
@@ -27793,12 +27891,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0182.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0182.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0182/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0181",
@@ -27815,12 +27923,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0181.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0181.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0181/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0180",
@@ -27837,12 +27955,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0180.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0180.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0180/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0179",
@@ -27859,12 +27987,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0179.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0179.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0179/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0178",
@@ -27881,12 +28019,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "seasonal",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0178.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0178.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0178/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0177",
@@ -27903,12 +28051,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0177.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0177.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0177/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0176",
@@ -27925,12 +28083,22 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0176.webp",
-      "firstSeenAt": "2026-10-22"
+      "firstSeenAt": "2026-10-22",
+      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00",
+      "printable": {
+        "format": "JPG",
+        "paper": "A4",
+        "files": [
+          "https://hyeriming.com/downloads/squishy/squishy0176.jpg"
+        ],
+        "sourceUrl": "https://hyeriming.com/ko/print/squishy0176/",
+        "checkedAt": "2026-10-28"
+      }
     },
     {
       "id": "h-squishy0175",
@@ -27947,13 +28115,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0175.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -27962,7 +28129,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0175/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0174",
@@ -27979,13 +28147,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0174.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -27994,7 +28161,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0174/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0173",
@@ -28011,13 +28179,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0173.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28026,7 +28193,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0173/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0172",
@@ -28043,13 +28211,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0172.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28058,7 +28225,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0172/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0171",
@@ -28075,13 +28243,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0171.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28090,7 +28257,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0171/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0170",
@@ -28107,13 +28275,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0170.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28122,7 +28289,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0170/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0169",
@@ -28139,13 +28307,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0169.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28154,7 +28321,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0169/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0168",
@@ -28171,13 +28339,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0168.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28186,7 +28353,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0168/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0167",
@@ -28203,13 +28371,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0167.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28218,7 +28385,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0167/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0166",
@@ -28235,13 +28403,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0166.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28250,7 +28417,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0166/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0165",
@@ -28267,13 +28435,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0165.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28282,7 +28449,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0165/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0164",
@@ -28299,13 +28467,12 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
       "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0164.webp",
       "firstSeenAt": "2026-10-22",
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00",
       "printable": {
         "format": "JPG",
         "paper": "A4",
@@ -28314,7 +28481,8 @@
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0164/",
         "checkedAt": "2026-10-27"
-      }
+      },
+      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
     },
     {
       "id": "h-squishy0163",
@@ -28331,7 +28499,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28354,7 +28522,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28377,7 +28545,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28400,7 +28568,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28423,7 +28591,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28446,7 +28614,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28469,7 +28637,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28492,7 +28660,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28515,7 +28683,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28538,7 +28706,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28561,7 +28729,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28584,7 +28752,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -28607,7 +28775,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -28639,7 +28807,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -28671,7 +28839,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -28703,7 +28871,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -28735,7 +28903,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -28767,7 +28935,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -28799,7 +28967,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -28831,7 +28999,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -28863,7 +29031,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -28895,7 +29063,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -28927,7 +29095,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -28959,7 +29127,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -28991,7 +29159,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29023,7 +29191,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29055,7 +29223,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29087,7 +29255,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29119,7 +29287,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29151,7 +29319,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29183,7 +29351,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -29215,7 +29383,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -29247,7 +29415,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29279,7 +29447,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29311,7 +29479,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29343,7 +29511,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29375,7 +29543,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29407,7 +29575,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29439,7 +29607,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29471,7 +29639,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29503,7 +29671,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29535,7 +29703,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29567,7 +29735,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29599,7 +29767,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29631,7 +29799,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29663,7 +29831,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29695,7 +29863,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29727,7 +29895,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29759,7 +29927,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29791,7 +29959,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29823,7 +29991,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29855,7 +30023,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29887,7 +30055,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29919,7 +30087,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29951,7 +30119,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -29983,7 +30151,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30015,7 +30183,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30047,7 +30215,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30079,7 +30247,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30111,7 +30279,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30143,7 +30311,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30175,7 +30343,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30207,7 +30375,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30239,7 +30407,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30271,7 +30439,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30303,7 +30471,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30335,7 +30503,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30367,7 +30535,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30399,7 +30567,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30431,7 +30599,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30463,7 +30631,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30495,7 +30663,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30527,7 +30695,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30559,7 +30727,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30591,7 +30759,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30623,7 +30791,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30655,7 +30823,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30687,7 +30855,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30719,7 +30887,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30751,7 +30919,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30783,7 +30951,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30815,7 +30983,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30847,7 +31015,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30879,7 +31047,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30911,7 +31079,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -30943,7 +31111,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -30975,7 +31143,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31007,7 +31175,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31039,7 +31207,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -31071,7 +31239,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31103,7 +31271,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31135,7 +31303,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31167,7 +31335,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31199,7 +31367,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31231,7 +31399,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31263,7 +31431,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31295,7 +31463,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31327,7 +31495,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31359,7 +31527,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31391,7 +31559,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31423,7 +31591,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31455,7 +31623,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31487,7 +31655,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -31519,7 +31687,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -31551,7 +31719,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -31583,7 +31751,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "animals",
       "difficulty": "unknown",
@@ -31615,7 +31783,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31647,7 +31815,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31679,7 +31847,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31711,7 +31879,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31743,7 +31911,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31775,7 +31943,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31807,7 +31975,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31839,7 +32007,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31871,7 +32039,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31903,7 +32071,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31935,7 +32103,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31967,7 +32135,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -31999,7 +32167,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32031,7 +32199,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32063,7 +32231,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32095,7 +32263,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32127,7 +32295,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32159,7 +32327,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32191,7 +32359,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32223,7 +32391,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32255,7 +32423,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32287,7 +32455,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32319,7 +32487,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32341,7 +32509,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32363,7 +32531,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32385,7 +32553,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32407,7 +32575,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32429,7 +32597,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32451,7 +32619,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32473,7 +32641,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32495,7 +32663,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32517,7 +32685,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32539,7 +32707,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32561,7 +32729,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32583,7 +32751,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32605,7 +32773,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32627,7 +32795,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32649,7 +32817,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32671,7 +32839,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "food",
       "difficulty": "unknown",
@@ -32693,7 +32861,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32715,7 +32883,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
@@ -32737,7 +32905,7 @@
       "creator": "Hyeriming",
       "kind": "external",
       "access": "free",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "rights": "source-only",
       "category": "play",
       "difficulty": "unknown",
