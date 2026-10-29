@@ -1,172 +1,172 @@
 {
-  "lastSuccessfulCheck": "2026-10-29T01:03:31.847675+00:00",
+  "lastSuccessfulCheck": "2026-10-29T16:16:18.155117+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "feed-31730d24355d0b3d",
+      "id": "feed-4f4ada051de4a381",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-323c6a761af9d3c7",
+      "id": "feed-508180fd6f7be3d8",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-324486d1306a5317",
+      "id": "feed-5085aa0a98e01b6a",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-32945fb00d48525a",
+      "id": "feed-51174cac29494d54",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-33af7f2cb311bfee",
+      "id": "feed-511987e5db75d046",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-3469c84347b8c021",
+      "id": "feed-51348f1d625de982",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-3655463105148b59",
+      "id": "feed-524455db40ae9bb4",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-373c932b6bd30066",
+      "id": "feed-53758ac9f7a0e525",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-37d266084ed62aca",
+      "id": "feed-548f85fae1ef7e71",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-3bdaee61443b2260",
+      "id": "feed-55d5d7948d2be686",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-3c40332fb65f9270",
+      "id": "feed-57dcfee84b7b3f76",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-3cfc01c967f94581",
+      "id": "feed-586619e5bf3d7a59",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-3dd614a4bf1c7456",
+      "id": "feed-588d302f0eb3f6b6",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-3f4c6a1b312774a4",
+      "id": "feed-58947e0c84260c03",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-4174927de1c1e722",
+      "id": "feed-5a0ede64eac79806",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-4488212991b20e62",
+      "id": "feed-5b5c1b96abba66ff",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-4799aa2f83e653df",
+      "id": "feed-5c2da4b096b45407",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-47b78b09a010410c",
+      "id": "feed-5d334edff7a53f5b",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-488ebad22b6a669f",
+      "id": "feed-5f4edee74a6917d3",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-4944cff74eaaf475",
+      "id": "feed-5fb98d5782e287aa",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-4afbb8d4a8967fff",
+      "id": "feed-61290165385ec14f",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-4c3286151b82bbf7",
+      "id": "feed-617e6c01fd3cd5dd",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-4e9867618b047167",
+      "id": "feed-61b063014b675f64",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-29"
     },
     {
-      "id": "feed-4ed482f24776dfd4",
+      "id": "feed-63f60b7f9f214e73",
       "status": "reachable",
       "checkedAt": "2026-10-29",
       "lastConfirmedStatus": "reachable",
@@ -175,7 +175,7 @@
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-10-29T01:03:31.847675+00:00",
+  "lastAttempt": "2026-10-29T16:16:18.155117+00:00",
   "primaryStatus": "reachable",
   "partialFailure": false
 }
