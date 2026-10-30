@@ -1814,7 +1814,7 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "checkedAt": "2026-10-24",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": "Wed, 30 Sep 2026 19:20:03 +0900",
     "tags": [
@@ -1833,22 +1833,24 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-24T13:40:24Z",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:40:24Z"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-feed-and-article-v1",
       "checkedAt": "2026-10-23T05:54:08.200603+00:00",
       "sourceUrl": "https://chohwa.tistory.com/411",
-      "lastRecheckAt": "2026-10-23T14:18:25.866227+00:00",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
       "latestStatus": "verified",
       "editorialReview": {
         "method": "manual-browser-review",
         "checkedAt": "2026-10-24T13:40:24Z",
         "note": "A distinct printable template image was confirmed on the original article. The creator limits use to personal hobby/craft and prohibits commercial use, resale of modified works, and unauthorized redistribution. No image or file was copied; preview omitted and printing remains on the source page."
       }
-    }
+    },
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbF9qpR%2FdJMcagHjTuu%2FAAAAAAAAAAAAAAAAAAAAAJwwPA4QIO6U7s_BdyxuY4mvWn6rPzsDDjJgpQeprP8J%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D3iqCcxjb71%252FhQJOmTUCgqoKX2mc%253D",
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-e3169b1a5c141eb6",
@@ -2226,7 +2228,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/plain-sausage-paper-squishy/plain-sausage-paper-squishy-cover.png?v=20261001-sq22-r3",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -2236,16 +2238,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:31:47.097022+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/plain-sausage-paper-squishy/"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/plain-sausage-paper-squishy/",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-b0c1f4356806729b",
@@ -2508,7 +2513,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://dorandoan.com/worksheets/squishy-07-640006/opengraph-image",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -2518,16 +2523,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "doran",
       "checkedAt": "2026-10-23T14:31:47.097022+00:00",
-      "sourceUrl": "https://dorandoan.com/worksheets/squishy-07-640006"
-    }
+      "sourceUrl": "https://dorandoan.com/worksheets/squishy-07-640006",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-1caef7204f08bd03",
@@ -3039,7 +3047,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/vanilla-cream-cake-roll/vanilla-cream-cake-roll-cover.png?v=20261001-sq22-r3",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -3049,16 +3057,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:48:08.067686+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/vanilla-cream-cake-roll"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/vanilla-cream-cake-roll",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-d4dd038bcc7aff34",
@@ -3117,7 +3128,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/cream-jar-removable-lid/cream-jar-removable-lid-cover.png?v=20260930-sq22-r5",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -3127,16 +3138,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:48:08.067686+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/cream-jar-removable-lid"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/cream-jar-removable-lid",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-ff5cbf1449d57acd",
@@ -3435,7 +3449,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/friendly-ghost-paper-squishy/friendly-ghost-paper-squishy-cover.png?v=20260923-sq22-n42-n43-3",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -3445,16 +3459,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:48:08.067686+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/friendly-ghost-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/friendly-ghost-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-f1cfd8da4bfde2ba",
@@ -3708,7 +3725,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://dorandoan.com/worksheets/squishy-28-640027/opengraph-image",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -3718,16 +3735,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "doran",
       "checkedAt": "2026-10-23T14:48:48.808165+00:00",
-      "sourceUrl": "https://dorandoan.com/worksheets/squishy-28-640027"
-    }
+      "sourceUrl": "https://dorandoan.com/worksheets/squishy-28-640027",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-2112d8c7b5951bd4",
@@ -4026,7 +4046,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://dorandoan.com/worksheets/squishy-32-640031/opengraph-image",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -4036,16 +4056,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "doran",
       "checkedAt": "2026-10-23T14:48:48.808165+00:00",
-      "sourceUrl": "https://dorandoan.com/worksheets/squishy-32-640031"
-    }
+      "sourceUrl": "https://dorandoan.com/worksheets/squishy-32-640031",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-afc3000534c9c93c",
@@ -6720,7 +6743,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/candy-pouch-paper-squishy/candy-pouch-paper-squishy-cover.png?v=20260909-sq22-1",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -6730,16 +6753,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:51:19.479128+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/candy-pouch-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/candy-pouch-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-d163885a940967da",
@@ -6915,7 +6941,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/chubby-kawaii-santa-paper-squishy/chubby-kawaii-santa-paper-squishy-cover.png?v=20260815-1",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -6925,16 +6951,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:51:19.479128+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/chubby-kawaii-santa-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/chubby-kawaii-santa-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-cef0eede7c58aada",
@@ -7035,7 +7064,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/galaxy-star-pillow-paper-squishy/galaxy-star-pillow-paper-squishy-cover.png?v=20260908-sq22-2",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -7045,16 +7074,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:51:19.479128+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/galaxy-star-pillow-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/galaxy-star-pillow-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-891c7116b7f9eea9",
@@ -7151,8 +7183,8 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "thumbnail": "https://assets.squishyguide.com/assets/templates/kawaii-snack-cereal-box-paper-squishy/kawaii-snack-cereal-box-paper-squishy-cover.png?v=20260813-1",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://assets.squishyguide.com/assets/templates/kawaii-snack-cereal-box-paper-squishy/kawaii-snack-cereal-box-paper-squishy-20261028-batch1-r4-cover.png?v=20261028-batch1-r4",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -7162,16 +7194,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:51:19.479128+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/kawaii-snack-cereal-box-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/kawaii-snack-cereal-box-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-ef28ad4cbad936dc",
@@ -7347,7 +7382,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/instant-noodle-packet-paper-squishy/instant-noodle-packet-paper-squishy-cover.png?v=20260730-2",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -7357,16 +7392,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:51:55.719906+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/instant-noodle-packet-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/instant-noodle-packet-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-103d0c5cee7dff7c",
@@ -7749,7 +7787,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/pistachio-chocolate-bar-paper-squishy/pistachio-chocolate-bar-paper-squishy-cover.png?v=20260801-1",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -7759,16 +7797,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:51:55.719906+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/pistachio-chocolate-bar-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/pistachio-chocolate-bar-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-a1cfe06f3f2d361e",
@@ -8397,7 +8438,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/kawaii-tanghulu-fruit-skewer-paper-squishy/kawaii-tanghulu-fruit-skewer-paper-squishy-cover.png?v=20260718-3",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -8407,16 +8448,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:52:30.683390+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/kawaii-tanghulu-fruit-skewer-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/kawaii-tanghulu-fruit-skewer-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-33af7f2cb311bfee",
@@ -8559,7 +8603,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/kawaii-bunny-mochi-paper-squishy/kawaii-bunny-mochi-paper-squishy-cover.png?v=20260718-3",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -8569,16 +8613,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:52:30.683390+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/kawaii-bunny-mochi-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/kawaii-bunny-mochi-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-e40233c49e23015c",
@@ -8886,7 +8933,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/chocolate-sandwich-cookie-paper-squishy/chocolate-sandwich-cookie-paper-squishy-cover.png?v=20260714-3",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -8896,16 +8943,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:53:05.467607+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/chocolate-sandwich-cookie-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/chocolate-sandwich-cookie-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-f3d60a62523935eb",
@@ -9579,7 +9629,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/taco-paper-squishy/taco-paper-squishy-cover.png?v=20260712-1",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -9589,16 +9639,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:53:40.056708+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/taco-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/taco-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-bdc44e5ecc857023",
@@ -9977,8 +10030,8 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "thumbnail": "https://assets.squishyguide.com/assets/templates/kawaii-sushi-roll-paper-squishy/kawaii-sushi-roll-paper-squishy-cover.png?v=20260805-1",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://assets.squishyguide.com/assets/templates/kawaii-sushi-roll-paper-squishy/kawaii-sushi-roll-paper-squishy-20261029-batch2-r4-cover.png?v=20261029-batch2-r4",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -9988,16 +10041,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:53:40.056708+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/kawaii-sushi-roll-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/kawaii-sushi-roll-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-0a5b8b4b673b36c8",
@@ -10464,7 +10520,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/mini-heart/mini-heart-paper-squishy-cover.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -10474,16 +10530,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:55:14.316847+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/mini-heart"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/mini-heart",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-548f85fae1ef7e71",
@@ -10911,7 +10970,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/soda-bottle-paper-squishy/soda-bottle-paper-squishy-cover.png?v=20260707-1",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -10921,16 +10980,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:55:14.316847+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/soda-bottle-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/soda-bottle-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-617e6c01fd3cd5dd",
@@ -11229,7 +11291,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/mini-book-paper-squishy/mini-book-paper-squishy-cover.png?v=20260711-1",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -11239,16 +11301,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:55:14.316847+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/mini-book-paper-squishy"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/mini-book-paper-squishy",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-5d334edff7a53f5b",
@@ -11433,7 +11498,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/rainbow-butter-bar/rainbow-butter-bar-20261019-butter-v5-cover.png?v=20261019-butter-v5",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -11443,16 +11508,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:55:14.316847+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/rainbow-butter-bar"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/rainbow-butter-bar",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-5a0ede64eac79806",
@@ -11673,7 +11741,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/butter-bar-coloring-template/butter-bar-coloring-template-20261019-butter-v5-cover.png?v=20261019-butter-v5",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-30",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -11683,16 +11751,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-10-30"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:55:14.316847+00:00",
-      "sourceUrl": "https://www.squishyguide.com/en/templates/butter-bar-coloring-template"
-    }
+      "sourceUrl": "https://www.squishyguide.com/en/templates/butter-bar-coloring-template",
+      "lastRecheckAt": "2026-10-30T01:09:29.478394+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-10-30T01:09:29.478394+00:00"
   },
   {
     "id": "feed-27bb806d8b0fe5a3",

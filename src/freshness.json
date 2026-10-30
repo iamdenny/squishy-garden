@@ -1,181 +1,181 @@
 {
-  "lastSuccessfulCheck": "2026-10-29T16:16:18.155117+00:00",
+  "lastSuccessfulCheck": "2026-10-30T01:09:29.478394+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "feed-4f4ada051de4a381",
+      "id": "feed-64b84d2d991cc423",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-508180fd6f7be3d8",
+      "id": "feed-668f42527eab3035",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-5085aa0a98e01b6a",
+      "id": "feed-67ab275d2185510e",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-51174cac29494d54",
+      "id": "feed-68305931e9ceff45",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-511987e5db75d046",
+      "id": "feed-688f338661e81839",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-51348f1d625de982",
+      "id": "feed-68a60ac818967374",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-524455db40ae9bb4",
+      "id": "feed-69171be88b5eb611",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-53758ac9f7a0e525",
+      "id": "feed-6a0c86fd2773d652",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-548f85fae1ef7e71",
+      "id": "feed-6a672c50a6fa26b5",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-55d5d7948d2be686",
+      "id": "feed-6e8e139d4b86b5d8",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-57dcfee84b7b3f76",
+      "id": "feed-6f317daace957147",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-586619e5bf3d7a59",
+      "id": "feed-708891cae498c7ec",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-588d302f0eb3f6b6",
+      "id": "feed-734d81256af5e3da",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-58947e0c84260c03",
+      "id": "feed-751dfed9c6423342",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-5a0ede64eac79806",
+      "id": "feed-75e965e85b0a305e",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-5b5c1b96abba66ff",
+      "id": "feed-76015b108b3858af",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-5c2da4b096b45407",
+      "id": "feed-7767c1c8b7a20e7a",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-5d334edff7a53f5b",
+      "id": "feed-7781694fce35626d",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-5f4edee74a6917d3",
+      "id": "feed-77b98f51d4d3daac",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-5fb98d5782e287aa",
+      "id": "feed-77cdd5e0567c7751",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-61290165385ec14f",
+      "id": "feed-780fe239d7d68a54",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-617e6c01fd3cd5dd",
+      "id": "feed-7895014334d26f1b",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-61b063014b675f64",
+      "id": "feed-7a65985eb44a90f6",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     },
     {
-      "id": "feed-63f60b7f9f214e73",
+      "id": "feed-802536e9411268db",
       "status": "reachable",
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-29"
+      "lastConfirmedAt": "2026-10-30"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-10-29T16:16:18.155117+00:00",
+  "lastAttempt": "2026-10-30T01:09:29.478394+00:00",
   "primaryStatus": "reachable",
   "partialFailure": false
 }
