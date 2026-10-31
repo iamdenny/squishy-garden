@@ -2805,7 +2805,16 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0156.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-22"
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0156.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishy0156/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishy0155",
@@ -2828,7 +2837,16 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0155.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-22"
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0155.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishy0155/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishy0154",
@@ -2851,7 +2869,16 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0154.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-22"
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0154.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishy0154/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishy0153",
@@ -2874,7 +2901,16 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0153.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-22"
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0153.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishy0153/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishy0152",
@@ -2897,7 +2933,16 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0152.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-22"
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0152.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishy0152/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishy0145",
@@ -6887,7 +6932,23 @@
     "category": "play",
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0239.webp",
-    "firstSeenAt": "2026-10-22"
+    "firstSeenAt": "2026-10-22",
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0239.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0240.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0241.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0242.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0243.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0244.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0245.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishySet0026/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishySet0025",
@@ -6909,7 +6970,22 @@
     "category": "play",
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0234.webp",
-    "firstSeenAt": "2026-10-22"
+    "firstSeenAt": "2026-10-22",
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0234.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0235.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0236.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0237.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0238.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0016.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishySet0025/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishySet0024",
@@ -6931,7 +7007,24 @@
     "category": "play",
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0204.webp",
-    "firstSeenAt": "2026-10-22"
+    "firstSeenAt": "2026-10-22",
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0204.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0205.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0203.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0198.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0199.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0200.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0201.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0202.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishySet0024/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishySet0023",
@@ -6953,7 +7046,23 @@
     "category": "play",
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0191.webp",
-    "firstSeenAt": "2026-10-22"
+    "firstSeenAt": "2026-10-22",
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0191.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0192.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0193.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0194.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0195.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0196.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0197.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishySet0023/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishySet0022",
@@ -6975,7 +7084,28 @@
     "category": "play",
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0179.webp",
-    "firstSeenAt": "2026-10-22"
+    "firstSeenAt": "2026-10-22",
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0179.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0180.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0181.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0182.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0183.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0184.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0185.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0186.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0187.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0188.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0189.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0190.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishySet0022/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishySet0021",
@@ -6997,7 +7127,25 @@
     "category": "play",
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0169.webp",
-    "firstSeenAt": "2026-10-22"
+    "firstSeenAt": "2026-10-22",
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0169.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0170.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0171.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0172.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0173.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0174.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0175.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0176.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0177.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishySet0021/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishySet0020",
@@ -7019,7 +7167,24 @@
     "category": "play",
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0161.webp",
-    "firstSeenAt": "2026-10-22"
+    "firstSeenAt": "2026-10-22",
+    "detailCheckedAt": "2026-10-31T15:24:22.163427+00:00",
+    "printable": {
+      "format": "JPG",
+      "paper": "A4",
+      "files": [
+        "https://hyeriming.com/downloads/squishy/squishy0161.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0162.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0163.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0164.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0165.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0166.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0167.jpg",
+        "https://hyeriming.com/downloads/squishy/squishy0168.jpg"
+      ],
+      "sourceUrl": "https://hyeriming.com/ko/print/squishySet0020/",
+      "checkedAt": "2026-10-31"
+    }
   },
   {
     "id": "h-squishySet0019",
@@ -7042,7 +7207,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0152.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7059,7 +7223,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0019/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0017",
@@ -7082,7 +7247,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0140.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7095,7 +7259,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0017/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0016",
@@ -7118,7 +7283,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0122.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7144,7 +7308,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0016/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0014",
@@ -7167,7 +7332,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0105.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7181,7 +7345,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0014/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0013",
@@ -7204,7 +7369,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0100.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7217,7 +7381,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0013/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0012",
@@ -7240,7 +7405,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0096.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7252,7 +7416,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0012/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0011",
@@ -7275,7 +7440,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0088.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7289,7 +7453,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0011/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0010",
@@ -7312,7 +7477,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0014.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7325,7 +7489,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0010/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0009",
@@ -7348,7 +7513,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0001.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7361,7 +7525,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0009/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0008",
@@ -7384,7 +7549,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0084.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7395,7 +7559,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0008/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0007",
@@ -7418,7 +7583,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0070.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7434,7 +7598,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0007/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0006",
@@ -7457,7 +7622,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0061.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -7469,7 +7633,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishySet0006/",
       "checkedAt": "2026-10-31"
-    }
+    },
+    "detailCheckedAt": "2026-10-31T00:52:46.507851+00:00"
   },
   {
     "id": "h-squishySet0002",
