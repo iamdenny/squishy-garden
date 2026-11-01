@@ -2644,7 +2644,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0163.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -2653,7 +2652,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0163/",
       "checkedAt": "2026-11-01"
-    }
+    },
+    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00"
   },
   {
     "id": "h-squishy0162",
@@ -2676,7 +2676,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0162.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -2685,7 +2684,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0162/",
       "checkedAt": "2026-11-01"
-    }
+    },
+    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00"
   },
   {
     "id": "h-squishy0161",
@@ -2708,7 +2708,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0161.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -2717,7 +2716,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0161/",
       "checkedAt": "2026-11-01"
-    }
+    },
+    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00"
   },
   {
     "id": "h-squishy0160",
@@ -2740,7 +2740,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0160.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -2749,7 +2748,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0160/",
       "checkedAt": "2026-11-01"
-    }
+    },
+    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00"
   },
   {
     "id": "h-squishy0159",
@@ -2772,7 +2772,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0159.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -2781,7 +2780,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0159/",
       "checkedAt": "2026-11-01"
-    }
+    },
+    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00"
   },
   {
     "id": "h-squishy0158",
@@ -2804,7 +2804,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0158.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -2813,7 +2812,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0158/",
       "checkedAt": "2026-11-01"
-    }
+    },
+    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00"
   },
   {
     "id": "h-squishy0157",
@@ -2836,7 +2836,6 @@
     "difficulty": "unknown",
     "thumbnail": "https://hyeriming.com/thumbs/squishy/squishy0157.webp",
     "firstSeenAt": "2026-10-22",
-    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00",
     "printable": {
       "format": "JPG",
       "paper": "A4",
@@ -2845,7 +2844,8 @@
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0157/",
       "checkedAt": "2026-11-01"
-    }
+    },
+    "detailCheckedAt": "2026-11-01T00:13:18.860291+00:00"
   },
   {
     "id": "h-squishy0156",
@@ -3035,9 +3035,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0145.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0145/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0144",
@@ -3067,9 +3067,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0144.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0144/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0143",
@@ -3099,9 +3099,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0143.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0143/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0142",
@@ -3131,9 +3131,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0142.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0142/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0141",
@@ -3163,9 +3163,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0141.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0141/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0140",
@@ -3195,9 +3195,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0140.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0140/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0139",
@@ -3227,9 +3227,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0139.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0139/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0138",
@@ -3259,9 +3259,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0138.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0138/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0137",
@@ -3291,9 +3291,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0137.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0137/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0136",
@@ -3323,9 +3323,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0136.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0136/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0135",
@@ -3355,9 +3355,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0135.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0135/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishy0134",
@@ -6971,9 +6971,9 @@
         "https://hyeriming.com/downloads/squishy/squishy0001.jpg"
       ],
       "sourceUrl": "https://hyeriming.com/ko/print/squishy0001/",
-      "checkedAt": "2026-10-23"
+      "checkedAt": "2026-11-01"
     },
-    "detailCheckedAt": "2026-10-23T10:59:46.925791+00:00"
+    "detailCheckedAt": "2026-11-01T16:08:44.526527+00:00"
   },
   {
     "id": "h-squishySet0026",
