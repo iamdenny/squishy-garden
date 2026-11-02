@@ -1,172 +1,173 @@
 {
-  "lastSuccessfulCheck": "2026-11-02T00:53:30.483929+00:00",
+  "lastSuccessfulCheck": "2026-11-02T19:37:02.515358+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "feed-f3d60a62523935eb",
+      "id": "marys-printables-paper-squishy-maker",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T13:36:41Z"
+    },
+    {
+      "id": "morongborong-10-bakery-cafe-book",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-f3dc64b50ad7d383",
+      "id": "morongborong-12-bag-house",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-f54ca72cf1d838ed",
+      "id": "morongborong-8-ice-cream-shop-book",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-f840cba85a5b2dc3",
+      "id": "morongborong-9-hamburger-shop-book",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-f9bf3bea1bbbd51b",
+      "id": "onelittleproject-avocado-paper-squishy",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "onelittleproject-cupcake-paper-squishy",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "onelittleproject-donut-paper-squishy",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "onelittleproject-pizza-paper-squishy",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "onelittleproject-strawberry-paper-squishy",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "onelittleproject-waffle-paper-squishy",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "papersquishy-br-collection-100",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-fb8f697ce29de712",
+      "id": "papersquishy-br-pizza",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "papersquishy-br-popsicle",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "papersquishy-br-rocket",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "papersquishy-br-sheep",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "papersquishy-br-strawberry",
+      "status": "unverified",
+      "checkedAt": "2026-11-02",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "pokemon-bread",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-fbe029b511a60256",
+      "id": "rosazzing-cinnamoroll",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-fc6c108be87d36bd",
+      "id": "rosazzing-cinnamoroll-square",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-fd0cc6ab5fef005e",
+      "id": "rosazzing-derpy",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-ff5cbf1449d57acd",
+      "id": "rosazzing-giant-labubu-highlight",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "feed-ffd6ec66544ad9b5",
+      "id": "rosazzing-giant-labubu-macaron",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-02"
     },
     {
-      "id": "findyourfidget-butter",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "findyourfidget-candy-bag",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "funnysquishy-dumpling-toast-sheet",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "gripipi-haerin-book",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "gripipi-rice-house",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "gripipi-unicorn-house",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "gripipi-unicorn-wallet",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "h-squishy0037",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "h-squishy0055",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "h-squishySet0003",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "heedal-sanrio-donuts",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "leesaem-rabbit",
-      "status": "reachable",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
-    },
-    {
-      "id": "makeit-winter-snacks",
+      "id": "rosazzing-icecream",
       "status": "reachable",
       "checkedAt": "2026-11-02",
       "lastConfirmedStatus": "reachable",
@@ -175,7 +176,7 @@
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-11-02T00:53:30.483929+00:00",
+  "lastAttempt": "2026-11-02T19:37:02.515358+00:00",
   "primaryStatus": "reachable",
-  "partialFailure": false
+  "partialFailure": true
 }
