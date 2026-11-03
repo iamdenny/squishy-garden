@@ -1,182 +1,181 @@
 {
-  "lastSuccessfulCheck": "2026-11-02T19:37:02.515358+00:00",
+  "lastSuccessfulCheck": "2026-11-03T02:57:44.679602+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "marys-printables-paper-squishy-maker",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "httpStatus": 403,
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T13:36:41Z"
-    },
-    {
-      "id": "morongborong-10-bakery-cafe-book",
+      "id": "rosazzing-kitty-square",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "morongborong-12-bag-house",
+      "id": "rosazzing-kuromi-purin",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "morongborong-8-ice-cream-shop-book",
+      "id": "rosazzing-kuromi-snack",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "morongborong-9-hamburger-shop-book",
+      "id": "rosazzing-labubu",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "onelittleproject-avocado-paper-squishy",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "onelittleproject-cupcake-paper-squishy",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "onelittleproject-donut-paper-squishy",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "onelittleproject-pizza-paper-squishy",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "onelittleproject-strawberry-paper-squishy",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "onelittleproject-waffle-paper-squishy",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "papersquishy-br-collection-100",
+      "id": "rosazzing-melody-kitty",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "papersquishy-br-pizza",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "papersquishy-br-popsicle",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "papersquishy-br-rocket",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "papersquishy-br-sheep",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "papersquishy-br-strawberry",
-      "status": "unverified",
-      "checkedAt": "2026-11-02",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T07:52:36Z"
-    },
-    {
-      "id": "pokemon-bread",
+      "id": "rosazzing-melody-square",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "rosazzing-cinnamoroll",
+      "id": "rosazzing-mini-labubu",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "rosazzing-cinnamoroll-square",
+      "id": "rosazzing-pochacco-square",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "rosazzing-derpy",
+      "id": "rosazzing-sandwich",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "rosazzing-giant-labubu-highlight",
+      "id": "ryong-ditto-book",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "rosazzing-giant-labubu-macaron",
+      "id": "ryong-gummy-wallet",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
     },
     {
-      "id": "rosazzing-icecream",
+      "id": "ryong-iphone",
       "status": "reachable",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-02"
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "ryong-pokemon-bread",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "ryong-pokemon-taiyaki",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "ryong-poliwag-bread",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "sanrio-diy",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "sowony-1742216454",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "sowony-1742217688",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "sowony-1742217992",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "sowony-1742218482",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "sowony-1742220115",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "sowony-1742221336",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "sowony-1742286232",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
+    },
+    {
+      "id": "sowony-1742287247",
+      "status": "reachable",
+      "checkedAt": "2026-11-03",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-03"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-11-02T19:37:02.515358+00:00",
+  "lastAttempt": "2026-11-03T02:57:44.679602+00:00",
   "primaryStatus": "reachable",
-  "partialFailure": true
+  "partialFailure": false
 }

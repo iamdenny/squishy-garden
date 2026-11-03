@@ -112,7 +112,7 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "tags": [
       "시나모롤",
       "쿠로미",
@@ -127,14 +127,15 @@
       "シナモロール",
       "クロミ"
     ],
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbgynCZ%2FbtrFCguBdk8%2FAAAAAAAAAAAAAAAAAAAAAIQqr1EjGn2ha5o7sZI9Aa2cyI9pGf3miNKETw9_YWpz%2Fimg.gif%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Dx9IoidOfQJV0folij%252B4JdVdWews%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbgynCZ%2FbtrFCguBdk8%2FAAAAAAAAAAAAAAAAAAAAAIQqr1EjGn2ha5o7sZI9Aa2cyI9pGf3miNKETw9_YWpz%2Fimg.gif%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DoscBZ%252FbjC%252BvmflMCMWCYPAp0PJM%253D",
     "firstSeenAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-melody-kitty",
@@ -153,9 +154,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FzslHG%2FdJMcagRXbOE%2FAAAAAAAAAAAAAAAAAAAAAMe68S0M6Mb9IZdCZ_cKKWFvq_AW5bbsCywb0clTmM8d%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DPPYuCROEuy5CTO2j4bz6JUBVR5Y%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FzslHG%2FdJMcagRXbOE%2FAAAAAAAAAAAAAAAAAAAAAMe68S0M6Mb9IZdCZ_cKKWFvq_AW5bbsCywb0clTmM8d%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DQkNssRseUq4qSjn1m1h6DlijAVs%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -173,10 +174,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-kuromi-purin",
@@ -195,9 +197,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqEIHo%2FdJMcabwi4Iy%2FAAAAAAAAAAAAAAAAAAAAACYoWuwgxhv2DMdBS68FE8lIvYsX8xtbDt33LU_ioFB6%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DPT1cFtS%252FOE9G2Wtlvp8SdmWFKD0%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqEIHo%2FdJMcabwi4Iy%2FAAAAAAAAAAAAAAAAAAAAACYoWuwgxhv2DMdBS68FE8lIvYsX8xtbDt33LU_ioFB6%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DuieOOCPWqelvCkPEXjRIpqoRJzA%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -215,10 +217,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-cinnamoroll",
@@ -280,9 +283,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FAtpQu%2FbtsQ6TINBnk%2FAAAAAAAAAAAAAAAAAAAAANkxegOhU5SzSWY3lGfEVfmyXL-1NstA2nzZJOShB8Td%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DTHHsO8m9%252Bs2HJWQTKUM1FCd6hsc%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FAtpQu%2FbtsQ6TINBnk%2FAAAAAAAAAAAAAAAAAAAAANkxegOhU5SzSWY3lGfEVfmyXL-1NstA2nzZJOShB8Td%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DKRqbcR7gfdR%252BTSZrpZuEaAvbKkY%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -300,10 +303,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-melody-square",
@@ -322,9 +326,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbZsNkc%2FbtsQEbiAX6g%2FAAAAAAAAAAAAAAAAAAAAAKXqNOxHm-cTPkIW13JFJWSlmV5qeIcIJqvtvnHBGuSi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DrqsXaaWeK6wLkIkR4JEcAwKrkks%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbZsNkc%2FbtsQEbiAX6g%2FAAAAAAAAAAAAAAAAAAAAAKXqNOxHm-cTPkIW13JFJWSlmV5qeIcIJqvtvnHBGuSi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DMh%252BN6odhkAZtnqmIxP5wpLQEbSI%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -342,10 +346,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-labubu",
@@ -364,9 +369,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FAEasA%2FbtsQoBCPZ6j%2FAAAAAAAAAAAAAAAAAAAAAGIP8bSdINYg4ZeyBohQ3vGrv-8jILWEK409r82tMwev%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D1IquXl59Wm1Gkm4RpNT6Piy7rLo%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FAEasA%2FbtsQoBCPZ6j%2FAAAAAAAAAAAAAAAAAAAAAGIP8bSdINYg4ZeyBohQ3vGrv-8jILWEK409r82tMwev%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DBc%252FHUNb2Jm08Gt3fZqxZXXvLWFM%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -381,10 +386,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "gripipi-haerin-book",
@@ -523,9 +529,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbAFAC2%2Fbtsvb5LXXl6%2FAAAAAAAAAAAAAAAAAAAAAAMTtpJiIMoO8QbMAczO205HQeSk1PkmN0WEDw6BIm29%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Dm8n21lxAzGWfpHXbejo5FJMzm8w%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbAFAC2%2Fbtsvb5LXXl6%2FAAAAAAAAAAAAAAAAAAAAAAMTtpJiIMoO8QbMAczO205HQeSk1PkmN0WEDw6BIm29%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DbB8YFsDbOBUX5do%252BH%252FEMQo8c7N8%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -540,10 +546,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "ryong-gummy-wallet",
@@ -562,9 +569,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FmSLcF%2Fbtsp1jGOprF%2FAAAAAAAAAAAAAAAAAAAAAM9JA60Gr7vBuaiKEya1OE0Wi4UIzIOLQqxmWFwAXnPq%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Diq5T5nbrFJ7jq5bKUPiICcEE3WU%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FmSLcF%2Fbtsp1jGOprF%2FAAAAAAAAAAAAAAAAAAAAAM9JA60Gr7vBuaiKEya1OE0Wi4UIzIOLQqxmWFwAXnPq%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DF7H%252FCteAhLXopeqp08CsAsWo8%252FU%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -579,10 +586,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "ryong-pokemon-taiyaki",
@@ -601,9 +609,9 @@
     "access": "unknown",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FRTumG%2FbtrRGw7tU6K%2FAAAAAAAAAAAAAAAAAAAAAF8NFYseIT3w9ciU6btWnTrCezD2m1dR02UjP5PsOZMM%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DshyjSyIXeVrc%252B6NEK08e9vXsTx8%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FRTumG%2FbtrRGw7tU6K%2FAAAAAAAAAAAAAAAAAAAAAF8NFYseIT3w9ciU6btWnTrCezD2m1dR02UjP5PsOZMM%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DXXAtlXX1oeGPrBHrHsofHy0vfis%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -622,10 +630,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "ryong-ditto-book",
@@ -644,9 +653,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "book",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FPgoSz%2FbtrLuxTIuIF%2FAAAAAAAAAAAAAAAAAAAAAKbs1dUWCLmjW2AyzfnRd33_MUEXKIvrSJLBFnlBsO3R%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D3ieYdUcila5cJI%252BbMZev8MzmbUk%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FPgoSz%2FbtrLuxTIuIF%2FAAAAAAAAAAAAAAAAAAAAAKbs1dUWCLmjW2AyzfnRd33_MUEXKIvrSJLBFnlBsO3R%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DYX3P%252B0EwnRukH4VtkR5FejdXW5g%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -665,10 +674,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "ryong-pokemon-bread",
@@ -687,9 +697,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcFd6Fh%2FbtrD4UAJFNv%2FAAAAAAAAAAAAAAAAAAAAAGuj7Lmqx2jgixJVyPSOwdkM8N2J_0ervmaJna10OIew%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DsM5OCouoF4srQjTAOfccnRAvWFE%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcFd6Fh%2FbtrD4UAJFNv%2FAAAAAAAAAAAAAAAAAAAAAGuj7Lmqx2jgixJVyPSOwdkM8N2J_0ervmaJna10OIew%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DNUc02qKbsS29lhOBavX45yKiLms%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -708,10 +718,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "ryong-poliwag-bread",
@@ -730,9 +741,9 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fl6FXZ%2FbtrD2Hu8bl1%2FAAAAAAAAAAAAAAAAAAAAALIBhidgWPN2qeCZbgjmzEoKRynJ1KgWDcB-1DnDQ2Pi%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DfUVq5Mv8gzzy01Tsn5dlSEpfFdg%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fl6FXZ%2FbtrD2Hu8bl1%2FAAAAAAAAAAAAAAAAAAAAALIBhidgWPN2qeCZbgjmzEoKRynJ1KgWDcB-1DnDQ2Pi%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DfhOtu4OkiDR8Uz0czG4y2xVcO4s%253D",
     "tags": [
       "종이",
       "스퀴시",
@@ -751,10 +762,11 @@
     "reviewedAt": "2026-10-23",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-icecream",
@@ -814,11 +826,11 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Sat, 23 Aug 2025 19:26:10 +0900",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbvioih%2FbtsP3yGgQtq%2FAAAAAAAAAAAAAAAAAAAAAEHrrbjPtEFTzwMkkzKzA6ZlZMDtS4xUqovoA9VSg5yt%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D0fmpU4CdM2RoV30hq89SbHpfy1I%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbvioih%2FbtsP3yGgQtq%2FAAAAAAAAAAAAAAAAAAAAAEHrrbjPtEFTzwMkkzKzA6ZlZMDtS4xUqovoA9VSg5yt%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DOQ2WY5Y4L0RYE1YYK1MskZOFYC0%253D",
     "tags": [
       "산리오",
       "Sanrio",
@@ -832,10 +844,11 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-mini-labubu",
@@ -854,11 +867,11 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Tue, 19 Aug 2025 20:28:42 +0900",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbXA1GU%2FbtsPXGxCFTg%2FAAAAAAAAAAAAAAAAAAAAAO8j3wAWqcEIsAnUNB-BWsX9P3b0BE_lBI25pPETEXH1%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D1D8o9kHXxo15D2SHVaGlACyN8uM%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbXA1GU%2FbtsPXGxCFTg%2FAAAAAAAAAAAAAAAAAAAAAO8j3wAWqcEIsAnUNB-BWsX9P3b0BE_lBI25pPETEXH1%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DKtnazYlW%252FALBULfiQ5EZN4Yz0rY%253D",
     "tags": [
       "라부부",
       "Labubu",
@@ -873,10 +886,11 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-pochacco-square",
@@ -895,11 +909,11 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Tue, 19 Aug 2025 20:13:43 +0900",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F40JoF%2FbtsPXJOz0mZ%2FAAAAAAAAAAAAAAAAAAAAAEzSdwM6IvMuTzViWXaSENZ_W3ZRvKcxTuNhwolbKNe9%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D2KB7UVcNmh9QhdN2%252BBsLnOYMa2I%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F40JoF%2FbtsPXJOz0mZ%2FAAAAAAAAAAAAAAAAAAAAAEzSdwM6IvMuTzViWXaSENZ_W3ZRvKcxTuNhwolbKNe9%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3Djmiw02X29PxVZNwytKa1%252FQA8%252FZA%253D",
     "tags": [
       "산리오",
       "Sanrio",
@@ -913,10 +927,11 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-sandwich",
@@ -935,11 +950,11 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "sourcePublishedAt": "Thu, 14 Aug 2025 16:40:13 +0900",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcGP9jD%2FbtsPR4eUQjp%2FAAAAAAAAAAAAAAAAAAAAAGcSimU2TkWmcRFWpisX5Pu0GGGt7kQnnScZciRlYVm0%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DVWJRgrK0BBvKPHKNkRbrXcl%252Fi%252Fs%253D",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcGP9jD%2FbtsPR4eUQjp%2FAAAAAAAAAAAAAAAAAAAAAGcSimU2TkWmcRFWpisX5Pu0GGGt7kQnnScZciRlYVm0%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3Dd8u2cv%252BAXkG%252FuNomL1YUgEgLppM%253D",
     "tags": [
       "샌드위치",
       "sandwich",
@@ -953,10 +968,11 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-03"
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "rosazzing-cinnamoroll-square",
@@ -14213,8 +14229,8 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "thumbnail": "https://sowonyplayground.com/data/item/1742287247/1742287456_4577_1.jpg",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://sowonyplayground.com/data/item/1742287247/65S46riw7KO87Iqk.jpg",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14223,9 +14239,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-03"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -14233,7 +14249,8 @@
       "checkedAt": "2026-10-23T15:00:09.387064+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742287247"
     },
-    "craftType": "book"
+    "craftType": "book",
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "sowony-1742286232",
@@ -14252,8 +14269,8 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "thumbnail": "https://sowonyplayground.com/data/item/1742286232/3.jpg",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://sowonyplayground.com/data/item/1742286232/7Jyg64uI7L2Y.jpg",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14262,9 +14279,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-03"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -14272,7 +14289,8 @@
       "checkedAt": "2026-10-23T15:00:10.654790+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742286232"
     },
-    "craftType": "book"
+    "craftType": "book",
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "sowony-1742221336",
@@ -14291,8 +14309,8 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "thumbnail": "https://sowonyplayground.com/data/item/1742221336/2.jpg",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://sowonyplayground.com/data/item/1742221336/7LSI7L2c66a67CU6rWs64uI.jpg",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14301,16 +14319,17 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-03"
     },
     "verification": {
       "method": "editorial-product-page-v1",
       "sourceId": "sowony",
       "checkedAt": "2026-10-23T15:00:13.042373+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742221336"
-    }
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "sowony-1742220115",
@@ -14329,8 +14348,8 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "thumbnail": "https://sowonyplayground.com/data/item/1742220115/3.jpg",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://sowonyplayground.com/data/item/1742220115/66mU66as7YGs66as7Iqk66eI7Iqk7Iqk7YC07Iuc67aB.jpg",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14339,9 +14358,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-03"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -14349,7 +14368,8 @@
       "checkedAt": "2026-10-23T15:00:14.341531+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742220115"
     },
-    "craftType": "book"
+    "craftType": "book",
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "sowony-1742218482",
@@ -14368,8 +14388,8 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "thumbnail": "https://sowonyplayground.com/data/item/1742218482/1742218701_0102_5.jpg",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://sowonyplayground.com/data/item/1742218482/7LSI7L2U7JeQ6rOw.jpg",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14378,9 +14398,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-03"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -14388,7 +14408,8 @@
       "checkedAt": "2026-10-23T15:00:15.761124+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742218482"
     },
-    "craftType": "book"
+    "craftType": "book",
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "sowony-1742217992",
@@ -14407,8 +14428,8 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "thumbnail": "https://sowonyplayground.com/data/item/1742217992/1.jpg",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://sowonyplayground.com/data/item/1742217992/67CU64KY64KY7Jqw7Jyg.jpg",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14417,9 +14438,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-03"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -14427,7 +14448,8 @@
       "checkedAt": "2026-10-23T15:00:17.291744+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742217992"
     },
-    "craftType": "book"
+    "craftType": "book",
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "sowony-1742217688",
@@ -14446,8 +14468,8 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "thumbnail": "https://sowonyplayground.com/data/item/1742217688/00000.jpg",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://sowonyplayground.com/data/item/1742217688/7JWE7J2064M.jpg",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14456,9 +14478,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-03"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -14466,7 +14488,8 @@
       "checkedAt": "2026-10-23T15:00:18.570870+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742217688"
     },
-    "craftType": "book"
+    "craftType": "book",
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "sowony-1742216454",
@@ -14485,8 +14508,8 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "thumbnail": "https://sowonyplayground.com/data/item/1742216454/1742216694_069_4.jpg",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://sowonyplayground.com/data/item/1742216454/7Iqk7YC07Iuc7KeA6rCR.jpg",
+    "checkedAt": "2026-11-03",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14495,16 +14518,17 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-03",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-03"
     },
     "verification": {
       "method": "editorial-product-page-v1",
       "sourceId": "sowony",
       "checkedAt": "2026-10-23T15:00:20.031612+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742216454"
-    }
+    },
+    "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
   },
   {
     "id": "archive-633d2ea81b65c7a2",
