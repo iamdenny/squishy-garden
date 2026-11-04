@@ -1203,7 +1203,7 @@
     "access": "free",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "thumbnail": "https://blogthumb.pstatic.net/MjAyNTAyMDVfMTc5/MDAxNzM4NzQ0ODc1OTg4.fp21A9CO5A-X23UAdcU46U1-Ta90SWklBZJCVJdsdzgg.ZEn_0HMhPBAZOHFD4YZQwkpZGMZAXyU_Nm8Bkl2iJHYg.JPEG/IMG_9173.JPG?type=w2",
@@ -1222,10 +1222,11 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-04"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "makeit-winter-snacks",
@@ -1287,7 +1288,7 @@
     "access": "unknown",
     "rights": "source-only",
     "craftType": "unknown",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-22",
     "reviewedAt": "2026-10-22",
     "thumbnail": "https://blogthumb.pstatic.net/MjAyNDEyMjJfMTY2/MDAxNzM0ODUyODMwMjM0.6RGPJJvVKCQFO2mHB3olgje-ECbyCxaA7NrNfaVto3sg.uNsghNpRncQvtbhxng0P4q3gvSQTu9W1nKUgv2W3Pp8g.JPEG/IMG_1471.JPG?type=w2",
@@ -1309,10 +1310,11 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    }
+      "lastConfirmedAt": "2026-11-04"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "feed-e7ea52e56c597665",
@@ -2213,11 +2215,11 @@
     },
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
-    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "feed-8c00279888495e28",
@@ -14633,8 +14635,8 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FCAHuZ%2FbtrQPeNJ5fn%2FAAAAAAAAAAAAAAAAAAAAANErOW9KXNspvCZE6GF8ZHMggo9hVXMorfWr3AogZCuY%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D8KzvHZUEJDkY6qcaNXwj2b0PF%252FA%253D",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FCAHuZ%2FbtrQPeNJ5fn%2FAAAAAAAAAAAAAAAAAAAAANErOW9KXNspvCZE6GF8ZHMggo9hVXMorfWr3AogZCuY%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DiHzDdl3SlTfWQpMFL5zHs4jNugg%253D",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14643,9 +14645,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-archive-article-v1",
@@ -14653,7 +14655,7 @@
       "checkedAt": "2026-10-23T14:56:52.166161+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/451"
     },
-    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "archive-66f01e576628e4f6",
@@ -14867,8 +14869,8 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcM6nba%2FbtrLwAhRUze%2FAAAAAAAAAAAAAAAAAAAAAMZI3apUNkCikPxBAp_ZOYyct-DVwtZT9AoiYGgyMUQg%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D4%252Fqakx301ylUWbCr8AwVTx7JpxM%253D",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcM6nba%2FbtrLwAhRUze%2FAAAAAAAAAAAAAAAAAAAAAMZI3apUNkCikPxBAp_ZOYyct-DVwtZT9AoiYGgyMUQg%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3Dt%252BL97a24BWD8Meokg0od1LW%252ByWY%253D",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14877,9 +14879,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-archive-article-v1",
@@ -14888,7 +14890,7 @@
       "sourceUrl": "https://ryongryongkid.tistory.com/395"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "archive-2113b82722f9e173",
@@ -14907,8 +14909,8 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FPSvfS%2FbtrKcvIuwjh%2FAAAAAAAAAAAAAAAAAAAAAOXDAU2iseTM0WCGrXGThF_npGQdWlO5Wry2EjBKj4dm%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DlspNxbXpo1xr7Jy%252FdbrWxs5x5Ps%253D",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FPSvfS%2FbtrKcvIuwjh%2FAAAAAAAAAAAAAAAAAAAAAOXDAU2iseTM0WCGrXGThF_npGQdWlO5Wry2EjBKj4dm%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3D8KS6V9azHc8VieZ3ZME8lBxDxFE%253D",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14917,9 +14919,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-archive-article-v1",
@@ -14927,7 +14929,7 @@
       "checkedAt": "2026-10-23T14:57:13.040149+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/393"
     },
-    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "archive-47296e1b8c1835d4",
@@ -15492,8 +15494,8 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FKxvyJ%2FbtsHZg1K9qT%2FAAAAAAAAAAAAAAAAAAAAAOe9GrzHArRczYYn6NDigziiHJwDMMiBAtgnYC4v1sKx%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Dj2JAI5tZohS6%252Bqp9FkvxkbR4KJg%253D",
-    "checkedAt": "2026-10-23",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FKxvyJ%2FbtsHZg1K9qT%2FAAAAAAAAAAAAAAAAAAAAAOe9GrzHArRczYYn6NDigziiHJwDMMiBAtgnYC4v1sKx%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DaE6MYO9UJDmKclLsJaDWtNFKAiU%253D",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -15502,9 +15504,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-archive-article-v1",
@@ -15512,7 +15514,7 @@
       "checkedAt": "2026-10-23T14:57:49.614033+00:00",
       "sourceUrl": "https://rosazzing.tistory.com/entry/%EB%A1%9C%EC%82%AC%EC%B0%A1%EC%9D%98-%EC%8A%A4%ED%80%B4%EC%8B%9C-%EC%BA%90%EC%B9%98%ED%8B%B0%EB%8B%88%ED%95%91-%EB%A9%9C%EB%A1%9C%ED%95%91-%EC%8A%A4%ED%80%B4%EC%8B%9C%EB%A7%90%EB%9E%91%EC%9D%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%AC%B4%EB%A3%8C-%EB%8F%84%EC%95%88"
     },
-    "lastCheckAttempt": "2026-10-23T23:53:09.174816+00:00"
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "archive-819ff9458ec805b6",
@@ -15807,7 +15809,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/dumpling-squishy-pdf-pattern.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -15816,16 +15818,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:19.816471+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/dumpling-squishy-pdf-pattern"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/dumpling-squishy-pdf-pattern",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-butter-squishy-paper-template",
@@ -15847,7 +15852,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/butter-squishy-paper-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -15856,16 +15861,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:21.102139+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/butter-squishy-paper-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/butter-squishy-paper-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-cheese-squishy-idea-pack",
@@ -15887,7 +15895,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/cheese-squishy-idea-pack.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -15896,16 +15904,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:22.865447+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/cheese-squishy-idea-pack"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/cheese-squishy-idea-pack",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-ice-cube-paper-squishy-template",
@@ -15927,7 +15938,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/ice-cube-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -15936,16 +15947,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:24.441724+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/ice-cube-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/ice-cube-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-strawberry-milk-carton-squishy-template",
@@ -15967,7 +15981,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/strawberry-milk-carton-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -15976,16 +15990,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:25.886861+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/strawberry-milk-carton-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/strawberry-milk-carton-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-boba-paper-squishy-template",
@@ -16007,7 +16024,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/boba-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -16016,16 +16033,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:27.405636+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/boba-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/boba-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-cookie-paper-squishy-template",
@@ -16047,7 +16067,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/cookie-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -16056,16 +16076,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:28.914581+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/cookie-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/cookie-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-watermelon-paper-squishy-template",
@@ -16087,7 +16110,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/watermelon-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -16096,16 +16119,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:30.497448+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/watermelon-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/watermelon-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-cute-snack-bag-paper-squishy-template",
@@ -16127,7 +16153,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/cute-snack-bag-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -16136,16 +16162,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:32.038713+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/cute-snack-bag-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/cute-snack-bag-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-candy-paper-squishy-template",
@@ -16167,7 +16196,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/candy-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -16176,16 +16205,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:33.507943+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/candy-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/candy-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-ice-cream-paper-squishy-template",
@@ -16207,7 +16239,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/ice-cream-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -16216,16 +16248,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:35.047280+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/ice-cream-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/ice-cream-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-pizza-paper-squishy-template",
@@ -16247,7 +16282,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/pizza-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -16256,16 +16291,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:36.520378+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/pizza-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/pizza-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-avocado-paper-squishy-template",
@@ -16287,7 +16325,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/avocado-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -16296,16 +16334,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:38.018640+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/avocado-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/avocado-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "squishyidea-cupcake-paper-squishy-template",
@@ -16327,7 +16368,7 @@
     "accessRequirement": "email",
     "rights": "source-only",
     "thumbnail": "https://squishyidea.com/images/cupcake-paper-squishy-template.png",
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -16336,16 +16377,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-23",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-download-form-v1",
       "sourceId": "squishyidea",
       "checkedAt": "2026-10-23T15:18:39.506431+00:00",
-      "sourceUrl": "https://squishyidea.com/templates/cupcake-paper-squishy-template"
-    }
+      "sourceUrl": "https://squishyidea.com/templates/cupcake-paper-squishy-template",
+      "lastRecheckAt": "2026-11-04T17:23:09.862426+00:00",
+      "latestStatus": "verified"
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "etsy-4585556941",
@@ -24486,7 +24530,7 @@
     "difficulty": "unknown",
     "access": "free",
     "rights": "source-only",
-    "checkedAt": "2026-10-24",
+    "checkedAt": "2026-11-04",
     "firstSeenAt": "2026-10-24",
     "sourcePublishedAt": "2023-08-27",
     "tags": [
@@ -24507,9 +24551,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-24T14:18:04.953Z",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:18:04.953Z"
+      "lastConfirmedAt": "2026-11-04"
     },
     "verification": {
       "method": "editorial-browser-product-v1",
@@ -24518,7 +24562,9 @@
       "sourceUrl": "https://sunny-utube.tistory.com/19",
       "fileTypes": "Tistory post describes a free squishy pattern, crafting materials, and links to a making video.",
       "detail": "Chrome review: creator’s Tistory post is titled as BT21 and Kirby squishies with shared patterns; the visible body describes BT21, says a pattern and making video are used, and lists transparent tape/coating film and stuffing. The creator requests attribution and prohibits unauthorized reposting, modification and commercial use; footer shows CC BY-NC-SA. Only the creator page is linked; no images or files copied."
-    }
+    },
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FrWzLh%2Fbtssk2bmBiJ%2FAAAAAAAAAAAAAAAAAAAAAPyBHcOLtbQNaot1FVpBbJeEEOFPrT0EbXA59FUIQr9S%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DwYPbe15J2FmBuN6LblG2c%252FSbnb8%253D",
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "youtube-fGSnLOqGwP0",
@@ -24568,8 +24614,8 @@
       "無料型紙"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:18:04.953Z",
+      "status": "unverified",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:18:04.953Z"
     },
@@ -24580,7 +24626,8 @@
       "sourceUrl": "https://www.youtube.com/watch?v=fGSnLOqGwP0",
       "fileTypes": "Creator video page; description says the free printable download link is on the creator’s blog.",
       "detail": "Pinterest pin led to the creator’s YouTube tutorial, whose title and description identify a free pattern and a transparent character box made with OHP film and stuffing. The video description links onward to the creator’s Naver blog; that downstream page was not reviewed, so the catalog links to the verified video only and does not guarantee the file’s current availability. No assets copied."
-    }
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "youtube-yul-house-squishy-book",
@@ -24627,8 +24674,8 @@
       "無料型紙"
     ],
     "health": {
-      "status": "reachable",
-      "checkedAt": "2026-10-24T14:18:04.953Z",
+      "status": "unverified",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:18:04.953Z"
     },
@@ -24639,7 +24686,8 @@
       "sourceUrl": "https://www.youtube.com/watch?v=_fIsqHujJEI",
       "fileTypes": "Creator video page; its description links to a Naver blog and says the download password appears in the video.",
       "detail": "Pinterest pin led to the creator’s YouTube tutorial for a house-themed squishy book with bathroom/skincare, dressing and bedtime play. The video description identifies a pattern-sharing page and says the download password is shown in the video. That downstream Naver page was not reviewed; catalog links to the accessible creator video only. No assets copied."
-    }
+    },
+    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
   },
   {
     "id": "etsy-4599014654",
