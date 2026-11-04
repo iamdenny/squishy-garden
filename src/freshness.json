@@ -1,181 +1,181 @@
 {
-  "lastSuccessfulCheck": "2026-11-03T17:10:22.965043+00:00",
+  "lastSuccessfulCheck": "2026-11-04T01:29:31.558640+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "sowony-1742287531",
+      "id": "sowony-1742711359",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742288579",
+      "id": "sowony-1742711543",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742289064",
+      "id": "sowony-1742711728",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742289342",
+      "id": "sowony-1742712196",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742289556",
+      "id": "sowony-1742712907",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742289746",
+      "id": "sowony-1742713157",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742291546",
+      "id": "sowony-1742713310",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742355071",
+      "id": "sowony-1742713853",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742355377",
+      "id": "sowony-1742714887",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742359838",
+      "id": "sowony-1742717685",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742360073",
+      "id": "sowony-1742718199",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742360391",
+      "id": "sowony-1742718923",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742360651",
+      "id": "sowony-1742719170",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742361257",
+      "id": "sowony-1742722036",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742361721",
+      "id": "sowony-1742722270",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742361979",
+      "id": "sowony-1742722668",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742362358",
+      "id": "sowony-1742723791",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742363290",
+      "id": "sowony-1742723914",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742363590",
+      "id": "sowony-1742808107",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742363924",
+      "id": "sowony-1758070134",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742364490",
+      "id": "sowony-1776837137",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742364776",
+      "id": "sowony-1790815556",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742707426",
+      "id": "sowony-sweet-game",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     },
     {
-      "id": "sowony-1742711180",
+      "id": "squishy-butter-100",
       "status": "reachable",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-03"
+      "lastConfirmedAt": "2026-11-04"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-11-03T17:10:22.965043+00:00",
+  "lastAttempt": "2026-11-04T01:29:31.558640+00:00",
   "primaryStatus": "reachable",
   "partialFailure": false
 }
