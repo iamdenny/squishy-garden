@@ -1,181 +1,181 @@
 {
-  "lastSuccessfulCheck": "2026-11-04T17:23:09.862426+00:00",
+  "lastSuccessfulCheck": "2026-11-05T01:31:25.586633+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "squishyidea-avocado-paper-squishy-template",
+      "id": "archive-444b2c4b704f4942",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-boba-paper-squishy-template",
+      "id": "archive-47296e1b8c1835d4",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-butter-squishy-paper-template",
+      "id": "archive-50f08e25fb6c6602",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-candy-paper-squishy-template",
+      "id": "archive-52afdaa74d9da574",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-cheese-squishy-idea-pack",
+      "id": "archive-590a1242dd2b3ffc",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-cookie-paper-squishy-template",
+      "id": "archive-620133ba83adaa92",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-cupcake-paper-squishy-template",
+      "id": "archive-633d2ea81b65c7a2",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-cute-snack-bag-paper-squishy-template",
+      "id": "archive-66f01e576628e4f6",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-dumpling-squishy-pdf-pattern",
+      "id": "archive-683477cfe3d9e3fc",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-ice-cream-paper-squishy-template",
+      "id": "archive-6c67907145e7fc1e",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-ice-cube-paper-squishy-template",
+      "id": "archive-6e020fb49cec8b02",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-pizza-paper-squishy-template",
+      "id": "archive-7830cf2b4f79ab27",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-strawberry-milk-carton-squishy-template",
+      "id": "archive-79e550c9a2fd52ce",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "squishyidea-watermelon-paper-squishy-template",
+      "id": "archive-819ff9458ec805b6",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "sunny-utube-bt21-kirby-squishy",
+      "id": "archive-874ace6504510661",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "torim-kitty-cosmetics",
+      "id": "archive-9134e25696425f64",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "yellow-chocolate",
+      "id": "archive-91dce349f561cc0d",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "youtube-fGSnLOqGwP0",
-      "status": "unverified",
-      "checkedAt": "2026-11-04",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:18:04.953Z"
-    },
-    {
-      "id": "youtube-yul-house-squishy-book",
-      "status": "unverified",
-      "checkedAt": "2026-11-04",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-24T14:18:04.953Z"
-    },
-    {
-      "id": "72page-chips",
-      "status": "unverified",
-      "checkedAt": "2026-11-04",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-23"
-    },
-    {
-      "id": "archive-1f11ff29a0c1538f",
+      "id": "archive-97e484ca99e09bf1",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-2113b82722f9e173",
+      "id": "archive-acbbebe526ad5ddb",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-2a65313580ed5799",
+      "id": "archive-b3b560119fc72bc9",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-428139753e46ac93",
+      "id": "archive-be1df6979938a709",
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-05"
+    },
+    {
+      "id": "archive-dd0f0f9ac49b2edd",
+      "status": "reachable",
+      "checkedAt": "2026-11-05",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-05"
+    },
+    {
+      "id": "archive-de3ec61e554e6e12",
+      "status": "reachable",
+      "checkedAt": "2026-11-05",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-05"
+    },
+    {
+      "id": "archive-e7ebb3feba227c65",
+      "status": "reachable",
+      "checkedAt": "2026-11-05",
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-11-05"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-11-04T17:23:09.862426+00:00",
+  "lastAttempt": "2026-11-05T01:31:25.586633+00:00",
   "primaryStatus": "reachable",
-  "partialFailure": true
+  "partialFailure": false
 }
