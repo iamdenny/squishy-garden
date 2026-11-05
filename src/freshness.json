@@ -1,172 +1,177 @@
 {
-  "lastSuccessfulCheck": "2026-11-05T01:31:25.586633+00:00",
+  "lastSuccessfulCheck": "2026-11-05T17:29:00.576489+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "archive-444b2c4b704f4942",
+      "id": "archive-f344324f6edea9c5",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-47296e1b8c1835d4",
+      "id": "archive-f550ba4edf71e814",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-50f08e25fb6c6602",
+      "id": "archive-f9d484611562826b",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-52afdaa74d9da574",
+      "id": "ddany-dubai-chocolate",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-590a1242dd2b3ffc",
+      "id": "etsy-4448781996",
+      "status": "unverified",
+      "checkedAt": "2026-11-05",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23T15:32:40.883Z"
+    },
+    {
+      "id": "etsy-4450326805",
+      "status": "unverified",
+      "checkedAt": "2026-11-05",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23T15:28:55.118Z"
+    },
+    {
+      "id": "etsy-4584202978",
+      "status": "unverified",
+      "checkedAt": "2026-11-05",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-24T07:52:36Z"
+    },
+    {
+      "id": "etsy-4585556941",
+      "status": "unverified",
+      "checkedAt": "2026-11-05",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23"
+    },
+    {
+      "id": "etsy-4599005209",
+      "status": "unverified",
+      "checkedAt": "2026-11-05",
+      "httpStatus": 403,
+      "lastConfirmedStatus": "reachable",
+      "lastConfirmedAt": "2026-10-23T15:33:21.410Z"
+    },
+    {
+      "id": "feed-00eb8e7f187c07e1",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-620133ba83adaa92",
+      "id": "feed-0141a4579a2b7b8d",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-633d2ea81b65c7a2",
+      "id": "feed-0297640606630384",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-66f01e576628e4f6",
+      "id": "feed-02c62541f9340a46",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-683477cfe3d9e3fc",
+      "id": "feed-03ca97a29606b9be",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-6c67907145e7fc1e",
+      "id": "feed-040bef27191d000f",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-6e020fb49cec8b02",
+      "id": "feed-0447c418ebfcc87a",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-7830cf2b4f79ab27",
+      "id": "feed-052807edcddea429",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-79e550c9a2fd52ce",
+      "id": "feed-059b65a2316fc62c",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-819ff9458ec805b6",
+      "id": "feed-0750fb9a11288bce",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-874ace6504510661",
+      "id": "feed-0966154a08990125",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-9134e25696425f64",
+      "id": "feed-0996fba7db8c2fd3",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-91dce349f561cc0d",
+      "id": "feed-0a5b8b4b673b36c8",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-97e484ca99e09bf1",
+      "id": "feed-0a80b3c1176f4fb2",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-11-05"
     },
     {
-      "id": "archive-acbbebe526ad5ddb",
-      "status": "reachable",
-      "checkedAt": "2026-11-05",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-05"
-    },
-    {
-      "id": "archive-b3b560119fc72bc9",
-      "status": "reachable",
-      "checkedAt": "2026-11-05",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-05"
-    },
-    {
-      "id": "archive-be1df6979938a709",
-      "status": "reachable",
-      "checkedAt": "2026-11-05",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-05"
-    },
-    {
-      "id": "archive-dd0f0f9ac49b2edd",
-      "status": "reachable",
-      "checkedAt": "2026-11-05",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-05"
-    },
-    {
-      "id": "archive-de3ec61e554e6e12",
-      "status": "reachable",
-      "checkedAt": "2026-11-05",
-      "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-05"
-    },
-    {
-      "id": "archive-e7ebb3feba227c65",
+      "id": "feed-0afb491d82071f9e",
       "status": "reachable",
       "checkedAt": "2026-11-05",
       "lastConfirmedStatus": "reachable",
@@ -175,7 +180,7 @@
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-11-05T01:31:25.586633+00:00",
+  "lastAttempt": "2026-11-05T17:29:00.576489+00:00",
   "primaryStatus": "reachable",
-  "partialFailure": false
+  "partialFailure": true
 }
