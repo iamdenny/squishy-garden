@@ -1,70 +1,70 @@
 {
   "schemaVersion": 1,
-  "revision": "616ab5d3f183a9d954c81fc4af4a82a80aa93207e74b2d6104433c786d99026d",
-  "generatedAt": "2026-11-06T01:42:45.560Z",
-  "updatedAt": "2026-11-06T01:38:57.955502+00:00",
+  "revision": "30d3649f89845629b4849a7d39dbcc86243e879e00a2b6f9b7e540cf85ba8198",
+  "generatedAt": "2026-11-06T16:55:03.519Z",
+  "updatedAt": "2026-11-06T16:50:26.364141+00:00",
   "health": {
-    "lastAttempt": "2026-11-06T01:38:57.955502+00:00",
+    "lastAttempt": "2026-11-06T16:50:26.364141+00:00",
     "primaryStatus": "reachable",
     "discovery": [
       {
         "sourceId": "gripipi",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 1
       },
       {
         "sourceId": "rosazzing",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 14
       },
       {
         "sourceId": "ryong",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 0
       },
       {
         "sourceId": "sunny",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 3
       },
       {
         "sourceId": "zzoangland",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 10
       },
       {
         "sourceId": "morongborong",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 6
       },
       {
         "sourceId": "leesaem",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 0
       },
       {
         "sourceId": "doran",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 64
       },
       {
         "sourceId": "squishyguide",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 143
       },
       {
         "sourceId": "squishyidea",
         "status": "reachable",
-        "checkedAt": "2026-11-06T01:42:05.607705+00:00",
+        "checkedAt": "2026-11-06T16:54:17.549385+00:00",
         "matchingItems": 14
       }
     ],
@@ -18323,7 +18323,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:10:44Z"
@@ -18336,7 +18336,7 @@
         "fileTypes": "1 PDF",
         "detail": "Listing viewed in Chrome. Seller provides a paid PDF with lunchbox, sandwich, juice box, soda can, apple, cookie, brownie, strawberry bag and sticker patterns, including colored, black-and-white and blank versions plus step-by-step instructions. Seller states personal use only. Counted as one listing; original file remains on Etsy."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4562446980",
@@ -18462,7 +18462,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:12:03Z"
@@ -18475,7 +18475,7 @@
         "fileTypes": "1 PDF",
         "detail": "Listing viewed in Chrome. Seller offers printable Smusher designs with movable interactive pieces, full-color and black-and-white versions, plus assembly instructions. Paid instant PDF download; personal printing is permitted. Counted as one listing; original file remains on Etsy."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4583532532",
@@ -18556,7 +18556,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:13:27Z"
@@ -18569,7 +18569,7 @@
         "fileTypes": "2 PDF",
         "detail": "Listing opened from Etsy search and viewed in Chrome. Seller describes printable giant food paper squishies and print, tape, cut, fold and stuffing steps; the listing preview shows five designs: egg toast, watermelon, boba, avocado and peanut. Paid instant download. Counted as one bundle; original PDFs remain on Etsy."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4548737595",
@@ -18648,7 +18648,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:14:36Z"
@@ -18661,7 +18661,7 @@
         "fileTypes": "2 PDF",
         "detail": "Listing viewed in Chrome. Seller describes five printable paper squishy designs with a balloon-and-filling construction method, plus assembly instructions; the Etsy preview depicts egg toast, paw, avocado, circle and dog. Paid instant download. Counted as one bundle; original PDFs remain on Etsy."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4594720527",
@@ -19098,7 +19098,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:28:34Z"
@@ -19111,7 +19111,7 @@
         "fileTypes": "1 ZIP (description lists 4 templates and 1 guide PDF)",
         "detail": "Listing reviewed in Chrome. The paid ZIP contains four A4, 300-DPI templates: phone, earbuds and case, instant camera, smartwatch, plus an instruction guide. The seller permits repeated printing for personal, classroom and homeschool use, but prohibits products for sale. Counted as one set; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4549300713",
@@ -19204,7 +19204,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:29:30Z"
@@ -19217,7 +19217,7 @@
         "fileTypes": "1 ZIP (three template pages and one instruction guide)",
         "detail": "Listing reviewed in Chrome. The paid ZIP contains three A4, 300-DPI flip-phone template pages and a step-by-step instruction guide. Seller permits repeated printing for personal, classroom and homeschool use, but prohibits products for sale. Counted as one pattern set; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T23:21:20.988926+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4554069310",
@@ -19716,7 +19716,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:37:44.797Z"
@@ -19729,7 +19729,7 @@
         "fileTypes": "1 PDF",
         "detail": "Original Etsy listing reviewed in Chrome. The paid digital download is one PDF with four colored gum-wrapper templates. The seller describes printing, cutting, folding and assembling the paper squishy. The visible listing did not state reuse or redistribution terms. Counted once; source files and artwork were not copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4539174594",
@@ -19768,7 +19768,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:37:44.797Z"
@@ -19781,7 +19781,7 @@
         "fileTypes": "1 PDF",
         "detail": "Original Etsy listing reviewed in Chrome. The paid digital download is one printable PDF with a yellow cheese template, a color-your-own version and step-by-step instructions. The description gives a print, tape, cut, fold, fill and seal process and states that no physical item ships. The visible listing did not state broader reuse terms. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4536761581",
@@ -19821,7 +19821,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:37:44.797Z"
@@ -19834,7 +19834,7 @@
         "fileTypes": "2 PDFs (Etsy item highlights)",
         "detail": "Original Etsy listing reviewed in Chrome. Etsy highlights two PDF files; the seller description names one printable PDF with blue, pink and purple templates plus a color-your-own version. Paid digital download. The seller permits personal use only and prohibits resale, sharing and redistribution. Counted once; files were not copied. The brand term reflects the source listing and does not imply affiliation."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4589671427",
@@ -20208,7 +20208,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:32:15Z"
@@ -20221,7 +20221,7 @@
         "fileTypes": "2 ZIPs",
         "detail": "Original Etsy listing reviewed in search results. The paid download contains five paper-squishy designs in color and pre-colored versions with print, cut, fold, fill and assembly instructions. The seller discloses some AI-created design elements. No broader reuse terms were visible. Counted once; files were not copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4515746582",
@@ -20313,7 +20313,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:32:15Z"
@@ -20326,7 +20326,7 @@
         "fileTypes": "3 PDFs; A4 and US Letter are stated",
         "detail": "Original Etsy listing reviewed in search results. The paid school-themed set includes bus, backpack, book, pencil, water bottle and cookie subjects, with A4 and US Letter PDFs and instructions for coloring, taping, cutting, filling and assembly. The description says six designs but the included-files section says five templates; the listing is counted once and no design count is inferred. AI-assisted elements are disclosed. No broader reuse terms were visible; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4445166126",
@@ -20527,7 +20527,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:34:59Z"
@@ -20540,7 +20540,7 @@
         "fileTypes": "1 PDF",
         "detail": "Original Etsy listing reviewed. One mushroom character template is supplied in full color and black-and-white, with matching front/back pieces, dashed cutting lines and assembly instructions. The listing recommends printing at 100% / actual size. Personal and classroom use only; resale, sharing, copying and redistribution are prohibited. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4539422932",
@@ -20586,7 +20586,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:34:59Z"
@@ -20599,7 +20599,7 @@
         "fileTypes": "1 PDF",
         "detail": "Original Etsy listing opened and reviewed. The paid PDF contains seven food designs: burger, pizza, pretzel, burrito, popcorn, fries and hot dog, with color and black-and-white templates, matching front/back pieces, dashed cut lines and assembly instructions. Personal use or use within one classroom only; resale, sharing, copying and redistribution are prohibited. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4540212486",
@@ -20640,7 +20640,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:34:59Z"
@@ -20653,7 +20653,7 @@
         "fileTypes": "1 PDF",
         "detail": "Original Etsy listing opened and reviewed. The paid PDF includes pink and yellow salted-butter boxes, a strawberry-butter box and a cheese box, plus black-and-white versions and print/fold/tape/fill instructions. Personal and classroom use only; resale, sharing, copying and redistribution are prohibited. One review reports a download delay although the listing currently says instant download. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "marys-printables-paper-squishy-maker",
@@ -23144,7 +23144,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:04:46Z"
@@ -23157,7 +23157,7 @@
         "fileTypes": "1 PDF access file with Google Drive links to print-ready PDF templates and video",
         "detail": "Chrome listing review: paid one-PDF access download linking to five pastel-colored butter squishy templates (pink, lavender, mint, baby blue and soft yellow) plus a step-by-step video. The linked print files are offered in US Letter and A4. Personal use and gifting only; commercial redistribution, resale and sharing the files are prohibited. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T23:21:20.988926+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4523872697",
@@ -23205,7 +23205,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:04:46Z"
@@ -23218,7 +23218,7 @@
         "fileTypes": "2 Letter-size PDFs: pre-colored and black-and-white coloring versions",
         "detail": "Chrome listing review: paid instant download for one paw-shaped paper squishy design with matching front/back pieces, one pre-colored and one black-and-white coloring version, plus step-by-step instructions. The seller specifies US Letter (8.5 × 11 in) and a print-cut-tape-stuff-seal process. Personal use only. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4578627954",
@@ -23363,7 +23363,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:04:46Z"
@@ -23376,7 +23376,7 @@
         "fileTypes": "2 PDFs for US Letter and A4; black-and-white coloring templates",
         "detail": "Chrome listing review: paid digital bundle with five named black-and-white Bible-themed paper-squishy designs: Faith, Hope & Love; Holy Bible; Jesus Loves Me; Pray Every Day; and God Loves Me. Matching front/back pieces, dashed cut lines, filling openings and assembly instructions are included. A4 and US Letter editions; the seller recommends Actual Size/100%. No broader reuse terms were visible. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-1686628371",
@@ -23627,7 +23627,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:10:58.641Z"
@@ -23640,7 +23640,7 @@
         "fileTypes": "1 PDF; listing says editable Canva template; US Letter and A4 sizes",
         "detail": "Chrome listing review on 2026-10-24: paid digital bundle described as 16 printable paper-squishy templates with an optional editable Canva template. Instructions say print, cut, fold, add soft filling and seal; US Letter and A4 sizes are listed. Personal and classroom use only; commercial resale and file redistribution are prohibited. The listing does not enumerate all 16 designs. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T23:21:20.988926+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4577939218",
@@ -23988,7 +23988,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
@@ -24001,7 +24001,7 @@
         "fileTypes": "1 ZIP; description lists three printable PDF templates plus a guide, A4 cardstock.",
         "detail": "Chrome listing review on 2026-10-24: paid role-play craft with Glow Body Wash, Glow Body Butter and Glow Body Mist squishy templates plus a step-by-step guide. The description specifies A4 cardstock, scissors, clear tape and soft filling. The creator states all rights reserved; no wider use license was visible. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T23:21:20.988926+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4539498970",
@@ -24041,7 +24041,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
@@ -24054,7 +24054,7 @@
         "fileTypes": "2 PDFs; US Letter. Listing image alt says 10 printable templates; full description does not enumerate designs.",
         "detail": "Chrome listing review on 2026-10-24: paid listing titled Paper Squishy Templates; product image description says 10 printable designs and the seller provides two US Letter PDFs. The written description does not enumerate the designs or give detailed assembly steps, so the count is presented as the seller’s claim. Personal or single-classroom use only; no commercial resale, sharing or redistribution. Counted as one link; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4546591962",
@@ -24115,7 +24115,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
@@ -24128,7 +24128,7 @@
         "fileTypes": "1 PDF, 29 pages: 13 color and 13 B&W designs with front/back pieces.",
         "detail": "Chrome listing review on 2026-10-24: paid 29-page PDF with 13 named dessert characters, each in full color and black-and-white with matching front/back pieces, cutting lines, materials and picture instructions. Print at 100%/Actual Size; steps include taping, cutting, joining and adding stuffing. Personal and single-classroom use only; no file resale, sharing, redistribution or website upload. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T23:21:20.988926+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4574042708",
@@ -25965,7 +25965,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:20:36.601Z"
@@ -25978,7 +25978,7 @@
         "fileTypes": "1 PDF; description lists 33 variations across seven product types, in color, black-and-white and blank versions.",
         "detail": "Chrome listing review on 2026-10-24: paid printable PDF with listed variations: butter (6), cube (6), milk toast (6), Hawaiian bread roll (3), peanut (3), dumpling (6) and dumpling box (3). Color, black-and-white and blank versions are included. The creator says use plain paper, packing tape and filling, with step-by-step instructions. Personal use only; patterns may not be distributed, transferred or sold. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4582505559",
@@ -26356,7 +26356,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24"
@@ -26369,7 +26369,7 @@
         "fileTypes": "Editable Canva template listing; the description includes a trading mat.",
         "detail": "Chrome listing review on 2026-10-24: paid editable Canva snack set. Although the title says 16, the description specifies 12 snack designs plus a free trading mat, so the catalog records 12. The seller prohibits commercial use and resale. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4598998543",
@@ -26996,7 +26996,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-25",
+        "checkedAt": "2026-11-06",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24"
@@ -27009,7 +27009,7 @@
         "fileTypes": "Printable bag front/back, cow squishy, accessories, collector card, scene and instructions.",
         "detail": "Chrome listing review on 2026-10-24: paid blind-bag craft set includes printable bag front/back, a cow squishy, accessories and mystery parts, collector/rarity card, scene and instructions. Personal use only. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-25T13:46:27.405787+00:00"
+      "lastCheckAttempt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "etsy-4577215587",
@@ -29516,9 +29516,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0176.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0176/",
-        "checkedAt": "2026-10-28"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-28T00:33:52.870702+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0175",
@@ -29548,9 +29548,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0175.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0175/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0174",
@@ -29580,9 +29580,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0174.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0174/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0173",
@@ -29612,9 +29612,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0173.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0173/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0172",
@@ -29644,9 +29644,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0172.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0172/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0171",
@@ -29676,9 +29676,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0171.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0171/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0170",
@@ -29708,9 +29708,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0170.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0170/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0169",
@@ -29740,9 +29740,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0169.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0169/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0168",
@@ -29772,9 +29772,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0168.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0168/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0167",
@@ -29804,9 +29804,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0167.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0167/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0166",
@@ -29836,9 +29836,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0166.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0166/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0165",
@@ -29868,9 +29868,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0165.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0165/",
-        "checkedAt": "2026-10-27"
+        "checkedAt": "2026-11-06"
       },
-      "detailCheckedAt": "2026-10-27T15:26:45.503072+00:00"
+      "detailCheckedAt": "2026-11-06T16:50:26.364141+00:00"
     },
     {
       "id": "h-squishy0164",
