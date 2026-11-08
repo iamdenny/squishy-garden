@@ -1,70 +1,70 @@
 {
   "schemaVersion": 1,
-  "revision": "7ec23dafd89527d97c03b2efede6abd5d6be51a21e60e24678873a2f01e8e781",
-  "generatedAt": "2026-11-08T00:51:24.726Z",
-  "updatedAt": "2026-11-08T00:47:03.154510+00:00",
+  "revision": "a01aebfb125c785dcb371a4d04b85ca0b7e6c48f10cb37f21367bfcda560ec1c",
+  "generatedAt": "2026-11-08T16:10:37.000Z",
+  "updatedAt": "2026-11-08T16:05:52.893325+00:00",
   "health": {
-    "lastAttempt": "2026-11-08T00:47:03.154510+00:00",
+    "lastAttempt": "2026-11-08T16:05:52.893325+00:00",
     "primaryStatus": "reachable",
     "discovery": [
       {
         "sourceId": "gripipi",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 1
       },
       {
         "sourceId": "rosazzing",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 14
       },
       {
         "sourceId": "ryong",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 0
       },
       {
         "sourceId": "sunny",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 3
       },
       {
         "sourceId": "zzoangland",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 10
       },
       {
         "sourceId": "morongborong",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 6
       },
       {
         "sourceId": "leesaem",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 0
       },
       {
         "sourceId": "doran",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 64
       },
       {
         "sourceId": "squishyguide",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 124
       },
       {
         "sourceId": "squishyidea",
         "status": "reachable",
-        "checkedAt": "2026-11-08T00:50:43.840025+00:00",
+        "checkedAt": "2026-11-08T16:09:50.574483+00:00",
         "matchingItems": 14
       }
     ],
@@ -18231,7 +18231,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-28",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:09:18Z"
@@ -18244,7 +18244,7 @@
         "fileTypes": "2 PDF",
         "detail": "Listing viewed in Chrome. The seller describes ten Christmas-themed paper squishy characters and two PDFs for A4 and US Letter. Paid instant digital download. Counted as one listing; price is not stored because it can change. Original files remain on Etsy."
       },
-      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4574767202",
@@ -18694,7 +18694,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:15:50Z"
@@ -18707,7 +18707,7 @@
         "fileTypes": "2 PDF",
         "detail": "Listing viewed in Chrome. Seller describes four pre-colored axolotl designs with front/back pieces and illustrated assembly instructions. Two PDFs provide the same designs in A4 and US Letter, landscape, six pages each; no coloring version. Seller discloses AI-assisted illustrations. Paid download; counted as one resource, original files remain on Etsy."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4573418862",
@@ -18835,7 +18835,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:17:52Z"
@@ -18848,7 +18848,7 @@
         "fileTypes": "3 PDF",
         "detail": "Listing found in Etsy animal-template search and reviewed in Chrome. The seller lists 28 distinct animal designs with front/back pieces, A4 printing, dashed cutting guides and instructions; the same designs are provided in color and black-and-white. The listing has three PDFs. Paid download; personal use only. Counted as one bundle; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4591719849",
@@ -18881,7 +18881,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:18:27Z"
@@ -18894,7 +18894,7 @@
         "fileTypes": "3 PDF",
         "detail": "Listing found in Etsy search and reviewed in Chrome. Seller lists 28 sweet-treat designs in color and black-and-white, with matching front/back pieces, 14 printable sheets and assembly instructions. Paid instant download; personal use only. Counted as one bundle; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4600590448",
@@ -19450,7 +19450,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:31:43Z"
@@ -19463,7 +19463,7 @@
         "fileTypes": "2 PDFs (A4 and US Letter, 24 pages each)",
         "detail": "Listing reviewed in Chrome. The paid set contains 30 Korean street-food designs with matching fronts/backs, in color and coloring versions, plus a making guide and Korean food guide. Two PDFs provide A4 and US Letter at 24 pages each. Personal/classroom use only; file sharing and resale are prohibited. Seller discloses AI-assisted illustrations edited and arranged by Seoul Pencil. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4592054518",
@@ -19509,7 +19509,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:32:14Z"
@@ -19522,7 +19522,7 @@
         "fileTypes": "5 PNG",
         "detail": "Listing reviewed in Chrome. The paid download contains five 8.5 x 11 inch themed doll-craft sheets: rainbow, ocean, space, unicorn and candy. The seller describes front/back pieces, side strips, accessories and play scenes, with cut/fold/stuff assembly. Counted as one bundle; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4597800919",
@@ -19562,7 +19562,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:32:41Z"
@@ -19575,7 +19575,7 @@
         "fileTypes": "2 PDFs",
         "detail": "Listing reviewed in Chrome. The paid set contains six pre-colored and two black-and-white fantasy designs: decorative bottles, a magic wand and a crystal ball, with assembly instructions. The seller describes attaching a small sealed bag of liquid soap and glitter behind each front panel. AI-assisted elements are disclosed. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4596898317",
@@ -19614,7 +19614,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T08:33:19Z"
@@ -19627,7 +19627,7 @@
         "fileTypes": "3 PDFs",
         "detail": "Listing reviewed in Chrome. The paid set contains six pre-colored and two black-and-white bear/cat designs with step-by-step instructions for assembling clear pouches with liquid soap and glitter. Etsy lists three PDF files. The seller discloses AI-created design elements. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4454785176",
@@ -21143,7 +21143,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-28",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:44:02Z"
@@ -21156,7 +21156,7 @@
         "fileTypes": "2 PDFs: A4 and US Letter, color and black-and-white pages",
         "detail": "Chrome listing review: paid printable set. The seller describes eight named pumpkin squishies plus blank design-your-own pumpkins and calls the set ten squishies; each page has full-color and black-and-white versions, with A4 and US Letter PDFs and a how-to page. Seller terms: personal/classroom use only; do not share or resell the file. Finished example photos are disclosed as AI-assisted. Counted once; formats and color variants are not multiplied. No files copied."
       },
-      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4601122568",
@@ -21548,7 +21548,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-28",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T13:48:56Z"
@@ -21561,7 +21561,7 @@
         "fileTypes": "2 PDFs; A4 and US Letter editions",
         "detail": "Chrome listing review: paid set with 12 Valentine squishies across six paired sheets, color-your-own and ready-colored pages, instructions and supply list. A4 and US Letter are included. Seller permits personal use and prohibits sharing or reselling files. Finished examples are disclosed as AI-generated. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4601137642",
@@ -23494,7 +23494,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:10:58.641Z"
@@ -23507,7 +23507,7 @@
         "fileTypes": "Etsy highlights 1 PDF; description also mentions PDF/PNG",
         "detail": "Chrome listing review on 2026-10-24: paid digital download for a paper-squishy craft. Description names six motifs (pumpkin, ghost, candy corn, black cat, mummy cupcake, Frankenstein) with matching front/back artwork, colored files, cutting, taping and soft filling steps. Although the title says 12 characters and the body says 12 designs, the named motifs are six; catalog title uses six characters. Personal and classroom use are allowed; finished items may be sold, but digital files may not be resold or redistributed. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4597874664",
@@ -23565,7 +23565,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:10:58.641Z"
@@ -23578,7 +23578,7 @@
         "fileTypes": "1 ZIP; description says 24 PDFs across six flavors, colored/coloring versions and A4/US Letter",
         "detail": "Chrome listing review on 2026-10-24: paid printable bundle for blueberry, matcha, chocolate, peach, lemon and cookies-and-cream butter boxes. Includes colored and black-and-white versions, A4 and US Letter, fold/glue tabs, instructions, and a filling step. Print at Actual Size/100%. Personal use only; sharing, resale and redistribution are prohibited. Counted once as a bundle; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4548085465",
@@ -23779,7 +23779,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:10:58.641Z"
@@ -23792,7 +23792,7 @@
         "fileTypes": "Etsy highlights 3 ZIP and 2 PDF; seller description says four PDF/ZIP files with A4 and US Letter bundles and individual templates",
         "detail": "Chrome listing review on 2026-10-24: paid Halloween bundle names 14 characters and includes colored and black-and-white front/back artwork with step-by-step instructions. A4 and US Letter are listed; users print, cut, join, stuff and seal. The Etsy file metadata and seller file-count description differ, so only the print formats and content are recorded. Personal and classroom use only; resale, redistribution and commercial use are prohibited. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4578842018",
@@ -24768,7 +24768,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-28",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:14:02.362Z"
@@ -24781,7 +24781,7 @@
         "fileTypes": "2 PDFs; six designs in full-color and black-and-white editions, US Letter and A4.",
         "detail": "Chrome listing review on 2026-10-24: paid winter set with six named characters (snowman, penguin, polar bear, mitten, beanie and snowy owl), each with matching front/back pieces in color and black-and-white. How-to page and supply list included. Print at 100%/Actual Size, cut, tape, stuff and seal. Personal and classroom use only; do not share or resell files. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4580851153",
@@ -24951,7 +24951,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:15:48.546Z"
@@ -24964,7 +24964,7 @@
         "fileTypes": "1 A4 PDF with five front/back templates.",
         "detail": "Chrome listing review on 2026-10-24: paid bundle of five kawaii food squishy templates in A4 PDF, with matching front/back pieces. Instructions cover printing, cutting, taping, adding soft filling and sealing. The title names cookie, donut and candy examples; other three designs are not named in the description. Personal use only; digital redistribution and resale are prohibited. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4549761157",
@@ -25434,7 +25434,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
@@ -25447,7 +25447,7 @@
         "fileTypes": "US Letter PDF and A4 PDF, each 19 pages, plus a ZIP of both.",
         "detail": "Chrome listing review on 2026-10-24: paid bundle of 16 original characters (eight food, eight holiday) with front/back templates, full-color and color-your-own sets, how-to page and collection chart. Instructions cover printing, cutting, taping, stuffing and sealing. Personal/family/classroom/single-workplace use allowed; file resale and sharing prohibited. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4600943004",
@@ -25580,7 +25580,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
@@ -25593,7 +25593,7 @@
         "fileTypes": "1 PDF; seller describes 50 colorful printable pages, but individual designs and page size are not listed.",
         "detail": "Chrome listing review on 2026-10-24: paid listing claims 50 colorful paper-squishy pages spanning cute animals, treats, fantasy and playful characters. The seller describes cut/tape/fill steps, but does not enumerate the designs or state paper size; catalog count reflects one bundle only. No broader use terms were visible. No files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4594692986",
@@ -25649,7 +25649,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
@@ -25662,7 +25662,7 @@
         "fileTypes": "1 PDF, 40 pages; US Letter, prints on A4 with fit-to-page.",
         "detail": "Chrome listing review on 2026-10-24: paid 40-page Christmas PDF lists 30 designs plus six fold-up 3D boxes, four extra-puffy designs, three design-your-own pages, instructions and a collection checklist. Steps include coloring, cutting, taping, stuffing and closing. US Letter; A4 fit-to-page. Personal and single-classroom use only; do not resell or share files. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4598583471",
@@ -25719,7 +25719,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-28",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
@@ -25732,7 +25732,7 @@
         "fileTypes": "1 ZIP with A4 and US Letter PDFs; 19 themed and 19 plain designs plus a guide.",
         "detail": "Chrome listing review on 2026-10-24: paid bundle contains 19 baby animals in Halloween costumes and 19 matching plain animals, each with front/back pieces and dashed cut lines, plus a how-to page. Named costume designs include ghost pony, pumpkin puppy, zombie kitten, wizard cheetah, candy-corn calf, witch panda and more. Instructions cover print at Actual Size, cut, tape/glue, fill and seal. No broader license terms were visible. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4573585708",
@@ -26655,7 +26655,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24"
@@ -26668,7 +26668,7 @@
         "fileTypes": "Digital printable files; A4 and US Letter versions are described.",
         "detail": "Chrome listing review on 2026-10-24: paid capybara bakery set with seven bread designs plus bonus bag and stickers. The page describes two assembly methods and A4/US Letter versions. Personal use only; distribution is prohibited. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4584175400",
@@ -27095,7 +27095,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24"
@@ -27108,7 +27108,7 @@
         "fileTypes": "1 nine-page PDF; US Letter and A4, actual-size printing.",
         "detail": "Chrome listing review on 2026-10-24: paid 12-design Halloween bundle with six paired sheets and actual-size printing in US Letter/A4. Personal use only; do not share or resell the file. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4597667098",
@@ -27144,7 +27144,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24"
@@ -27157,7 +27157,7 @@
         "fileTypes": "A4 and US Letter PDF sets in color and black-and-white; listing metadata mentions 96 PDFs for the 24 designs.",
         "detail": "Chrome listing review on 2026-10-24: paid set with 24 distinct food designs, paired front/back pieces, color and black-and-white editions, and A4/US Letter formats. The 96 PDF files are format/color variants for the same 24 designs and are counted once. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4558051757",
@@ -27244,7 +27244,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24"
@@ -27257,7 +27257,7 @@
         "fileTypes": "Printable five-template craft set; listing describes print, cut, tape, glue and polyfiber steps.",
         "detail": "Chrome listing review on 2026-10-24: paid five-template fruit set. The listing describes printing, cutting, taping, gluing and filling with polyfiber; the preview shows a strawberry. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4596877827",
@@ -27293,7 +27293,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-11-08",
         "httpStatus": 403,
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24"
@@ -27306,7 +27306,7 @@
         "fileTypes": "1 nine-page PDF; US Letter and A4, actual-size printing.",
         "detail": "Chrome listing review on 2026-10-24: paid nine-page set with 12 named squishies, paired front/back artwork, an instruction/supply page and full-color examples. It prints at actual size on US Letter or A4. The seller allows personal family, party or classroom use and prohibits file sharing/resale. Counted once; no files copied."
       },
-      "lastCheckAttempt": "2026-10-27T15:26:45.503072+00:00"
+      "lastCheckAttempt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "etsy-4587628919",
@@ -28044,9 +28044,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0224.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0224/",
-        "checkedAt": "2026-10-30"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-30T01:09:29.478394+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0223",
@@ -28076,9 +28076,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0223.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0223/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0222",
@@ -28108,9 +28108,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0222.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0222/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0221",
@@ -28140,9 +28140,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0221.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0221/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0220",
@@ -28172,9 +28172,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0220.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0220/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0219",
@@ -28204,9 +28204,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0219.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0219/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0218",
@@ -28236,9 +28236,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0218.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0218/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0217",
@@ -28268,9 +28268,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0217.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0217/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0216",
@@ -28300,9 +28300,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0216.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0216/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0215",
@@ -28332,9 +28332,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0215.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0215/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0214",
@@ -28364,9 +28364,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0214.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0214/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0213",
@@ -28396,9 +28396,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0213.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0213/",
-        "checkedAt": "2026-10-29"
+        "checkedAt": "2026-11-08"
       },
-      "detailCheckedAt": "2026-10-29T16:16:18.155117+00:00"
+      "detailCheckedAt": "2026-11-08T16:05:52.893325+00:00"
     },
     {
       "id": "h-squishy0212",
