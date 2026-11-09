@@ -6734,7 +6734,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://assets.squishyguide.com/assets/templates/kawaii-pickle-jar-paper-squishy/kawaii-pickle-jar-paper-squishy-cover-card.webp",
-    "checkedAt": "2026-10-28",
+    "checkedAt": "2026-11-09",
     "firstSeenAt": "2026-10-23",
     "sourcePublishedAt": null,
     "tags": [
@@ -6744,19 +6744,19 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-10-28"
+      "lastConfirmedAt": "2026-11-09"
     },
     "verification": {
       "method": "approved-listing-and-file-v1",
       "sourceId": "squishyguide",
       "checkedAt": "2026-10-23T14:50:41.412048+00:00",
       "sourceUrl": "https://www.squishyguide.com/en/templates/kawaii-pickle-jar-paper-squishy",
-      "lastRecheckAt": "2026-10-28T16:09:57.685654+00:00",
+      "lastRecheckAt": "2026-11-09T01:01:23.436678+00:00",
       "latestStatus": "verified"
     },
-    "lastCheckAttempt": "2026-10-28T16:09:57.685654+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "feed-0141a4579a2b7b8d",
@@ -18300,7 +18300,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T08:26:27Z"
@@ -18313,7 +18313,7 @@
       "fileTypes": "4 PDF",
       "detail": "Listing reviewed in Chrome. The seller describes 24 Japanese-food cat designs, with matching front/back pieces and 4 PDFs: full-color and color-your-own editions in A4 and US Letter, 14 pages each. Paid digital download; personal use only, redistribution prohibited. Counted as one bundle. Source files and artwork were not copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4583365867",
@@ -18412,7 +18412,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T08:27:56Z"
@@ -18425,7 +18425,7 @@
       "fileTypes": "1 PDF",
       "detail": "Listing reviewed in Chrome. The seller describes 30 festive character designs with matching fronts and backs, including Santa, gingerbread friends and winter animals. The single US Letter PDF has 20 printable pages: ten color pages and ten black-and-white pages showing the same designs. Paid instant download; counted as one bundle. No files were copied."
     },
-    "lastCheckAttempt": "2026-10-28T16:09:57.685654+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4540694237",
@@ -19357,7 +19357,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T08:41:13.705Z"
@@ -19370,7 +19370,7 @@
       "fileTypes": "1 PDF",
       "detail": "Original Etsy listing reviewed in Chrome from the same seller’s related products. The paid instant download is one PDF with 20 Christmas paper-squishy designs plus five bonus sticker sheets; the sticker sheets are not counted as squishy designs. The listing describes printing, cutting, folding, filling and assembling, and confirms no physical item ships. No broader usage terms were visible. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4564707434",
@@ -20206,7 +20206,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:44:02Z"
@@ -20219,7 +20219,7 @@
       "fileTypes": "1 PDF",
       "detail": "Chrome listing review: one paid instant-download PDF with 12 printable 8.5 x 11 inch craft pages and cut/assemble/stuff instructions. Themes include animal, food, Christmas, Halloween, fall, dinosaur, ocean, doll and pet crafts. Four doll pages (rainbow, ocean, space and candy) overlap a previously listed 5-theme EllandOak bundle; the overlap is noted, not multiplied. No files were copied. Broader reuse terms were not stated in the visible listing."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4553048122",
@@ -20370,7 +20370,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:44:02Z"
@@ -20383,7 +20383,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 unique space designs in two PDFs, one pre-colored and one color-your-own; each PDF has 12 design pages plus instructions, US Letter. The seller explicitly says the two versions are 12 designs, not 24. The description discloses AI assistance in development and listing backgrounds, and says the printable pages are from the included PDFs. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4572924242",
@@ -20595,7 +20595,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:44:02Z"
@@ -20608,7 +20608,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct cozy-pet designs in two US Letter PDFs, one pre-colored and one color-your-own, each with assembly instructions. Named designs include cat, puppy, hamster, bunny, guinea pig, turtle, budgie, goldfish, ferret, pet bed, treat jar and carrier. Seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4600169205",
@@ -20664,7 +20664,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:47:31Z"
@@ -20677,7 +20677,7 @@
       "fileTypes": "2 PDFs (A4 and US Letter, 21 pages each) plus ZIP",
       "detail": "Chrome listing review: paid digital bundle with 30 front/back holiday-treat squishy templates, six color-your-own outlines, step-by-step guide, supply list, collector checklist and thank-you page. Seller identifies the artwork as original and permits personal, family, classroom and single-workplace printing; sharing and reselling the PDF files are prohibited. The A4 and US Letter files are format variants, not separate resources. No files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4598960164",
@@ -20748,7 +20748,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:47:31Z"
@@ -20761,7 +20761,7 @@
       "fileTypes": "2 PDFs; A4 and US Letter editions",
       "detail": "Chrome listing review: paid two-PDF set with 12 sea-animal squishies (six paired sheets) in color-your-own and ready-colored versions, with assembly steps. The seller permits printing for personal/family/party/classroom use and prohibits file sharing or resale. Finished-squishy example photos are disclosed as AI-generated. Counted once; format and color variants are not multiplied. No files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4598955172",
@@ -20832,7 +20832,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:47:31Z"
@@ -20845,7 +20845,7 @@
       "fileTypes": "2 PDFs; A4 and US Letter editions",
       "detail": "Chrome listing review: paid set with 12 winter squishies across six paired sheets, color-your-own and ready-colored versions, instructions and supply list. A4 and US Letter are included. Seller permits printing for personal use and prohibits sharing/reselling. The listing discloses AI assistance in the artwork and finished-example photos. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4598846189",
@@ -20997,7 +20997,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:48:56Z"
@@ -21010,7 +21010,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct Thanksgiving food and kitchen-themed squishies in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly instructions. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4601134682",
@@ -21078,7 +21078,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:57:18Z"
@@ -21091,7 +21091,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct New Year designs in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly steps. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4600993618",
@@ -21162,7 +21162,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:58:16Z"
@@ -21175,7 +21175,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct Halloween designs in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly steps. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4601157260",
@@ -21244,7 +21244,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:58:16Z"
@@ -21257,7 +21257,7 @@
       "fileTypes": "5 PDFs, 29 pages across the files",
       "detail": "Chrome listing review: paid instant download with 12 distinct autumn designs in five US Letter PDFs: four pre-colored parts and one color-your-own file. The listing says 29 pages total because the instruction page repeats across the four parts. Paired front/back pieces and illustrated assembly steps are included. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T16:09:57.685654+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4601023938",
@@ -21328,7 +21328,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:58:16Z"
@@ -21341,7 +21341,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct birthday-party designs in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly steps. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4601124154",
@@ -21412,7 +21412,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T13:58:16Z"
@@ -21425,7 +21425,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct cafe and food designs in two US Letter PDFs, one pre-colored and one color-your-own; paired front/back pieces and illustrated assembly steps. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4601141294",
@@ -21484,7 +21484,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:01:30Z"
@@ -21497,7 +21497,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct Kwanzaa designs in two 13-page US Letter PDFs, one pre-colored and one color-your-own, with paired front/back pieces and illustrated assembly steps. Named designs include a kinara, cup, ear of corn, fruit basket, woven mat, gift box, book, drum, red-black-green heart, paint palette, house and folding fan. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T16:09:57.685654+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4601119596",
@@ -21565,7 +21565,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:01:30Z"
@@ -21578,7 +21578,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct Christmas designs in two 13-page US Letter PDFs, one pre-colored and one color-your-own, with paired front/back pieces and illustrated assembly steps. The named designs are a Christmas tree, gingerbread person, Santa, reindeer, snowman, wrapped gift, stocking, Santa hat, ornament, wreath, hot cocoa mug and elf. The seller discloses AI assistance in development and listing backgrounds. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4601128768",
@@ -21649,7 +21649,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:03:06Z"
@@ -21662,7 +21662,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct ocean designs in two 13-page US Letter PDFs, one pre-colored and one color-your-own, with paired front/back pieces and illustrated assembly steps. Named designs include sea turtle, jellyfish, octopus, whale, pufferfish, dolphin, crab, seahorse, starfish, shell with pearl, tropical fish and shark. AI assistance in development and listing backgrounds is disclosed. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4601150956",
@@ -21733,7 +21733,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:03:06Z"
@@ -21746,7 +21746,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct volleyball and sports designs in two 13-page US Letter PDFs, one pre-colored and one color-your-own, with paired front/back pieces and illustrated assembly steps. Named designs include volleyball, jersey, shorts, knee pads, athletic shoe, water bottle, sports bag, whistle, trophy, medal, volleyball court and volleyball heart. AI assistance in development and listing backgrounds is disclosed. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T16:09:57.685654+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4601089597",
@@ -21817,7 +21817,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:03:06Z"
@@ -21830,7 +21830,7 @@
       "fileTypes": "2 PDFs, 13 pages each",
       "detail": "Chrome listing review: paid instant download with 12 distinct cheer-themed designs in two 13-page US Letter PDFs, one pre-colored and one color-your-own, with paired front/back pieces and illustrated assembly steps. Named designs include cheer bow, pom-pom, megaphone, sneaker, cheer top, cheer skirt, water bottle, duffel bag, trophy, medal, foam finger and star. AI assistance in development and listing backgrounds is disclosed. The seller's shop FAQ permits personal use within one household and teacher classroom use, and prohibits digital or hardcopy distribution to others. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4581513250",
@@ -24740,7 +24740,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
@@ -24753,7 +24753,7 @@
       "fileTypes": "2 PDFs; 12 front/back designs in black-and-white and full color; US Letter and A4.",
       "detail": "Chrome listing review on 2026-10-24: paid set describes 12 axolotl characters across six pages (smiling/bow, strawberry hat/heart, sleepy/crown, bubble tea/flower, bubble/baby, star wand/beanie), in coloring and ready-colored versions with matching backs and guide. Print at 100%/Actual Size, cut, tape, stuff and seal. Personal use only; no file sharing or resale. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4594424667",
@@ -24881,7 +24881,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24T14:19:27.363Z"
@@ -24894,7 +24894,7 @@
       "fileTypes": "4 PDFs: color and coloring editions in A4 and US Letter.",
       "detail": "Chrome listing review on 2026-10-24: paid bundle describes 30 flat designs, five fold-up 3D boxes and eight Christmas bonuses, for 43 total. The listing names the designs, says all include fronts/backs, and provides a guide. Instructions cover print, color, tape, cut, stuff and seal. Personal/family/classroom use allowed; sharing, resale and uploading files prohibited. AI assistance is disclosed. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4598167551",
@@ -25772,7 +25772,7 @@
     ],
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-10-28",
+      "checkedAt": "2026-11-09",
       "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-24"
@@ -25785,7 +25785,7 @@
       "fileTypes": "2 PDFs; six paired sheets, color and coloring editions, A4 and US Letter.",
       "detail": "Chrome listing review on 2026-10-24: paid bundle of 12 sushi and Japanese-food designs in six paired sheets, with colored and coloring versions in A4 and US Letter and actual-size printing guidance. Personal use only; sharing is prohibited. Counted once; no files copied."
     },
-    "lastCheckAttempt": "2026-10-28T00:33:52.870702+00:00"
+    "lastCheckAttempt": "2026-11-09T01:01:23.436678+00:00"
   },
   {
     "id": "etsy-4577570402",
