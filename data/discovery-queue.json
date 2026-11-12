@@ -357,7 +357,7 @@
     "reviewedAt": "2026-10-24",
     "status": "published",
     "reviewNote": "Verified the creator’s pattern-download post for a tteokbokki-shop squishy book; linked to 17.73 MB ZIP and tutorial. Commercial use/modification prohibited; creator attribution requested. Download not opened or copied.",
-    "lastSeenAt": "2026-11-12T02:21:21.955229+00:00",
+    "lastSeenAt": "2026-11-12T17:41:23.542428+00:00",
     "title": "말랑말랑 쫀득쫀득! '모보 떡볶이가게' #스퀴시북DIY 신나는 역할놀이!",
     "lastReviewAttempt": "2026-10-24T23:26:50.396621+00:00",
     "creator": "모롱보롱 · morongborong"
@@ -7130,5 +7130,47 @@
     "lastReviewAttempt": "2026-10-24T14:29:52Z",
     "reviewNote": "Chrome listing review on 2026-10-24: paid download with a routine page, five paper-squishy templates (soap, toothpaste, comb, sink and towel), a toothbrush piece, two book sheets and step-by-step assembly instructions in US Letter and A4. Color and coloring versions are included; the seller discloses AI-created design elements. Counted once; no files copied.",
     "reviewedAt": "2026-10-24T14:29:52Z"
+  },
+  {
+    "id": "ad1b78e5e9528339",
+    "sourceId": "squishyguide",
+    "creator": "SquishyGuide",
+    "title": "Spaghetti paper squishy pillow printable preview",
+    "url": "https://www.squishyguide.com/en/templates/paper-spaghetti-plate",
+    "sourcePublishedAt": null,
+    "status": "published",
+    "discoveredVia": "https://www.squishyguide.com/en/download-pack/",
+    "firstSeenAt": "2026-11-12T17:41:23.542428+00:00",
+    "lastSeenAt": "2026-11-12T17:41:23.542428+00:00",
+    "lastReviewAttempt": "2026-11-12T17:42:06.442161+00:00",
+    "reviewNote": "Source title, free-template claim and in-article printable evidence verified"
+  },
+  {
+    "id": "c2c831bb725ee067",
+    "sourceId": "squishyguide",
+    "creator": "SquishyGuide",
+    "title": "Golden hamster paper squishy printable preview",
+    "url": "https://www.squishyguide.com/en/templates/cute-golden-hamster-paper-squishy",
+    "sourcePublishedAt": null,
+    "status": "published",
+    "discoveredVia": "https://www.squishyguide.com/en/download-pack/",
+    "firstSeenAt": "2026-11-12T17:41:23.542428+00:00",
+    "lastSeenAt": "2026-11-12T17:41:23.542428+00:00",
+    "lastReviewAttempt": "2026-11-12T17:42:06.442161+00:00",
+    "reviewNote": "Source title, free-template claim and in-article printable evidence verified"
+  },
+  {
+    "id": "2294877135677fc7",
+    "sourceId": "squishyguide",
+    "creator": "SquishyGuide",
+    "title": "Round lemon paper squishy printable preview",
+    "url": "https://www.squishyguide.com/en/templates/round-yellow-lemon-paper-squishy",
+    "sourcePublishedAt": null,
+    "status": "published",
+    "discoveredVia": "https://www.squishyguide.com/en/download-pack/",
+    "firstSeenAt": "2026-11-12T17:41:23.542428+00:00",
+    "lastSeenAt": "2026-11-12T17:41:23.542428+00:00",
+    "lastReviewAttempt": "2026-11-12T17:42:06.442161+00:00",
+    "reviewNote": "Source title, free-template claim and in-article printable evidence verified"
   }
 ]
