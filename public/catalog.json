@@ -1,74 +1,74 @@
 {
   "schemaVersion": 1,
-  "revision": "f35832bf151d27ee9b592690cb260e32088e8edf28b49af908a822962b05023c",
-  "generatedAt": "2026-11-14T01:33:17.088Z",
-  "updatedAt": "2026-11-14T01:29:46.537182+00:00",
+  "revision": "5d222bf893e1951dd169580a7b88fc9473d2878f7bbb127c2bac6ceee29109c4",
+  "generatedAt": "2026-11-14T15:56:54.782Z",
+  "updatedAt": "2026-11-14T15:53:15.733853+00:00",
   "health": {
-    "lastAttempt": "2026-11-14T01:29:46.537182+00:00",
+    "lastAttempt": "2026-11-14T15:53:15.733853+00:00",
     "primaryStatus": "reachable",
     "discovery": [
       {
         "sourceId": "gripipi",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
         "matchingItems": 1
       },
       {
         "sourceId": "rosazzing",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
         "matchingItems": 14
       },
       {
         "sourceId": "ryong",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
         "matchingItems": 0
       },
       {
         "sourceId": "sunny",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
         "matchingItems": 3
       },
       {
         "sourceId": "zzoangland",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
         "matchingItems": 10
       },
       {
         "sourceId": "morongborong",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
         "matchingItems": 6
       },
       {
         "sourceId": "leesaem",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
         "matchingItems": 0
       },
       {
         "sourceId": "doran",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
         "matchingItems": 64
       },
       {
         "sourceId": "squishyguide",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
         "matchingItems": 127
       },
       {
         "sourceId": "squishyidea",
         "status": "reachable",
-        "checkedAt": "2026-11-14T01:32:29.827313+00:00",
-        "matchingItems": 14
+        "checkedAt": "2026-11-14T15:56:12.961361+00:00",
+        "matchingItems": 16
       }
     ],
-    "pendingReview": 101
+    "pendingReview": 103
   },
   "items": [
     {
@@ -248,7 +248,7 @@
       "access": "free",
       "rights": "source-only",
       "craftType": "unknown",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-23",
       "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fu8k40%2FdJMcagYxHBg%2FAAAAAAAAAAAAAAAAAAAAAApMWVcWmZdNOxL3pkIH9D4_qfxBUq9s_ZTtZGHjfvCI%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DBI7NZz63FvfbnVJDUDBl%252BHpEG4s%253D",
       "tags": [
@@ -268,11 +268,11 @@
       "reviewedAt": "2026-10-23",
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "ryong-ditto-book",
@@ -455,7 +455,7 @@
       "difficulty": "unknown",
       "access": "free",
       "rights": "source-only",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "tags": [
         "포켓몬",
         "Pokemon",
@@ -470,11 +470,11 @@
       "firstSeenAt": "2026-10-23",
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0192",
@@ -997,7 +997,7 @@
       "access": "free",
       "rights": "source-only",
       "craftType": "unknown",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-23",
       "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqEIHo%2FdJMcabwi4Iy%2FAAAAAAAAAAAAAAAAAAAAACYoWuwgxhv2DMdBS68FE8lIvYsX8xtbDt33LU_ioFB6%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DuieOOCPWqelvCkPEXjRIpqoRJzA%253D",
       "tags": [
@@ -1017,11 +1017,11 @@
       "reviewedAt": "2026-10-23",
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-03",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-03"
+        "lastConfirmedAt": "2026-11-14"
       },
-      "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "rosazzing-kuromi-snack",
@@ -1418,7 +1418,7 @@
       "access": "free",
       "rights": "source-only",
       "craftType": "unknown",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-22",
       "reviewedAt": "2026-10-22",
       "sourcePublishedAt": "Fri, 5 Sep 2025 17:11:47 +0900",
@@ -1436,11 +1436,11 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "rosazzing-kitty-square",
@@ -1459,7 +1459,7 @@
       "access": "free",
       "rights": "source-only",
       "craftType": "unknown",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-22",
       "reviewedAt": "2026-10-22",
       "sourcePublishedAt": "Sat, 23 Aug 2025 19:26:10 +0900",
@@ -1477,11 +1477,11 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-03",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-03"
+        "lastConfirmedAt": "2026-11-14"
       },
-      "lastCheckAttempt": "2026-11-03T02:57:44.679602+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "rosazzing-mini-labubu",
@@ -1624,7 +1624,7 @@
       "access": "free",
       "rights": "source-only",
       "craftType": "unknown",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-22",
       "reviewedAt": "2026-10-22",
       "sourcePublishedAt": "Tue, 12 Aug 2025 18:36:39 +0900",
@@ -1642,11 +1642,11 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "rosazzing-derpy",
@@ -1665,7 +1665,7 @@
       "access": "free",
       "rights": "source-only",
       "craftType": "unknown",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-22",
       "reviewedAt": "2026-10-22",
       "sourcePublishedAt": "Mon, 11 Aug 2025 18:21:22 +0900",
@@ -1686,11 +1686,11 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "rosazzing-giant-labubu-macaron",
@@ -1709,7 +1709,7 @@
       "access": "free",
       "rights": "source-only",
       "craftType": "unknown",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-22",
       "reviewedAt": "2026-10-22",
       "sourcePublishedAt": "Mon, 4 Aug 2025 20:35:21 +0900",
@@ -1728,11 +1728,11 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "rosazzing-giant-labubu-highlight",
@@ -1751,7 +1751,7 @@
       "access": "free",
       "rights": "source-only",
       "craftType": "unknown",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-22",
       "reviewedAt": "2026-10-22",
       "sourcePublishedAt": "Thu, 17 Jul 2025 10:40:34 +0900",
@@ -1769,11 +1769,11 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "ddany-dubai-chocolate",
@@ -17468,7 +17468,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17480,7 +17480,7 @@
         "fileTypes": "PDF",
         "detail": "Official article offers a distinct free two-page avocado printable; the article specifies US Letter paper. This entry links to the creator-hosted PDF and preview. Counted once; no file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "onelittleproject-cupcake-paper-squishy",
@@ -17510,7 +17510,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17522,7 +17522,7 @@
         "fileTypes": "PDF",
         "detail": "Official article offers a distinct free two-page cupcake printable; the article specifies US Letter paper. This entry links to the creator-hosted PDF and preview. Counted once; no file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "onelittleproject-strawberry-paper-squishy",
@@ -17552,7 +17552,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17564,7 +17564,7 @@
         "fileTypes": "PDF",
         "detail": "Official article offers a distinct free two-page strawberry printable; the article specifies US Letter paper. This entry links to the creator-hosted PDF and preview. Counted once; no file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "onelittleproject-waffle-paper-squishy",
@@ -17594,7 +17594,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17606,7 +17606,7 @@
         "fileTypes": "PDF",
         "detail": "Official article offers a distinct free two-page waffle printable; the article specifies US Letter paper. This entry links to the creator-hosted PDF and preview. Counted once; no file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "onelittleproject-donut-paper-squishy",
@@ -17636,7 +17636,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17648,7 +17648,7 @@
         "fileTypes": "PDF",
         "detail": "Official article offers a distinct free two-page donut printable; the article specifies US Letter paper. This entry links to the creator-hosted PDF and preview. Counted once; no file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "onelittleproject-pizza-paper-squishy",
@@ -17678,7 +17678,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17690,7 +17690,7 @@
         "fileTypes": "PDF",
         "detail": "Official article offers a distinct free two-page pizza printable; the article specifies US Letter paper. This entry links to the creator-hosted PDF and preview. Counted once; no file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "papersquishy-br-pizza",
@@ -17720,7 +17720,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17732,7 +17732,7 @@
         "fileTypes": "PDF",
         "detail": "The official English page labels this pizza pattern a free printable and links its one-page PDF and matching preview. The separate paid 100-model bundle is not counted here. No file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "papersquishy-br-strawberry",
@@ -17762,7 +17762,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17774,7 +17774,7 @@
         "fileTypes": "PDF",
         "detail": "The official English page labels this strawberry pattern a free printable and links its one-page PDF and matching preview. The separate paid 100-model bundle is not counted here. No file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "papersquishy-br-popsicle",
@@ -17804,7 +17804,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17816,7 +17816,7 @@
         "fileTypes": "PDF",
         "detail": "The official English page labels this popsicle pattern a free printable and links its one-page PDF and matching preview. The separate paid 100-model bundle is not counted here. No file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "papersquishy-br-rocket",
@@ -17846,7 +17846,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17858,7 +17858,7 @@
         "fileTypes": "PDF",
         "detail": "The official English page labels this rocket pattern a free printable and links its one-page PDF and matching preview. The separate paid 100-model bundle is not counted here. No file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "papersquishy-br-sheep",
@@ -17888,7 +17888,7 @@
       ],
       "health": {
         "status": "unverified",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
         "lastConfirmedAt": "2026-10-24T07:52:36Z"
       },
@@ -17900,7 +17900,7 @@
         "fileTypes": "PDF",
         "detail": "The official English page labels this sheep pattern a free printable and links its one-page PDF and matching preview. The separate paid 100-model bundle is not counted here. No file copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "morongborong-12-bag-house",
@@ -17920,7 +17920,7 @@
       "access": "free",
       "rights": "source-only",
       "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FHFEfW%2FdJMcacandjM%2FAAAAAAAAAAAAAAAAAAAAANXCnWe1MZgi7Fv-2KBC9UyTnak8GeQdJyOWMqf4crCF%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DeSNVwMjj7npsi9pLbj3sdyS%252Bz5k%253D",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-24",
       "tags": [
         "스퀴시",
@@ -17929,9 +17929,9 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
       "verification": {
         "method": "editorial-source-review",
@@ -17941,7 +17941,7 @@
         "fileTypes": "PDF",
         "detail": "Original Tistory post links a PDF download for this squishy-book project and provides print/build guidance. The source page is linked directly; no file was downloaded or copied."
       },
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "morongborong-10-bakery-cafe-book",
@@ -18003,7 +18003,7 @@
       "access": "free",
       "rights": "source-only",
       "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbWhLgG%2FbtsOW9s0M2e%2FAAAAAAAAAAAAAAAAAAAAAJce6CfCPM5St24wo1_g0W42x8_0Oj5a1-TiKbA1viBT%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DGDfdm4GFJNhPcBfcLUp28HMRnzI%253D",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-24",
       "tags": [
         "스퀴시",
@@ -18012,9 +18012,9 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
       "verification": {
         "method": "editorial-source-review",
@@ -18025,7 +18025,7 @@
         "detail": "Original Tistory post links a PDF download for this squishy-book project and provides print/build guidance. The source page is linked directly; no file was downloaded or copied."
       },
       "craftType": "book",
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "morongborong-8-ice-cream-shop-book",
@@ -18045,7 +18045,7 @@
       "access": "free",
       "rights": "source-only",
       "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fco531c%2FbtsOrzOlSy0%2FAAAAAAAAAAAAAAAAAAAAAFNEwfmV2Iu2czTT3y6JasJWh9L8M3UqohcIBd2evig7%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3D79nvEwyb8DyNiXL7BUEHo%252FGfdmI%253D",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-24",
       "tags": [
         "스퀴시",
@@ -18054,9 +18054,9 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
       "verification": {
         "method": "editorial-source-review",
@@ -18067,7 +18067,7 @@
         "detail": "Original Tistory post links a ZIP download for this squishy-book project and provides print/build guidance. The source page is linked directly; no file was downloaded or copied."
       },
       "craftType": "book",
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "feed-2d381a5e434b39d2",
@@ -20730,7 +20730,7 @@
       "difficulty": "unknown",
       "access": "paid",
       "rights": "source-only",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-14",
       "firstSeenAt": "2026-10-24",
       "tags": [
         "종이 스퀴시",
@@ -20760,9 +20760,9 @@
       ],
       "health": {
         "status": "reachable",
-        "checkedAt": "2026-11-02",
+        "checkedAt": "2026-11-14",
         "lastConfirmedStatus": "reachable",
-        "lastConfirmedAt": "2026-11-02"
+        "lastConfirmedAt": "2026-11-14"
       },
       "verification": {
         "method": "editorial-source-review",
@@ -20773,7 +20773,7 @@
         "detail": "Original collection page reviewed. The paid Basic pack provides 100 main templates in two PDFs (full color and color-in), one per page with front/back pieces side by side, across eight themes. The optional Super Pack adds Grocery Store, Farmers Market and Pet Shop kits, each described as 50 templates in color plus the same 50 to color. Five free sample PDFs from this seller are already listed separately; variants and overlapping samples are not multiplied. The page showed no broader reuse terms. Counted once; no files copied."
       },
       "thumbnail": "https://www.papersquishy.com.br/assets/colecao-v2/capa-100-modelos.webp",
-      "lastCheckAttempt": "2026-11-02T19:37:02.515358+00:00"
+      "lastCheckAttempt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "etsy-4599090757",
@@ -31786,9 +31786,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0095.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0095/",
-        "checkedAt": "2026-11-05"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-05T01:31:25.586633+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0092",
@@ -31818,9 +31818,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0092.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0092/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0091",
@@ -31850,9 +31850,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0091.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0091/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0090",
@@ -31882,9 +31882,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0090.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0090/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0089",
@@ -31914,9 +31914,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0089.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0089/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0088",
@@ -31946,9 +31946,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0088.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0088/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0086",
@@ -31978,9 +31978,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0086.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0086/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0085",
@@ -32010,9 +32010,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0085.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0085/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0084",
@@ -32042,9 +32042,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0084.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0084/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0083",
@@ -32074,9 +32074,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0083.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0083/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0082",
@@ -32106,9 +32106,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0082.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0082/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0081",
@@ -32138,9 +32138,9 @@
           "https://hyeriming.com/downloads/squishy/squishy0081.jpg"
         ],
         "sourceUrl": "https://hyeriming.com/ko/print/squishy0081/",
-        "checkedAt": "2026-11-04"
+        "checkedAt": "2026-11-14"
       },
-      "detailCheckedAt": "2026-11-04T17:23:09.862426+00:00"
+      "detailCheckedAt": "2026-11-14T15:53:15.733853+00:00"
     },
     {
       "id": "h-squishy0080",

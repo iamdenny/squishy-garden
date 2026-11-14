@@ -357,7 +357,7 @@
     "reviewedAt": "2026-10-24",
     "status": "published",
     "reviewNote": "Verified the creator’s pattern-download post for a tteokbokki-shop squishy book; linked to 17.73 MB ZIP and tutorial. Commercial use/modification prohibited; creator attribution requested. Download not opened or copied.",
-    "lastSeenAt": "2026-11-14T01:32:29.827313+00:00",
+    "lastSeenAt": "2026-11-14T15:56:12.961361+00:00",
     "title": "말랑말랑 쫀득쫀득! '모보 떡볶이가게' #스퀴시북DIY 신나는 역할놀이!",
     "lastReviewAttempt": "2026-10-24T23:26:50.396621+00:00",
     "creator": "모롱보롱 · morongborong"
@@ -7172,5 +7172,33 @@
     "lastSeenAt": "2026-11-12T17:41:23.542428+00:00",
     "lastReviewAttempt": "2026-11-12T17:42:06.442161+00:00",
     "reviewNote": "Source title, free-template claim and in-article printable evidence verified"
+  },
+  {
+    "id": "5dffa41eeb8795c3",
+    "sourceId": "squishyidea",
+    "creator": "SQUISHY IDEA",
+    "title": "food paper squishy pack",
+    "url": "https://squishyidea.com/templates/food-paper-squishy-pack",
+    "sourcePublishedAt": null,
+    "status": "pending_review",
+    "discoveredVia": "https://squishyidea.com/templates",
+    "firstSeenAt": "2026-11-14T15:56:12.961361+00:00",
+    "lastSeenAt": "2026-11-14T15:56:12.961361+00:00",
+    "lastReviewAttempt": "2026-11-14T15:56:51.551174+00:00",
+    "reviewNote": "Free download form evidence missing"
+  },
+  {
+    "id": "edd98f00c1009aa8",
+    "sourceId": "squishyidea",
+    "creator": "SQUISHY IDEA",
+    "title": "kawaii paper squishy templates",
+    "url": "https://squishyidea.com/templates/kawaii-paper-squishy-templates",
+    "sourcePublishedAt": null,
+    "status": "pending_review",
+    "discoveredVia": "https://squishyidea.com/templates",
+    "firstSeenAt": "2026-11-14T15:56:12.961361+00:00",
+    "lastSeenAt": "2026-11-14T15:56:12.961361+00:00",
+    "lastReviewAttempt": "2026-11-14T15:56:51.551174+00:00",
+    "reviewNote": "Free download form evidence missing"
   }
 ]
