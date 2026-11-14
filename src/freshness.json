@@ -1,181 +1,182 @@
 {
-  "lastSuccessfulCheck": "2026-11-13T17:17:07.093901+00:00",
+  "lastSuccessfulCheck": "2026-11-14T01:29:46.537182+00:00",
   "source": "https://hyeriming.com/ko/squishy/",
   "listings": 239,
   "detailChecks": 12,
   "otherSourceChecks": [
     {
-      "id": "feed-e07e03f5234c4e58",
+      "id": "feed-f54ca72cf1d838ed",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-e0c9a80fd0976a67",
+      "id": "feed-f840cba85a5b2dc3",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-e2804c582470e315",
+      "id": "feed-f9bf3bea1bbbd51b",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-e3169b1a5c141eb6",
+      "id": "feed-fb8f697ce29de712",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-e40233c49e23015c",
+      "id": "feed-fbe029b511a60256",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-e5a5196b3041695f",
+      "id": "feed-fc6c108be87d36bd",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-e68b816c39101a63",
+      "id": "feed-fd0cc6ab5fef005e",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-e7ea52e56c597665",
+      "id": "feed-ff5cbf1449d57acd",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-e8f8c918e3d66dba",
+      "id": "feed-ffd6ec66544ad9b5",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-e9147f5acdab6486",
+      "id": "findyourfidget-butter",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-eba2e4e32d8eb1e1",
+      "id": "findyourfidget-candy-bag",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-ed1cc31e26257561",
+      "id": "funnysquishy-dumpling-toast-sheet",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-edc021fb5476a657",
+      "id": "gripipi-haerin-book",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-edfd75c6ac70d696",
+      "id": "gripipi-rice-house",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-ef28ad4cbad936dc",
+      "id": "gripipi-unicorn-house",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-efe07a45a0295b0b",
+      "id": "gripipi-unicorn-wallet",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-f00aa9fc573a8eb6",
+      "id": "h-squishy0037",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-f079b3c0d382cb86",
+      "id": "h-squishy0055",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-f1701086027b79b7",
+      "id": "h-squishySet0003",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-f1cfd8da4bfde2ba",
+      "id": "heedal-sanrio-donuts",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-f1feb8fc3eacbefc",
+      "id": "leesaem-rabbit",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-f2700aa26663bb55",
+      "id": "makeit-winter-snacks",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     },
     {
-      "id": "feed-f3d60a62523935eb",
-      "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "id": "marys-printables-paper-squishy-maker",
+      "status": "unverified",
+      "checkedAt": "2026-11-14",
+      "httpStatus": 403,
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-10-24T13:36:41Z"
     },
     {
-      "id": "feed-f3dc64b50ad7d383",
+      "id": "morongborong-10-bakery-cafe-book",
       "status": "reachable",
-      "checkedAt": "2026-11-13",
+      "checkedAt": "2026-11-14",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-13"
+      "lastConfirmedAt": "2026-11-14"
     }
   ],
   "schedule": "Daily 06:23 Asia/Seoul",
   "scope": "Approved source catalog names and links; rotating detail checks; no pattern redistribution.",
-  "lastAttempt": "2026-11-13T17:17:07.093901+00:00",
+  "lastAttempt": "2026-11-14T01:29:46.537182+00:00",
   "primaryStatus": "reachable",
-  "partialFailure": false
+  "partialFailure": true
 }
