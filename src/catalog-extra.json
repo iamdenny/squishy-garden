@@ -42,15 +42,15 @@
     "difficulty": "unknown",
     "access": "paid",
     "rights": "source-only",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "thumbnail": "https://sowonyplayground.com/data/item/1742360912/64us7L2k6rKM7J6E67aB.jpg",
     "firstSeenAt": "2026-10-22",
     "craftType": "book",
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -58,7 +58,7 @@
       "checkedAt": "2026-10-23T14:59:50.093933+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742360912"
     },
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "pokemon-bread",
@@ -2216,11 +2216,11 @@
     },
     "health": {
       "status": "unverified",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
       "lastConfirmedAt": "2026-10-23"
     },
-    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "feed-8c00279888495e28",
@@ -12446,7 +12446,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1790815556/64uk7Jq066Gc65Oc7I2464Sk7J282.png",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12455,9 +12455,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12465,7 +12465,7 @@
       "checkedAt": "2026-10-23T14:59:04.554742+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1790815556"
     },
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1776837137",
@@ -12485,7 +12485,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1776837137/7Y647J2Y7KCQ64Og64Og7Iqk7YC07Iuc.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12494,9 +12494,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12504,7 +12504,7 @@
       "checkedAt": "2026-10-23T14:59:06.020569+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1776837137"
     },
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1758070134",
@@ -12524,7 +12524,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1758070134/656c642k7Iqk7YC07Iuc67CV7Iqk_7YOQ7ZeY.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12533,9 +12533,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12543,7 +12543,7 @@
       "checkedAt": "2026-10-23T14:59:07.461882+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1758070134"
     },
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742808107",
@@ -12563,7 +12563,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742808107/7LK066as64W47Yq467aB.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12572,9 +12572,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12582,7 +12582,7 @@
       "checkedAt": "2026-10-23T14:59:09.132213+00:00",
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742808107"
     },
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742723914",
@@ -12602,7 +12602,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742723914/66q97LCc7KeI67Cp.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12611,9 +12611,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12622,7 +12622,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742723914"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742723791",
@@ -12642,7 +12642,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742723791/7IKw7YOA7ZWZ6rWQ.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12651,9 +12651,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12662,7 +12662,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742723791"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742722668",
@@ -12682,7 +12682,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742722668/7Jqw7YyM66Oo7YyM.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12691,9 +12691,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12702,7 +12702,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742722668"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742722270",
@@ -12722,7 +12722,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742722270/67aV7Ja067m17LaV7KCc.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12731,9 +12731,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12742,7 +12742,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742722270"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742722036",
@@ -12762,7 +12762,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742722036/67m867m866Gx7Iqk.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12771,9 +12771,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12782,7 +12782,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742722036"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742719170",
@@ -12802,7 +12802,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742719170/7ZWg66Gc7JyI66eI64WA7J2Y7Yyo7IWY7IO1.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12811,9 +12811,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12822,7 +12822,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742719170"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742718923",
@@ -12842,7 +12842,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742718923/64yV64yV7LyA7Ja07IK066Gx.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12851,9 +12851,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12862,7 +12862,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742718923"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742718199",
@@ -12882,7 +12882,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742718199/7IOd7J287LaV7ZWY7YyM7Yuw.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12891,9 +12891,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12902,7 +12902,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742718199"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742717685",
@@ -12922,7 +12922,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742717685/64E7Yag66as64uk66eI6rOg7LmY.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12931,9 +12931,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12942,7 +12942,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742717685"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742714887",
@@ -12962,7 +12962,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742714887/64us7Yag6rm97J2065ah7KeR.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -12971,9 +12971,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -12982,7 +12982,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742714887"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742713853",
@@ -13002,7 +13002,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742713853/6rWs66aE7JqU7KCV66q97YKk7Iqk.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -13011,9 +13011,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -13022,7 +13022,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742713853"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742713310",
@@ -13042,7 +13042,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742713310/7Jqw7KO866CI7J247KCA.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -13051,9 +13051,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -13062,7 +13062,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742713310"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742713157",
@@ -13082,7 +13082,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742713157/7ZW07Lap7Ye07LmY64yA7J6R7KCE.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -13091,9 +13091,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -13102,7 +13102,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742713157"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742712907",
@@ -13122,7 +13122,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742712907/7IiY67CV7IaM64uk7KeR6r646646riw.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -13131,9 +13131,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -13142,7 +13142,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742712907"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742712196",
@@ -13162,7 +13162,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742712196/7LqQ66as67mE7JWI7Yag7Yag7JuM7YSw7YyM7YGs.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -13171,9 +13171,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -13182,7 +13182,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742712196"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742711728",
@@ -13202,7 +13202,7 @@
     "access": "paid",
     "rights": "source-only",
     "thumbnail": "https://sowonyplayground.com/data/item/1742711728/7J207IOB7ZWc64KY65287J2Y7JWo66as7Iqk.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -13211,9 +13211,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-product-page-v1",
@@ -13222,7 +13222,7 @@
       "sourceUrl": "https://www.sowonyplayground.com/shop/1742711728"
     },
     "craftType": "book",
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "sowony-1742711543",
@@ -14637,7 +14637,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FCAHuZ%2FbtrQPeNJ5fn%2FAAAAAAAAAAAAAAAAAAAAANErOW9KXNspvCZE6GF8ZHMggo9hVXMorfWr3AogZCuY%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DiHzDdl3SlTfWQpMFL5zHs4jNugg%253D",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-23",
     "tags": [
       "스퀴시",
@@ -14646,9 +14646,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-archive-article-v1",
@@ -14656,7 +14656,7 @@
       "checkedAt": "2026-10-23T14:56:52.166161+00:00",
       "sourceUrl": "https://ryongryongkid.tistory.com/451"
     },
-    "lastCheckAttempt": "2026-11-04T17:23:09.862426+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "archive-66f01e576628e4f6",
@@ -16704,7 +16704,7 @@
     "access": "free",
     "rights": "source-only",
     "thumbnail": "https://squishy-butter.com/img/og-image.jpg",
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-16",
     "firstSeenAt": "2026-10-24",
     "tags": [
       "스퀴시",
@@ -16713,9 +16713,9 @@
     ],
     "health": {
       "status": "reachable",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-16",
       "lastConfirmedStatus": "reachable",
-      "lastConfirmedAt": "2026-11-04"
+      "lastConfirmedAt": "2026-11-16"
     },
     "verification": {
       "method": "editorial-source-review",
@@ -16724,7 +16724,7 @@
       "sourceUrl": "https://www.squishy-butter.com/diy/",
       "detail": "One free browser tool/page with 100 selectable butter-wrapper designs and a coloring sheet; exports an A4 or US Letter PDF. Counted as one collection resource."
     },
-    "lastCheckAttempt": "2026-11-04T01:29:31.558640+00:00"
+    "lastCheckAttempt": "2026-11-16T01:09:09.164250+00:00"
   },
   {
     "id": "cubimini-paper-squishmallows",
