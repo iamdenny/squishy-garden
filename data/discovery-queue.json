@@ -357,7 +357,7 @@
     "reviewedAt": "2026-10-24",
     "status": "published",
     "reviewNote": "Verified the creator’s pattern-download post for a tteokbokki-shop squishy book; linked to 17.73 MB ZIP and tutorial. Commercial use/modification prohibited; creator attribution requested. Download not opened or copied.",
-    "lastSeenAt": "2026-11-18T03:00:10.169244+00:00",
+    "lastSeenAt": "2026-11-18T18:19:28.745098+00:00",
     "title": "말랑말랑 쫀득쫀득! '모보 떡볶이가게' #스퀴시북DIY 신나는 역할놀이!",
     "lastReviewAttempt": "2026-10-24T23:26:50.396621+00:00",
     "creator": "모롱보롱 · morongborong"
@@ -7183,8 +7183,8 @@
     "status": "pending_review",
     "discoveredVia": "https://squishyidea.com/templates",
     "firstSeenAt": "2026-11-14T15:56:12.961361+00:00",
-    "lastSeenAt": "2026-11-18T03:00:10.169244+00:00",
-    "lastReviewAttempt": "2026-11-18T03:00:49.809408+00:00",
+    "lastSeenAt": "2026-11-18T18:19:28.745098+00:00",
+    "lastReviewAttempt": "2026-11-18T18:20:09.214554+00:00",
     "reviewNote": "Free download form evidence missing"
   },
   {
@@ -7197,8 +7197,8 @@
     "status": "pending_review",
     "discoveredVia": "https://squishyidea.com/templates",
     "firstSeenAt": "2026-11-14T15:56:12.961361+00:00",
-    "lastSeenAt": "2026-11-18T03:00:10.169244+00:00",
-    "lastReviewAttempt": "2026-11-18T03:00:49.809408+00:00",
+    "lastSeenAt": "2026-11-18T18:19:28.745098+00:00",
+    "lastReviewAttempt": "2026-11-18T18:20:09.214554+00:00",
     "reviewNote": "Free download form evidence missing"
   },
   {
@@ -7211,8 +7211,8 @@
     "status": "pending_review",
     "discoveredVia": "https://squishyidea.com/templates",
     "firstSeenAt": "2026-11-15T16:30:31.498079+00:00",
-    "lastSeenAt": "2026-11-18T03:00:10.169244+00:00",
-    "lastReviewAttempt": "2026-11-18T03:00:49.809408+00:00",
+    "lastSeenAt": "2026-11-18T18:19:28.745098+00:00",
+    "lastReviewAttempt": "2026-11-18T18:20:09.214554+00:00",
     "reviewNote": "Free download form evidence missing"
   },
   {
@@ -7227,6 +7227,33 @@
     "firstSeenAt": "2026-11-17T18:42:26.403345+00:00",
     "lastSeenAt": "2026-11-17T18:42:26.403345+00:00",
     "lastReviewAttempt": "2026-11-17T18:43:08.385783+00:00",
+    "reviewNote": "Source title, free-template claim and in-article printable evidence verified"
+  },
+  {
+    "id": "35e933b3aaeb1bc3",
+    "sourceId": "zzoangland",
+    "creator": "쪼앙랜드 · zzoangland",
+    "title": "행운을 가져다 주는 행운의 거북이 만들기 미니 스퀴시 무료 도안",
+    "url": "https://chohwa.tistory.com/420",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 15:59:56 +0900",
+    "status": "published",
+    "firstSeenAt": "2026-11-18T18:19:28.745098+00:00",
+    "lastSeenAt": "2026-11-18T18:19:28.745098+00:00",
+    "lastReviewAttempt": "2026-11-18T18:20:09.214554+00:00",
+    "reviewNote": "Source title, free-template claim and in-article printable evidence verified"
+  },
+  {
+    "id": "fba5f3166cb23d6c",
+    "sourceId": "squishyguide",
+    "creator": "SquishyGuide",
+    "title": "Camping fire paper squishy printable preview",
+    "url": "https://www.squishyguide.com/en/templates/campfire-paper-squishy",
+    "sourcePublishedAt": null,
+    "status": "published",
+    "discoveredVia": "https://www.squishyguide.com/en/download-pack/",
+    "firstSeenAt": "2026-11-18T18:19:28.745098+00:00",
+    "lastSeenAt": "2026-11-18T18:19:28.745098+00:00",
+    "lastReviewAttempt": "2026-11-18T18:20:09.214554+00:00",
     "reviewNote": "Source title, free-template claim and in-article printable evidence verified"
   }
 ]
